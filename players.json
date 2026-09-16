@@ -6455,8 +6455,8 @@
   ],
   "catalog": {
     "title": "ウイイレ2020 日本代表エディット図鑑",
-    "version": "1.5.0",
-    "updated_at": "2026-09-16T07:22:19.048187+00:00",
+    "version": "1.5.1",
+    "updated_at": "2026-09-16T08:09:18.841121+00:00",
     "site_project_id": "appgprj_6aa9d6dd0e8481918a538a8d49a4ab2d",
     "registration_order": [
       {
@@ -6623,6 +6623,16 @@
           "能力は独自査定、外見は実機未確認。実機完成見本と顔パーツ番号は未登録。",
           "各選手の正面・横顔のAI参考画像を1枚ずつ追加。実機再現結果ではない。"
         ]
+      },
+      {
+        "version": "1.5.1",
+        "date": "2026-09-16T08:09:18.841121+00:00",
+        "player_ids": [],
+        "changes": [
+          "iPhone Safariで選手一覧の写真が途中で切れる問題に対応し、画像の高さ指定を背景画像による表示に変更。",
+          "写真左下の年表示と、選手詳細の「入力前の確認事項」を非表示。",
+          "全10選手のデータと参考画像ファイルは変更せず保持。"
+        ]
       }
     ],
     "handoff_documents": [
@@ -6655,9 +6665,11 @@
       "show_image_disclaimer": false,
       "show_unset_overall_rating": false,
       "approved_reference_image_unchanged": false,
-      "updated_by": "2026-09-16 ユーザーのデザイン・表示変更指示および再現年度の所属ユニフォームへの変更指示",
+      "updated_by": "2026-09-16 ユーザー指示：iPhoneでの画像の途中切れを修正、写真左下の年表示と入力前の確認事項を削除",
       "precedence": "今回の表示指定を優先。選手データ内の元の注意書き・出典・画像区分は変更せず保持する。",
-      "reference_image_edit_scope": "uniform_only"
+      "reference_image_edit_scope": "uniform_only",
+      "show_card_image_year": false,
+      "show_edit_notes": false
     },
     "research_documents": [
       {
