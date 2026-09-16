@@ -6455,8 +6455,8 @@
   ],
   "catalog": {
     "title": "ウイイレ2020 日本代表エディット図鑑",
-    "version": "1.5.1",
-    "updated_at": "2026-09-16T08:09:18.841121+00:00",
+    "version": "1.5.2",
+    "updated_at": "2026-09-16T08:23:14.142735+00:00",
     "site_project_id": "appgprj_6aa9d6dd0e8481918a538a8d49a4ab2d",
     "registration_order": [
       {
@@ -6633,6 +6633,16 @@
           "写真左下の年表示と、選手詳細の「入力前の確認事項」を非表示。",
           "全10選手のデータと参考画像ファイルは変更せず保持。"
         ]
+      },
+      {
+        "version": "1.5.2",
+        "date": "2026-09-16T08:23:14.142735+00:00",
+        "player_ids": [],
+        "changes": [
+          "選手一覧の長い名前を姓・名の区切りで折り返す表示に変更。三都主／アレサンドロのように表示。",
+          "一覧見出し下の「あのシーズンの選手を、手元のエディットに。」を削除し、余白を縮小。",
+          "全10選手の設定値と画像を変更せず保持。"
+        ]
       }
     ],
     "handoff_documents": [
@@ -6665,11 +6675,13 @@
       "show_image_disclaimer": false,
       "show_unset_overall_rating": false,
       "approved_reference_image_unchanged": false,
-      "updated_by": "2026-09-16 ユーザー指示：iPhoneでの画像の途中切れを修正、写真左下の年表示と入力前の確認事項を削除",
+      "updated_by": "2026-09-16 ユーザー指示：スマホの選手名を姓・名の区切りで折り返し、一覧の紹介文とその余白を削除",
       "precedence": "今回の表示指定を優先。選手データ内の元の注意書き・出典・画像区分は変更せず保持する。",
       "reference_image_edit_scope": "uniform_only",
       "show_card_image_year": false,
-      "show_edit_notes": false
+      "show_edit_notes": false,
+      "card_name_wrap": "surname_and_given_name",
+      "show_list_tagline": false
     },
     "research_documents": [
       {
