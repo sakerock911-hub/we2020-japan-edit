@@ -16742,12 +16742,1506 @@
         "我那覇",
         "和樹"
       ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "CF",
+            "main": true,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "ST",
+            "main": false,
+            "suitability": "準適性"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "ペナルティーエリア中央からDFの背後へ動き、クロスやこぼれ球を少ないタッチでシュートへつなげます。前線で体を張る強さを持たせ、細かな運びや組み立ては控えめにします。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 84
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 73
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 69
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 67
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 62
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 55
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 85
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 83
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 50
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 58
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 81
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 79
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 84
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 82
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 84
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 70
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 80
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 42
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 44
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 80
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 2
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 2
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 7
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "決定力85・オフェンス84で23得点を挙げた得点力を表現。ヘディング83・フィジカル84・キック力84を高め、スピード81・瞬発力79で背後への動きも残します。パスと細かなドリブルは抑え、エリア内のフィニッシュに特徴を寄せた独自査定。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 183,
+        "weight_kg": 75,
+        "note": "太めの首と広い肩、厚い胸、発達した太ももを持つ力強い体形。身長・体重は2014年1月資料からの仮入力。各調整値は実機未確認の開始案。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": -1
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": 2
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 2
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 2
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": 0
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": 1
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 2
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 1
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 0
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 0
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "縦長寄りの骨太な顔、濃く直線的な眉、細めの目、幅のある鼻、張りのあるあご。頭を短く刈り、口元とあごのヒゲを残す2013年の外観。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "自然に日焼けした肌色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "横長で細め。目尻をやや下げる"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "下まぶたに軽く厚みをつける"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "こげ茶"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "太く濃く、直線的な形"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "鼻筋に高さと幅を残す"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "薄め〜中程度"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "中程度で軽く厚みを残す"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬の肉を抑え、骨格を軽く出す"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "あご先とエラをしっかり残す"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 1
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": 0
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 1
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 2
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 2
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": 0
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 0
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 1
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": 1
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": 2
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "2013年当時の非常に短い黒髪。頭の丸みが分かる均一な丸刈りを目安にします。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "丸刈り"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ベリーショート"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 0
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "前髪を作らない"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "なし"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "広め"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "全体を非常に短く揃える"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "黒"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "口ヒゲとあごヒゲ"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "普通"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "当年の着用モデル・色は未確認。ゲーム内で黒系を仮選択"
+          }
+        ]
+      },
+      "id": "kengo-kawamata-2013-albirex-niigata",
+      "name": "川又 堅碁",
+      "name_kana": "かわまた けんご",
+      "name_english": "KENGO KAWAMATA",
+      "shirt_name": "KAWAMATA",
+      "nationality": "日本",
+      "era": {
+        "year": 2013,
+        "season": "2013",
+        "label": "2013年・アルビレックス新潟",
+        "club": "アルビレックス新潟",
+        "selection_reason": "新潟でJ1の32試合に出場し、23得点を挙げた2013年版。左足での力強いフィニッシュとクロスに飛び込む迫力を軸に、ゴール前で勝負するストライカーとして再現します。",
+        "reason_source_ids": [
+          "kawamata_albirex_20140113",
+          "kawamata_jleague"
+        ],
+        "source_check_status": "承認済み候補の順で追加。当年資料と前後年資料、未確認項目を区別。"
+      },
+      "profile": {
+        "age": 24,
+        "height_cm": 183,
+        "weight_kg": 75,
+        "dominant_foot": "左",
+        "main_position": "CF",
+        "shirt_number": 20,
+        "source_status": "2013年の32試合23得点は新潟公式とJリーグ公式で確認。183cm・75kgは2014年1月13日の新潟公式契約更新資料から仮採用し、2013年登録値としては未確定。背番号20はシーズン当時の写真と2014年4月の公式発表を参照。左利き・KAWAMATAのシャツ表記は当年一次資料による照合が未完了。年齢24歳は2013年12月7日時点。",
+        "birth_date": "1989-10-14",
+        "age_reference_date": "2013-12-07",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "ラインブレイカー",
+        "reason": "ペナルティーエリア中央からDFの背後へ動き、クロスやこぼれ球を少ないタッチでシュートへつなげます。前線で体を張る強さを持たせ、細かな運びや組み立ては控えめにします。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "ワンタッチシュート",
+            "purpose": "クロスやこぼれ球を素早く打ち切る"
+          },
+          {
+            "name": "ヘッダー",
+            "purpose": "ゴール前でクロスに強く合わせる"
+          },
+          {
+            "name": "アクロバティックシュート",
+            "purpose": "難しい体勢からもシュートを狙う"
+          },
+          {
+            "name": "闘争心",
+            "purpose": "前線で接触を受けながらゴールへ向かう"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/kawamata-2013-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2013年の川又 堅碁を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "tool": "image_gen",
+          "created_at": "2026-09-17",
+          "prompt": "Use case: stylized-concept / identity-preserve.\nTransform the supplied period photograph of Kengo Kawamata (川又堅碁) into one standalone 1536x1024 landscape face-edit reference image: the Japanese Albirex Niigata striker in late 2013, age24. Preserve his distinctive identity and historical appearance from this source photograph; this is a realistic PS4-era Winning Eleven/PES football-game 3D character, naturally modelled skin and restrained realistic game rendering, not a flat photo, not anime, not a generic athlete.\nComposition: exactly TWO EQUAL vertical panels, each768x1024, with the same man and the same scale in both. LEFT panel is perfectly straight-on FRONT, eyes at camera, no head tilt. RIGHT panel is a STRICT90-degree side profile facing RIGHT, only the near eye visible and nose points exactly to the right; torso and head both turned90degrees. Neutral closed mouth. Shoulders and upper chest included; both entire heads, scalp, ears and full hair silhouette inside the frame with comfortable margin. Matching eye level and chin height. Soft even studio illumination, plain neutral muted gray-blue background in both panels. No captions, no labels, no UI, no frames, no watermark.\nIdentity from reference: long oval angular face, tan warm skin, strong brow and dark slightly close-set almond eyes, prominent ears, broad angular jaw narrowing into distinct chin. Completely close buzz/shaved black scalp with visible very short stubble rather than polished baldness. Thin dark moustache, separate short narrow chin beard/soul-patch concentrated under lower lip and at tip of chin; cheeks clean, no full beard. Keep the youthful but rugged 24-year-old face and protruding medium broad nose. Reconstruct the unseen strict side view conservatively from the same facial identity.\nClothing: exact2013 Albirex Niigata HOME kit visible in source: vivid orange Adidas jersey, subtle narrow vertical orange pinstripes, white fold-over polo collar with bright royal-blue stripe near its outer edge, short white central placket, three royal-blue shoulder stripes and fine pale piping. Correct historical Albirex blue/orange shield on left breast, small white Adidas on right breast, white sponsor rectangle with red 亀田製菓 across chest and white number20 lower on chest if within crop. Treat kit markings as authentic small jersey details, not labels outside the garment. Keep details subordinate to readable face.\nDeliver only this one composed two-view image.",
+          "generation_count": 1,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "period": "2013",
+          "uniform": {
+            "club": "アルビレックス新潟",
+            "season": "2013",
+            "type": "ホーム",
+            "description": "Orange2013home shirt and period white/blue polo collar."
+          },
+          "sources": [
+            {
+              "source_page_url": "https://sports.yahoo.co.jp/column/detail/201311060003-spnavi",
+              "title": "普通の感覚を取り戻した新潟・川又堅碁＝代表選出は着実なレベルアップのあとに",
+              "publisher": "Sports Navi",
+              "publication_date": "2013-11-06",
+              "image_url": "https://sports-pctr.c.yimg.jp/vrwP1cu9cY2YL4Fg3aXpJtHyHIQWv4q0Pd5fNOzmBc8XbzOVWbLmaFunUeb3t_QWoIC7p_AU264mAT-0tGR9kOR16F3LdkR6FhMvB0DxcS23vgAjqn5JNhDSJrd-vVaXGuVWzSx_AsEeR_I7O3pHxdtnVtKWq279zVBLrY2G82j1cnWyGd8AMJciprNIp_HN",
+              "image_capture_date": null,
+              "date_basis": "Dated2013article; exact date of match photograph not identified",
+              "local_reference": "/workspace/scratch/165aae4b3a27/player-images-batch6/kawamata-2013-action.jpg",
+              "observations": "Close-shaven black scalp, thin moustache and small chin hair. Orange home jersey with narrow vertical pinstripes, white polo collar edged blue, three blue Adidas shoulder stripes, white/red Kameda sponsor.20 visible.",
+              "uncertainty": "Exact match/photo date unavailable; facial proportions affected by action pose."
+            },
+            {
+              "source_page_url": "https://www.albirex.co.jp/news/40859/",
+              "title": "契約更新選手のお知らせ（1月13日）",
+              "publisher": "Albirex Niigata official",
+              "publication_date": "2014-01-13",
+              "image_url": "https://www.albirex.co.jp/files/image/40859/1/original.jpg",
+              "image_capture_date": null,
+              "date_basis": "Official contract renewal immediately following2013; match photograph visibly matches2013home kit",
+              "local_reference": "/workspace/scratch/165aae4b3a27/player-images-batch6/kawamata-period.jpg",
+              "observations": "Clear three-quarter face with prominent ears, strong brows, shaved scalp, thin moustache, pointed small chin beard; orange2013home shirt.",
+              "uncertainty": "Photo inferred to show preceding2013season from kit and timing; no capture date stated.",
+              "facts": {
+                "birth_date": "1989-10-14",
+                "height_cm": 183,
+                "weight_kg": 75,
+                "age": 24
+              }
+            },
+            {
+              "source_page_url": "https://www.albirex.co.jp/news/41562/",
+              "title": "川又 堅碁選手 日本代表候補 トレーニングキャンプメンバーに選出",
+              "publisher": "Albirex Niigata official",
+              "publication_date": "2014-04-03",
+              "image_url": "https://www.albirex.co.jp/uploads/d9832e5e5f55bc82595809e638aa7a7e1289d8fe/original.jpg",
+              "role": "Nearby-period biographical corroboration only; this2014kit photograph not used as generation input",
+              "facts": {
+                "shirt_number": 20,
+                "height_cm": 183,
+                "weight_kg": 75,
+                "birth_date": "1989-10-14"
+              }
+            }
+          ],
+          "limitations": [
+            "Generated reconstruction, not official game render or biometric scan.",
+            "Strict90-degree right view was requested but the output is a slightly oblique profile; retained due to exact one-call budget.",
+            "Facial microdetail and unseen side anatomy inferred.",
+            "Jersey badge and sponsorship artwork are approximations.",
+            "24 refers to late2013after October14."
+          ],
+          "qa": {
+            "inspected": true,
+            "equal_panels": true,
+            "front_view": true,
+            "right_facing_view": true,
+            "strict_90_degree_profile": "partial: right head appears slightly turned toward viewer; near-profile rather than exact orthographic90degrees",
+            "full_hair_inside_frame": true,
+            "neutral_background": true,
+            "shoulders_and_chest": true,
+            "period_hair_and_facial_hair": "Pass; chin beard slightly fuller than reference",
+            "same_person_consistency": "Visually coherent across both views",
+            "likeness": "Recognizable period traits reproduced; AI approximation",
+            "style": "Very realistic rendered game-reference style, tending photoreal",
+            "captions_or_ui": false,
+            "kit": "Historical colors/collar/pinstripes/sponsor retained; badge and tiny lettering reconstructed"
+          },
+          "is_in_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "kawamata_albirex_20140113",
+          "publisher": "アルビレックス新潟・契約更新発表（2014年1月13日）",
+          "url": "https://www.albirex.co.jp/news/40859/",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "1989年10月14日生",
+            "183cm・75kg（2014年1月発表）",
+            "2013年J1・32試合23得点"
+          ],
+          "caveat": "身体値は2013年の翌年資料。2013年登録値と同一と断定しない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "kawamata_jleague",
+          "publisher": "Jリーグ公式・川又堅碁 年度別成績",
+          "url": "https://data.j-league.or.jp/SFIX04/?player_id=8968",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2013年の新潟所属・J1の32試合23得点",
+            "生年月日"
+          ],
+          "caveat": "ページ上部の現行身体値は2013年版に転用しない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "kawamata_albirex_20140403",
+          "publisher": "アルビレックス新潟・日本代表候補選出（2014年4月3日）",
+          "url": "https://www.albirex.co.jp/news/41562/",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2014年新潟の背番号20"
+          ],
+          "caveat": "2013年の背番号は当時の写真も参照。",
+          "game_values_verified": false
+        },
+        {
+          "id": "kawamata-2013_appearance_1",
+          "publisher": "Sports Navi",
+          "url": "https://sports.yahoo.co.jp/column/detail/201311060003-spnavi",
+          "image_url": "https://sports-pctr.c.yimg.jp/vrwP1cu9cY2YL4Fg3aXpJtHyHIQWv4q0Pd5fNOzmBc8XbzOVWbLmaFunUeb3t_QWoIC7p_AU264mAT-0tGR9kOR16F3LdkR6FhMvB0DxcS23vgAjqn5JNhDSJrd-vVaXGuVWzSx_AsEeR_I7O3pHxdtnVtKWq279zVBLrY2G82j1cnWyGd8AMJciprNIp_HN",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Close-shaven black scalp, thin moustache and small chin hair. Orange home jersey with narrow vertical pinstripes, white polo collar edged blue, three blue Adidas shoulder stripes, white/red Kameda sponsor.20 visible.",
+            "写真の時期：Dated2013article; exact date of match photograph not identified"
+          ],
+          "caveat": "Exact match/photo date unavailable; facial proportions affected by action pose.",
+          "game_values_verified": false
+        },
+        {
+          "id": "kawamata-2013_appearance_2",
+          "publisher": "Albirex Niigata official",
+          "url": "https://www.albirex.co.jp/news/40859/",
+          "image_url": "https://www.albirex.co.jp/files/image/40859/1/original.jpg",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Clear three-quarter face with prominent ears, strong brows, shaved scalp, thin moustache, pointed small chin beard; orange2013home shirt.",
+            "写真の時期：Official contract renewal immediately following2013; match photograph visibly matches2013home kit"
+          ],
+          "caveat": "Photo inferred to show preceding2013season from kit and timing; no capture date stated.",
+          "game_values_verified": false
+        },
+        {
+          "id": "kawamata-2013_appearance_3",
+          "publisher": "Albirex Niigata official",
+          "url": "https://www.albirex.co.jp/news/41562/",
+          "image_url": "https://www.albirex.co.jp/uploads/d9832e5e5f55bc82595809e638aa7a7e1289d8fe/original.jpg",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Nearby-period biographical corroboration only; this2014kit photograph not used as generation input",
+            "写真の時期：2014-04-03"
+          ],
+          "caveat": "外観資料。ゲーム能力や顔パーツ番号の根拠ではない。",
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "2013年の32試合23得点は新潟公式とJリーグ公式で確認。183cm・75kgは2014年1月13日の新潟公式契約更新資料から仮採用し、2013年登録値としては未確定。背番号20はシーズン当時の写真と2014年4月の公式発表を参照。左利き・KAWAMATAのシャツ表記は当年一次資料による照合が未完了。年齢24歳は2013年12月7日時点。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存25人と同じ形式で、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査。PS4の項目・選択肢・範囲は実機未照合。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "対象シーズンの身体値・利き足・シャツネームの一次資料照合"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "川又",
+        "堅碁"
+      ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "CF",
+            "main": true,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "ST",
+            "main": false,
+            "suitability": "適性あり"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "CFまたはSTで相方の周囲を走り、斜めの動きで最終ラインの背後を狙います。加速と運動量を高め、ボールを失った直後の追走も表現します。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 81
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 74
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 76
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 71
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 67
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 60
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 78
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 72
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 52
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 58
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 84
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 85
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 77
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 76
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 72
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 78
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 84
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 47
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 48
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 78
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 2
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 2
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 6
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "スピード84・瞬発力85・スタミナ84で走り続ける若いFWを表現。オフェンス81・決定力78とし、川又版より飛び出しと加速に比重を置きます。高さと接触の強さは標準的にし、追走はアグレッシブネス78とチェイシングで補う独自査定。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 180,
+        "weight_kg": 75,
+        "note": "肩と胸を大きくしすぎず、脚の長さと走るときの軽さを残した均整の取れた体形。180cm・75kgは後年の公式紹介からの仮入力。各調整値は実機未確認の開始案。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 0
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 0
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 0
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": -1
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": 0
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 1
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 0
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 1
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 0
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "やや縦長の卵形の顔、明るい肌、はっきりした目元、通った鼻筋、小さめのあご。2005年の茶色いミディアムヘアと若い輪郭を目安にします。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "明るめで自然な肌色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "二重の線が見える、はっきりした目元"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "薄く自然なライン"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "こげ茶"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "中程度の太さで自然な弧"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "細めで高さのある鼻筋"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "薄めで輪郭を整える"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "中程度の厚さ"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬骨を出しすぎず若い丸みを残す"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "やや細いあご先。エラは弱め"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 1
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": -1
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 1
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": 0
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 0
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 0
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": -1
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 0
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 0
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": -1
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": -1
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "2005年の公式歴史写真を参考に、茶色のミディアムヘア。前髪を額に下ろし、横と襟足を残す軽いレイヤーを選びます。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ミディアム"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 1
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "額に下ろして軽く散らす"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "強い分け目なし"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "前髪で一部を覆う"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "耳にかかる長さ。襟足を残す"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "明るい茶色"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "なし"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "該当なし"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "なし"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "当年の着用モデル・色は未確認。ゲーム内で黒系を仮選択"
+          }
+        ]
+      },
+      "id": "robert-cullen-2005-jubilo-iwata",
+      "name": "カレン・ロバート",
+      "name_kana": "かれん ろばーと",
+      "name_english": "ROBERT CULLEN",
+      "shirt_name": "CULLEN",
+      "nationality": "日本",
+      "era": {
+        "year": 2005,
+        "season": "2005",
+        "label": "2005年・ジュビロ磐田",
+        "club": "ジュビロ磐田",
+        "selection_reason": "磐田でJ1の31試合に出場して13得点を挙げ、Jリーグ新人王を受賞した2005年版。スピードを生かす飛び出しと前線からの追走を中心に、若い時期の機動力を再現します。",
+        "reason_source_ids": [
+          "cullen_jleague",
+          "cullen_jubilo_history"
+        ],
+        "source_check_status": "承認済み候補の順で追加。当年資料と前後年資料、未確認項目を区別。"
+      },
+      "profile": {
+        "age": 20,
+        "height_cm": 180,
+        "weight_kg": 75,
+        "dominant_foot": "右",
+        "main_position": "CF",
+        "shirt_number": 22,
+        "source_status": "生年月日・2005年の31試合13得点はJリーグ公式、新人王と当時の外観・背番号22は磐田公式の歴史資料で確認。180cm・75kgはJリーグ最終所属プロフィールと本人が代表を務めるローヴァーズの紹介から仮採用し、2005年登録値としては未確定。右利きはサッカーキングの紹介で確認。CULLENのシャツ表記は当年未照合。年齢20歳は2005年12月3日時点。",
+        "birth_date": "1985-06-07",
+        "age_reference_date": "2005-12-03",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "ラインブレイカー",
+        "reason": "CFまたはSTで相方の周囲を走り、斜めの動きで最終ラインの背後を狙います。加速と運動量を高め、ボールを失った直後の追走も表現します。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "ワンタッチシュート",
+            "purpose": "飛び出しから素早くゴールへ合わせる"
+          },
+          {
+            "name": "チェイシング",
+            "purpose": "前線からボール保持者を追う"
+          },
+          {
+            "name": "アクロバティックシュート",
+            "purpose": "走り込みながら難しいボールに合わせる"
+          },
+          {
+            "name": "闘争心",
+            "purpose": "攻守で走り続ける"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/cullen-2005-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2005年のカレン・ロバートを想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "tool": "image_gen",
+          "created_at": "2026-09-17",
+          "prompt": "Use case: stylized-concept / identity-preserve.\nTransform these historical2005 source photographs into one standalone1536x1024 landscape face-edit reference image of Robert Cullen (カレン・ロバート), the Japanese Júbilo Iwata footballer at age20 in2005. The first input (formal award photograph,2005 J.League Rookie of the Year) is the main IDENTITY AND HAIRSTYLE reference. The second input (player22 in sky-blue shirt during2005 match) is the HOME JERSEY reference and additional youthful identity reference. Produce a realistic PS4-era Winning Eleven/PES football-game 3D character with faithful player-specific likeness, natural modeled skin, realistic game hair strands/clumps, no cartoon or anime look, no generic handsome face.\nComposition: exactlyTWO EQUAL vertical panels, each768x1024, same man and same scale. LEFT panel perfectly straight FRONT, eyes looking at camera, head vertical. RIGHT panel STRICT90-degree SIDE PROFILE facing RIGHT, only near eye visible, nose points right; head and torso turn90degrees together. Neutral closed mouth. Include shoulders and upper chest, entire head and ALL hair inside both panels with comfortable margins. Matching eye level and chin height. Soft even studio illumination, plain neutral muted gray-blue background in both halves. No captions, no labels, no UI, no frame, no watermark.\nPlayer: preserve the award-photo youthful20-year-old face: light skin with natural warm tone, relatively long oval face, slightly deep-set brown eyes, substantial straight brows, straight prominent nose and rounded tip, moderate cheek volume, well-defined but narrow jaw, small softly squared chin, medium lips, clean-shaven. His2005 medium-length chestnut-brown layered shag hair, dense top with separated tousled strands, long irregular side-swept fringe falling near eyebrows, sides over upper ears, longer soft layered nape. Avoid modern short sides, fade, slick hair, blond coloring, beard or older present-day features. Use the award photograph's brown hair shade and overall silhouette. Conservatively reconstruct unseen exact side anatomy from same identity.\nClothing:2005 Júbilo Iwata HOME shirt, sky/saxe-blue base with navy shoulder and underarm/side accents outlined by thin white piping, period Puma construction and small white Puma chest mark, original pre2014 Júbilo club crest on left breast. Small white neck edging, blue close V-shaped/crew hybrid sports collar matching2005 home top. Across the chest the historical white cursive sponsor 'Nestlé', with white22 lower on chest if within crop. A white sleeve patch with red YAMAHA when visible. Use2005 J.League sky-blue HOME design, not the navy special friendly shirt and not a modern Admiral or Yamaha-front shirt. Keep jersey details subordinate to the clear head reference.\nDeliver only this one composed two-view image.",
+          "generation_count": 1,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "period": "2005",
+          "uniform": {
+            "club": "ジュビロ磐田",
+            "season": "2005",
+            "type": "ホーム",
+            "description": "Sky/saxe-blue Puma2005home shirt with navy accents, white piping, Nestle chest sponsor and YAMAHA sleeve mark."
+          },
+          "sources": [
+            {
+              "source_page_url": "https://jubilo-iwata.co.jp/30th/history/",
+              "title": "歴史／クラブ年表 —2005",
+              "publisher": "Jubilo Iwata official30th anniversary archive",
+              "publication_date": null,
+              "period_label": "2005",
+              "image_url": "https://jubilo-iwata.co.jp/30th/assets/img/history/2005/img_history_2005_08.jpg",
+              "image_capture_date": null,
+              "date_basis": "Official archive explicitly locates image in2005section, next to Cullen Rookie of the Year honor",
+              "local_reference": "/workspace/scratch/165aae4b3a27/player-images-batch6/cullen-archive-08.jpg",
+              "observations": "Formal awards photograph: youthful clean-shaven Cullen; medium brown layered shaggy fringe, hair around upper ears and nape; longer oval face, prominent nose.",
+              "uncertainty": "Exact award-photo capture date not provided in archive; frontal photo only."
+            },
+            {
+              "source_page_url": "https://jubilo-iwata.co.jp/30th/history/",
+              "title": "歴史／クラブ年表 —2005",
+              "publisher": "Jubilo Iwata official30th anniversary archive",
+              "publication_date": null,
+              "period_label": "2005",
+              "image_url": "https://jubilo-iwata.co.jp/30th/assets/img/history/2005/img_history_2005_04.jpg",
+              "image_capture_date": null,
+              "date_basis": "Official2005section",
+              "local_reference": "/workspace/scratch/165aae4b3a27/player-images-batch6/cullen-archive-04.jpg",
+              "observations": "Player22(Cullen) with medium brown tousled hair. Sky-blue home shirt, navy sleeve/shoulder strip with white piping, redYAMAHA on white sleeve patch. White22 on back.",
+              "uncertainty": "Action profile partially obscured and head pitched down; exact match date unstated.",
+              "facts": {
+                "shirt_number": 22
+              }
+            },
+            {
+              "source_page_url": "https://jubilo-iwata.co.jp/30th/history/",
+              "title": "歴史／クラブ年表 —2005",
+              "publisher": "Jubilo Iwata official30th anniversary archive",
+              "publication_date": null,
+              "period_label": "2005",
+              "image_url": "https://jubilo-iwata.co.jp/30th/assets/img/history/2005/img_history_2005_02.jpg",
+              "image_capture_date": null,
+              "date_basis": "Official2005section",
+              "local_reference": "/workspace/scratch/165aae4b3a27/player-images-batch6/cullen-archive-02.jpg",
+              "observations": "Another Jubilo player, used only to corroborate home-shirt sky-blue base, navy side/sleeve construction, white piping and white sponsor.",
+              "uncertainty": "Not Cullen; does not inform face or hair."
+            }
+          ],
+          "limitations": [
+            "Generated reconstruction, not official game render or biometric scan.",
+            "Unseen side anatomy inferred from frontal and downward action views.",
+            "Hair volume exaggerated slightly relative to award photograph.",
+            "Fine crest and sponsor geometry not exact; generated Nestle wordmark is more block-like than historical cursive.",
+            "Official archive provides year grouping rather than individual capture dates.",
+            "Periodheight/weight/foot not verified in bounded research."
+          ],
+          "qa": {
+            "inspected": true,
+            "equal_panels": true,
+            "front_view": true,
+            "right_facing_view": true,
+            "strict_90_degree_profile": "Visually close to90degrees, only near eye visible",
+            "full_hair_inside_frame": true,
+            "neutral_background": true,
+            "shoulders_and_chest": true,
+            "period_hair_and_facial_hair": "Pass; generated hair more voluminous/tousled than formal reference",
+            "same_person_consistency": "Visually coherent across both views",
+            "likeness": "Period youthful identity traits reproduced; AI approximation",
+            "style": "Very realistic rendered game-reference style, tending photoreal",
+            "captions_or_ui": false,
+            "kit": "2005colors, navy accents, white piping and sponsors represented; crest/lettering approximated"
+          },
+          "is_in_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "cullen_jleague",
+          "publisher": "Jリーグ公式・カレン ロバート 年度別成績",
+          "url": "https://data.j-league.or.jp/SFIX04/?player_id=7682",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "1985年6月7日生",
+            "2005年磐田・J1の31試合13得点",
+            "最終所属プロフィールの180cm・75kg"
+          ],
+          "caveat": "身体値は2005年の登録値として未確定。",
+          "game_values_verified": false
+        },
+        {
+          "id": "cullen_jubilo_history",
+          "publisher": "ジュビロ磐田公式・30周年クラブ年表",
+          "url": "https://jubilo-iwata.co.jp/30th/history/",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2005年Jリーグ新人王受賞",
+            "2005年の外観・ホームユニフォーム・背番号22"
+          ],
+          "caveat": "",
+          "game_values_verified": false
+        },
+        {
+          "id": "cullen_rovers",
+          "publisher": "ローヴァーズ・アカデミー代表紹介",
+          "url": "https://rovers.co.jp/academy/staff/",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "1985年6月7日生、180cm・75kg",
+            "2005年13得点・新人王"
+          ],
+          "caveat": "後年の紹介。身体値を2005年登録値と同一と断定しない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "cullen_soccerking",
+          "publisher": "サッカーキング・カレン ロバート紹介",
+          "url": "https://www.soccer-king.jp/player/article/415975.html",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "利き足は右"
+          ],
+          "caveat": "二次資料。2005年当年の一次資料による利き足照合は未完了。",
+          "game_values_verified": false
+        },
+        {
+          "id": "cullen-2005_appearance_1",
+          "publisher": "Jubilo Iwata official30th anniversary archive",
+          "url": "https://jubilo-iwata.co.jp/30th/history/",
+          "image_url": "https://jubilo-iwata.co.jp/30th/assets/img/history/2005/img_history_2005_08.jpg",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Formal awards photograph: youthful clean-shaven Cullen; medium brown layered shaggy fringe, hair around upper ears and nape; longer oval face, prominent nose.",
+            "写真の時期：Official archive explicitly locates image in2005section, next to Cullen Rookie of the Year honor"
+          ],
+          "caveat": "Exact award-photo capture date not provided in archive; frontal photo only.",
+          "game_values_verified": false
+        },
+        {
+          "id": "cullen-2005_appearance_2",
+          "publisher": "Jubilo Iwata official30th anniversary archive",
+          "url": "https://jubilo-iwata.co.jp/30th/history/",
+          "image_url": "https://jubilo-iwata.co.jp/30th/assets/img/history/2005/img_history_2005_04.jpg",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Player22(Cullen) with medium brown tousled hair. Sky-blue home shirt, navy sleeve/shoulder strip with white piping, redYAMAHA on white sleeve patch. White22 on back.",
+            "写真の時期：Official2005section"
+          ],
+          "caveat": "Action profile partially obscured and head pitched down; exact match date unstated.",
+          "game_values_verified": false
+        },
+        {
+          "id": "cullen-2005_appearance_3",
+          "publisher": "Jubilo Iwata official30th anniversary archive",
+          "url": "https://jubilo-iwata.co.jp/30th/history/",
+          "image_url": "https://jubilo-iwata.co.jp/30th/assets/img/history/2005/img_history_2005_02.jpg",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Another Jubilo player, used only to corroborate home-shirt sky-blue base, navy side/sleeve construction, white piping and white sponsor.",
+            "写真の時期：Official2005section"
+          ],
+          "caveat": "Not Cullen; does not inform face or hair.",
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "生年月日・2005年の31試合13得点はJリーグ公式、新人王と当時の外観・背番号22は磐田公式の歴史資料で確認。180cm・75kgはJリーグ最終所属プロフィールと本人が代表を務めるローヴァーズの紹介から仮採用し、2005年登録値としては未確定。右利きはサッカーキングの紹介で確認。CULLENのシャツ表記は当年未照合。年齢20歳は2005年12月3日時点。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存25人と同じ形式で、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査。PS4の項目・選択肢・範囲は実機未照合。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "対象シーズンの身体値・利き足・シャツネームの一次資料照合"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "カレン",
+        "ロバート"
+      ]
     }
   ],
   "catalog": {
     "title": "ウイイレ2020 日本代表エディット図鑑",
-    "version": "1.9.0",
-    "updated_at": "2026-09-17T04:05:25.670492+00:00",
+    "version": "1.10.0",
+    "updated_at": "2026-09-17T09:09:33.775097+00:00",
     "site_project_id": "appgprj_6aa9d6dd0e8481918a538a8d49a4ab2d",
     "registration_order": [
       {
@@ -16874,6 +18368,16 @@
         "player_id": "kazuki-ganaha-2006-kawasaki-frontale",
         "order": 25,
         "added_at": "2026-09-17T04:05:25.670492+00:00"
+      },
+      {
+        "player_id": "kengo-kawamata-2013-albirex-niigata",
+        "order": 26,
+        "added_at": "2026-09-17T09:09:33.775097+00:00"
+      },
+      {
+        "player_id": "robert-cullen-2005-jubilo-iwata",
+        "order": 27,
+        "added_at": "2026-09-17T09:09:33.775097+00:00"
       }
     ],
     "change_history": [
@@ -17080,6 +18584,22 @@
           "能力は独自査定、外見は実機未確認。当年資料と前後年の身体値資料を区別し、総合値と未確認の顔パーツ番号はnullを維持。",
           "20人版は確認OKを受けGitHubへ公開済み。今回の25人版は確認用。確認OK後に同じ公開先を更新。"
         ]
+      },
+      {
+        "version": "1.10.0",
+        "date": "2026-09-17T09:09:33.775097+00:00",
+        "player_ids": [
+          "kengo-kawamata-2013-albirex-niigata",
+          "robert-cullen-2005-jubilo-iwata"
+        ],
+        "changes": [
+          "第6回：川又堅碁2013・カレン ロバート2005を順に追加。全27人。",
+          "既存25人の全項目・画像・登録順を保持。",
+          "25能力・逆足等4項目・適性・スタイル・スキル・COM・体形・顔・髪型・ヒゲ・着こなしを個別作成。",
+          "正面・横顔の参考画像を各選手1回ずつ生成。当時の所属クラブのホームユニフォーム。",
+          "能力は独自査定、外見は実機未確認。資料の年を区別し、総合値・未確認の顔パーツ番号はnullを維持。",
+          "25人版は確認OKを受けGitHub Pages公開済み。今回の27人版は確認用。確認OK後に同じ公開先を更新。"
+        ]
       }
     ],
     "handoff_documents": [
@@ -17111,7 +18631,9 @@
         "ryo-miyaichi-2010-11-feyenoord": "v1.9.0新規。確認範囲と身体値の資料年はprofileおよびsourcesに記録。能力・外見はPS4実機未確認。",
         "koki-mizuno-2006-jef-united-chiba": "v1.9.0新規。確認範囲と身体値の資料年はprofileおよびsourcesに記録。能力・外見はPS4実機未確認。",
         "yohei-toyoda-2013-sagan-tosu": "v1.9.0新規。確認範囲と身体値の資料年はprofileおよびsourcesに記録。能力・外見はPS4実機未確認。",
-        "kazuki-ganaha-2006-kawasaki-frontale": "v1.9.0新規。確認範囲と身体値の資料年はprofileおよびsourcesに記録。能力・外見はPS4実機未確認。"
+        "kazuki-ganaha-2006-kawasaki-frontale": "v1.9.0新規。確認範囲と身体値の資料年はprofileおよびsourcesに記録。能力・外見はPS4実機未確認。",
+        "kengo-kawamata-2013-albirex-niigata": "v1.10.0新規。確認範囲と身体値の資料年はprofileおよびsourcesに記録。能力・外見はPS4実機未確認。",
+        "robert-cullen-2005-jubilo-iwata": "v1.10.0新規。確認範囲と身体値の資料年はprofileおよびsourcesに記録。能力・外見はPS4実機未確認。"
       },
       "uniform_images": "v1.3.2：両選手の2009年FC東京公式写真でユニフォームの外観を確認。既存のプロフィール・能力・顔設定の再検証とは区別。",
       "new_players_1_4_0": "追加3名のプロフィール・成績・外観資料を確認。ゲーム能力・適性・スタイル・スキルは独自設定、顔・体形の入力範囲と再現結果は実機未確認。"
@@ -17193,6 +18715,22 @@
         ],
         "filename": "batch5-image-provenance.json",
         "content": "{\n  \"batch\": \"5\",\n  \"requested_assets\": 5,\n  \"generation_calls_planned\": 5,\n  \"generation_retries\": 0,\n  \"created_date\": \"2026-09-17\",\n  \"format\": \"1536x1024 front and right profile equal panels\",\n  \"output_kind\": \"AI-generated PS4-era football-game 3D concept; not actual game screenshot\",\n  \"players\": [\n    {\n      \"key\": \"nakata-1998-99-reference\",\n      \"name\": \"Hidetoshi Nakata / 中田英寿\",\n      \"season\": \"1998–99\",\n      \"club\": \"Perugia\",\n      \"age\": 22,\n      \"sources\": [\n        {\n          \"page_url\": \"https://x.com/tphoto2005/status/1909078572809298022\",\n          \"image_url\": \"https://pbs.twimg.com/media/Gn5o11OaQAAbK-a.jpg\",\n          \"photo_date\": \"1998-09-13\",\n          \"credit\": \"Masahide Tomikoshi / TOMIKOSHI PHOTOGRAPHY\",\n          \"use\": \"Face, hair, home shirt; downloaded and visually inspected.\"\n        },\n        {\n          \"page_url\": \"https://www.jfa.jp/samuraiblue/worldcup_history/1998/\",\n          \"image_url\": \"https://www.jfa.jp/samuraiblue/worldcup_history/assets/images/1998/pop/mf08.png\",\n          \"photo_date\": \"1998 World Cup archive\",\n          \"credit\": \"JFA\",\n          \"use\": \"Period hair/stubble corroborated by parent agent.\"\n        }\n      ],\n      \"observations\": \"Short dark hair with distinct copper/light-brown highlighted tips, textured angled side-swept top and short sides; pronounced cheekbones, narrow almond eyes, short chin stubble. Perugia red Galex home shirt with white/red fold collar, thin white piping, asymmetric white left sleeve/right red sleeve.\",\n      \"limitations\": [\n        \"Primary club photo is September 1998, when he was 21; requested season portrait is aged 22, reached January 1999.\",\n        \"Chest sponsor text omitted intentionally; kit crests simplified.\"\n      ],\n      \"prompt\": \"Use case: stylized-concept. Create ONE 1536 x 1024 landscape football-game player appearance reference. Two precisely equal 50/50 vertical panels: LEFT a perfectly frontal head-and-upper-chest portrait looking straight at camera; RIGHT a true 90-degree RIGHT-FACING side profile (nose points to the right edge, only one eye visible). Both panels depict the SAME named player, same age, same hair and same uniform; identical head scale and eye-line. Entire hairstyle, ears, chin, neck and upper chest must fit comfortably inside each panel with generous top margin. Neutral closed-mouth expression, no smile. Uniform muted gray-blue studio background; balanced soft diffuse light. Realistic PS4-era football video-game 3D character rendering, believable skin and individual hair strands with slightly simplified game-model surfaces; clearly an AI concept, not a photograph or actual game screenshot. Preserve the actual named individual's distinctive facial likeness, not a generic handsome footballer. No captions, text labels, names, numbers, sponsor lettering, watermark, UI, divider line or decorative border. Club crest and maker symbol may be small simplified non-letter emblems.\\n\\nPlayer: HIDETOSHI NAKATA (中田英寿), aged 22, Perugia 1998–99. Show Nakata's recognizable broad cheekbones, compact angular face, narrow dark almond eyes, firm straight brows, slightly broad nose, defined lips and restrained dark chin stubble. Period hair from his Perugia debut on 13 September 1998: short dense dark roots, copper-brown/light-brown highlighted spiky tips, asymmetrically brushed forward-and-sideways textured top, short natural sides, ears exposed; NOT bald, not a modern undercut, not a tall mohawk. Wear the 1998–99 Perugia Galex CLUB HOME jersey: rich red main body, fold-over white collar edged with fine red stripes opening into a short red/white V placket; player's left sleeve mostly white and right sleeve red with white cuff; thin white piping curving down from shoulder toward torso. Small red shield with white griffin at player's left chest. No sponsor writing. Historical visual source: https://pbs.twimg.com/media/Gn5o11OaQAAbK-a.jpg .\",\n      \"file\": \"nakata-1998-99-reference.png\",\n      \"status\": \"complete\",\n      \"generation_calls\": 1,\n      \"source_generated_path\": \"/workspace/scratch/165aae4b3a27/generated_images/exec-7c3348d9-45cf-4bd4-a492-54e7b9e88803.png\",\n      \"output_path\": \"/workspace/scratch/165aae4b3a27/player-images-batch5/nakata-1998-99-reference.png\",\n      \"size_px\": [\n        1536,\n        1024\n      ],\n      \"bytes\": 2236033,\n      \"sha256\": \"5ca0e196b8ef39d5f09e13ef8f0dd29c57c7b95c988888ee69b8dfd1a8e70869\",\n      \"qa\": [\n        \"Full hairstyle visible, equal panels, front and right-facing profile.\",\n        \"Hair rendered more upright/spiky and moustache more pronounced than dated 1998 action photo; likeness and period styling remain approximate.\",\n        \"Perugia crest and collar/piping simplified.\",\n        \"The right view is slightly oblique rather than a strict 90-degree side profile; suitable only as an appearance reference.\"\n      ],\n      \"display_asset\": \"assets/nakata-1998-99-reference.webp\",\n      \"encoding\": {\n        \"format\": \"WebP\",\n        \"quality\": 92,\n        \"method\": 6,\n        \"dimensions_preserved\": true,\n        \"creative_edit\": false,\n        \"sha256\": \"a66c0a31f127bdd6d7ae6bdd4985b393fa265476b25c98ad9b9dbd40355f2ce3\"\n      }\n    },\n    {\n      \"key\": \"miyaichi-2010-11-reference\",\n      \"name\": \"Ryo Miyaichi / 宮市亮\",\n      \"season\": \"2010–11\",\n      \"club\": \"Feyenoord\",\n      \"age\": 18,\n      \"sources\": [\n        {\n          \"page_url\": \"https://number.bunshun.jp/articles/-/102406\",\n          \"image_url\": \"https://number.ismcdn.jp/mwimgs/e/e/-/img_ee96b542205f9de7fbf7affe2c0fb6b6292159.jpg\",\n          \"photo_date\": \"2011, published 2011-03-31; precise capture day not supplied\",\n          \"credit\": \"Tsutomu Takasu / Number\",\n          \"use\": \"Face, hair and home shirt visually inspected.\"\n        }\n      ],\n      \"observations\": \"Young clean-shaven face, narrow jaw, straight brows; black medium-short fluffy, feathered, spiky top and thin irregular forehead fringe with volume around temples. Home jersey player's right red/left white, inverse sleeves, white V-neck trim.\",\n      \"limitations\": [\n        \"Photo capture date unspecified, but contemporary March 2011 publication establishes correct season.\",\n        \"Sponsor and squad-number lettering intentionally omitted.\"\n      ],\n      \"prompt\": \"Use case: stylized-concept. Create ONE 1536 x 1024 landscape football-game player appearance reference. Two precisely equal 50/50 vertical panels: LEFT a perfectly frontal head-and-upper-chest portrait looking straight at camera; RIGHT a true 90-degree RIGHT-FACING side profile (nose points to the right edge, only one eye visible). Both panels depict the SAME named player, same age, same hair and same uniform; identical head scale and eye-line. Entire hairstyle, ears, chin, neck and upper chest must fit comfortably inside each panel with generous top margin. Neutral closed-mouth expression, no smile. Uniform muted gray-blue studio background; balanced soft diffuse light. Realistic PS4-era football video-game 3D character rendering, believable skin and individual hair strands with slightly simplified game-model surfaces; clearly an AI concept, not a photograph or actual game screenshot. Preserve the actual named individual's distinctive facial likeness, not a generic handsome footballer. No captions, text labels, names, numbers, sponsor lettering, watermark, UI, divider line or decorative border. Club crest and maker symbol may be small simplified non-letter emblems.\\n\\nPlayer: RYO MIYAICHI (宮市亮), aged 18, Feyenoord 2010–11. Recognizable youthful Miyaichi likeness: slim elongated oval face, smooth youthful cheeks, strong straight black eyebrows, deep-set dark eyes, straight slender nose and narrow chin; entirely clean-shaven. Period hair in February–March 2011: natural jet-black, medium-short dense feathery layers, slightly spiky/lifted messy crown, fine uneven forward fringe parted in little strands across the upper forehead, natural side hair partly brushing upper ears; no fade, no modern slickback or long adult hair. Wear Feyenoord 2010–11 Puma CLUB HOME jersey: sharply vertical half-and-half torso, PLAYER'S RIGHT half RED (viewer-left in frontal panel), PLAYER'S LEFT half WHITE (viewer-right). Opposite-color sleeves: right white, left red. Simple white shallow V-neck band with small red inner detail, not a polo collar. Small circular red/white/black Feyenoord crest on player's left chest; small cat symbol opposite, no text or sponsor letters. Historical appearance source: https://number.ismcdn.jp/mwimgs/e/e/-/img_ee96b542205f9de7fbf7affe2c0fb6b6292159.jpg .\",\n      \"file\": \"miyaichi-2010-11-reference.png\",\n      \"status\": \"complete\",\n      \"generation_calls\": 1,\n      \"source_generated_path\": \"/workspace/scratch/165aae4b3a27/generated_images/exec-c7853e86-1b60-451c-bbcc-ba98e5d79c4d.png\",\n      \"output_path\": \"/workspace/scratch/165aae4b3a27/player-images-batch5/miyaichi-2010-11-reference.png\",\n      \"size_px\": [\n        1536,\n        1024\n      ],\n      \"bytes\": 2134772,\n      \"sha256\": \"c3a9a67ade728aa4919b3e8a2f197e1f08c1d066e8538fd11e7941e241ea051e\",\n      \"qa\": [\n        \"Full hairstyle visible, equal panels, front and right-facing profile.\",\n        \"Youthful black layered hair, correct red/white torso orientation.\",\n        \"Tiny F and faint crest lettering present despite no-letter request; no captions or UI.\"\n      ],\n      \"display_asset\": \"assets/miyaichi-2010-11-reference.webp\",\n      \"encoding\": {\n        \"format\": \"WebP\",\n        \"quality\": 92,\n        \"method\": 6,\n        \"dimensions_preserved\": true,\n        \"creative_edit\": false,\n        \"sha256\": \"699e79a137dda6379122df77a4af4aba4ba5159a7ea215bacab6e1e8879cf4a0\"\n      }\n    },\n    {\n      \"key\": \"mizuno-2006-reference\",\n      \"name\": \"Koki Mizuno / 水野晃樹\",\n      \"season\": \"2006\",\n      \"club\": \"JEF United Chiba\",\n      \"age\": 21,\n      \"sources\": [\n        {\n          \"page_url\": \"https://soccermagazine.jp/_ct/17361164/p2\",\n          \"image_url\": \"https://d1uzk9o9cg136f.cloudfront.net/f/16783519/rc/2020/05/02/4fcd93321a72927ba1c8c29d7def7e9e2c6cb9c0_xlarge.jpg\",\n          \"photo_date\": \"2006 J.League Cup final celebrations (2006-11-03); retrospective article 2020-05-03\",\n          \"credit\": \"J.LEAGUE / Soccer Magazine\",\n          \"use\": \"Period team photograph visually inspected; individual hair detail insufficient.\"\n        },\n        {\n          \"page_url\": \"https://soccermagazine.jp/_ct/17361164/p2\",\n          \"image_url\": \"https://d1uzk9o9cg136f.cloudfront.net/f/16783519/rc/2020/05/02/50061381634066c0576521bb97db5421fb0a89c7_xlarge.jpg\",\n          \"photo_date\": \"2006 J.League Cup final (2006-11-03)\",\n          \"credit\": \"J.LEAGUE / Soccer Magazine\",\n          \"use\": \"Yuuki Abe pictured, used for shared club HOME KIT geometry ONLY, not Mizuno face/hair; visually inspected.\"\n        }\n      ],\n      \"observations\": \"Period home kit visually confirmed fluorescent yellow main body, navy side panels/cuffs and small navy inserts at yellow shallow-V neckline, Mizuno supplier. Requested Mizuno youthful likeness and conservative dark-brown layered hair; exact 2006 close-up not verified.\",\n      \"limitations\": [\n        \"No isolated, sufficiently detailed 2006 Mizuno face/hair photograph retrieved after bounded research; exact hairstyle is an informed approximation and should not be called photo-verified.\",\n        \"Shared-kit photo depicts Abe, explicitly not used to derive Mizuno face.\",\n        \"2007/2015 Kappa green-trim shirts and Celtic photos excluded.\"\n      ],\n      \"prompt\": \"Use case: stylized-concept. Create ONE 1536 x 1024 landscape football-game player appearance reference. Two precisely equal 50/50 vertical panels: LEFT a perfectly frontal head-and-upper-chest portrait looking straight at camera; RIGHT a true 90-degree RIGHT-FACING side profile (nose points to the right edge, only one eye visible). Both panels depict the SAME named player, same age, same hair and same uniform; identical head scale and eye-line. Entire hairstyle, ears, chin, neck and upper chest must fit comfortably inside each panel with generous top margin. Neutral closed-mouth expression, no smile. Uniform muted gray-blue studio background; balanced soft diffuse light. Realistic PS4-era football video-game 3D character rendering, believable skin and individual hair strands with slightly simplified game-model surfaces; clearly an AI concept, not a photograph or actual game screenshot. Preserve the actual named individual's distinctive facial likeness, not a generic handsome footballer. No captions, text labels, names, numbers, sponsor lettering, watermark, UI, divider line or decorative border. Club crest and maker symbol may be small simplified non-letter emblems.\\n\\nPlayer: KOKI MIZUNO (水野晃樹), aged 21, JEF United Chiba 2006. Render the actual YOUNG Koki Mizuno likeness: lean oval Japanese face, high cheekbones, almond-shaped dark eyes, neat thin eyebrows, small straight nose, narrow lips and tapered jaw/chin, clean-shaven. Conservative early-career hairstyle: dark brown fine medium-short layered hair, airy textured crown, piecey angled side-swept forehead fringe, natural tapered temples and modest longer wisps at nape; youthful 2006 appearance, no modern shaved fade, no long ponytail, no silver hair. The exact 2006 hair close-up is not established, so keep it natural and restrained. Wear the visually verified 2006 JEF UNITED CHIBA MIZUNO CLUB HOME shirt: vivid fluorescent yellow main body and shoulders, navy blue curved underarm/side panels, navy sleeve cuffs. Yellow shallow-V neck with a small dark navy inner triangle and small navy inserts near each shoulder at the collar. Small multicolor JEF shield on player's left chest and small dark Mizuno runbird symbol on right, without lettering. DO NOT use later Kappa green trim or rows of Kappa figures. Period club kit reference (Abe pictured, kit only, DO NOT copy Abe's face): https://d1uzk9o9cg136f.cloudfront.net/f/16783519/rc/2020/05/02/50061381634066c0576521bb97db5421fb0a89c7_xlarge.jpg .\",\n      \"file\": \"mizuno-2006-reference.png\",\n      \"status\": \"complete\",\n      \"generation_calls\": 1,\n      \"source_generated_path\": \"/workspace/scratch/165aae4b3a27/generated_images/exec-1873af03-f51a-4819-ad4c-3ebc1a6a39cd.png\",\n      \"output_path\": \"/workspace/scratch/165aae4b3a27/player-images-batch5/mizuno-2006-reference.png\",\n      \"size_px\": [\n        1536,\n        1024\n      ],\n      \"bytes\": 2165352,\n      \"sha256\": \"d43315e8715185f5ddf0a94127fd2027835f854ba80ba41b6c1a6bfb2402ae40\",\n      \"qa\": [\n        \"Full hairstyle visible, equal panels, front and right-facing profile.\",\n        \"Correct yellow/navy 2006 shirt palette; crest is a stylized approximation.\",\n        \"Hair/literal likeness has weaker historical evidence; no isolated 2006 close-up verified.\"\n      ],\n      \"display_asset\": \"assets/mizuno-2006-reference.webp\",\n      \"encoding\": {\n        \"format\": \"WebP\",\n        \"quality\": 92,\n        \"method\": 6,\n        \"dimensions_preserved\": true,\n        \"creative_edit\": false,\n        \"sha256\": \"086f54e2c59716edc9430d6ff94ebcc1dacfa1b9f258530dc093d888eab71db6\"\n      }\n    },\n    {\n      \"key\": \"toyoda-2013-reference\",\n      \"name\": \"Yohei Toyoda / 豊田陽平\",\n      \"season\": \"2013\",\n      \"club\": \"Sagan Tosu\",\n      \"age\": 28,\n      \"sources\": [\n        {\n          \"page_url\": \"https://blogola.jp/p/18899\",\n          \"image_url\": \"https://blogola.jp/img/2013/07/toyo.jpg\",\n          \"photo_date\": \"2013-07-15\",\n          \"credit\": \"EL GOLAZO BLOGOLA / Fuminori Sugiyama\",\n          \"use\": \"Contemporary national-team selection press conference, face/hair/beard visually inspected.\"\n        },\n        {\n          \"page_url\": \"https://www.footballkitarchive.com/sagan-tosu-2013-home-kit-107354/\",\n          \"image_url\": \"https://cdn.footballkitarchive.com/2023/09/27/6YfmxgOopLCMYfx.jpg\",\n          \"photo_date\": \"2013 season garment; archive image published 2023\",\n          \"credit\": \"Football Kit Archive community catalog\",\n          \"use\": \"Home kit season/color/manufacturer confirmed by page and image-search result; direct full-image access blocked.\"\n        }\n      ],\n      \"observations\": \"Short dense black hair brushed diagonally, off-center part, natural short sides; moustache and small pointed chin beard. 2013 Warrior home sky-blue/pink graphic kit.\",\n      \"limitations\": [\n        \"Home-shirt detail drawn from season-specific secondary kit archive; full-resolution garment photo access blocked.\",\n        \"Facial source wears suit, used only for likeness/hair; jersey reconstructed separately.\",\n        \"Sponsor lettering omitted.\"\n      ],\n      \"prompt\": \"Use case: stylized-concept. Create ONE 1536 x 1024 landscape football-game player appearance reference. Two precisely equal 50/50 vertical panels: LEFT a perfectly frontal head-and-upper-chest portrait looking straight at camera; RIGHT a true 90-degree RIGHT-FACING side profile (nose points to the right edge, only one eye visible). Both panels depict the SAME named player, same age, same hair and same uniform; identical head scale and eye-line. Entire hairstyle, ears, chin, neck and upper chest must fit comfortably inside each panel with generous top margin. Neutral closed-mouth expression, no smile. Uniform muted gray-blue studio background; balanced soft diffuse light. Realistic PS4-era football video-game 3D character rendering, believable skin and individual hair strands with slightly simplified game-model surfaces; clearly an AI concept, not a photograph or actual game screenshot. Preserve the actual named individual's distinctive facial likeness, not a generic handsome footballer. No captions, text labels, names, numbers, sponsor lettering, watermark, UI, divider line or decorative border. Club crest and maker symbol may be small simplified non-letter emblems.\\n\\nPlayer: YOHEI TOYODA (豊田陽平), aged 28, Sagan Tosu 2013. Recognizable Toyoda face: broad elongated oval face, strong cheekbones, straight dark brows, narrow deep-set eyes, broad-tipped straight nose, relatively full lips, strong squared chin and athletic thick neck. Match dated 15 July 2013 hairstyle: short dense natural black hair, top combed diagonally to one side with subtle off-center part and gentle lift, naturally short scissor-cut sides with upper ears visible; NOT shaved, not a modern skin fade. Facial hair is a thin neat moustache, sparse jaw stubble, and short small dark chin/goatee patch. Wear Sagan Tosu 2013 WARRIOR CLUB HOME shirt, sky-blue main body with bold hot-pink stylized curved/tribal graphic accents along shoulders and sleeves and pink V-neck trim. Small Sagan bird crest on player's left chest and small Warrior icon opposite without letters. No sponsor rectangle writing or numbers. Facial/hair source: https://blogola.jp/img/2013/07/toyo.jpg ; season kit: https://www.footballkitarchive.com/sagan-tosu-2013-home-kit-107354/ .\",\n      \"file\": \"toyoda-2013-reference.png\",\n      \"status\": \"complete\",\n      \"generation_calls\": 1,\n      \"source_generated_path\": \"/workspace/scratch/165aae4b3a27/generated_images/exec-114cdcdb-2dc8-4428-86e9-1f537dd543fb.png\",\n      \"output_path\": \"/workspace/scratch/165aae4b3a27/player-images-batch5/toyoda-2013-reference.png\",\n      \"size_px\": [\n        1536,\n        1024\n      ],\n      \"bytes\": 2261686,\n      \"sha256\": \"bf697aa3b5abc6ed3cada62c2dafab7c7b41945a190501cfe8f3b9a8f22a78e2\",\n      \"qa\": [\n        \"Full hairstyle visible, equal panels, front and right-facing profile.\",\n        \"Short side-swept dark hair, moustache/chin beard match period press portrait in broad form.\",\n        \"Kit graphics and crest approximate secondary season archive.\"\n      ],\n      \"display_asset\": \"assets/toyoda-2013-reference.webp\",\n      \"encoding\": {\n        \"format\": \"WebP\",\n        \"quality\": 92,\n        \"method\": 6,\n        \"dimensions_preserved\": true,\n        \"creative_edit\": false,\n        \"sha256\": \"4c3e3ecd5ccb54e623f8adf10eaf8b4a876ceae4a1485b9a63e839fd85450aa8\"\n      }\n    },\n    {\n      \"key\": \"ganaha-2006-reference\",\n      \"name\": \"Kazuki Ganaha / 我那覇和樹\",\n      \"season\": \"2006\",\n      \"club\": \"Kawasaki Frontale\",\n      \"age\": 26,\n      \"sources\": [\n        {\n          \"page_url\": \"https://www.frontale.co.jp/profile/2006/mem_09.html\",\n          \"image_url\": \"https://www.frontale.co.jp/profile/2006/img_members/photo_bust_mem_09.jpg\",\n          \"photo_date\": \"Official 2006 season portrait; exact capture day not specified\",\n          \"credit\": \"Kawasaki Frontale\",\n          \"use\": \"Face, hairstyle, facial hair and home kit visually inspected.\"\n        }\n      ],\n      \"observations\": \"Warm medium-brown dyed spiky hair with short sides and longer nape, high forehead, thick eyebrows, small narrow chin beard. Right-half sky blue/left-half black home shirt, black crewneck and curved sky-blue shoulder stripes.\",\n      \"limitations\": [\n        \"Season portrait may have been taken before birthday; requested age26 reached September 2006.\",\n        \"Sponsor and crest lettering intentionally omitted.\"\n      ],\n      \"prompt\": \"Use case: stylized-concept. Create ONE 1536 x 1024 landscape football-game player appearance reference. Two precisely equal 50/50 vertical panels: LEFT a perfectly frontal head-and-upper-chest portrait looking straight at camera; RIGHT a true 90-degree RIGHT-FACING side profile (nose points to the right edge, only one eye visible). Both panels depict the SAME named player, same age, same hair and same uniform; identical head scale and eye-line. Entire hairstyle, ears, chin, neck and upper chest must fit comfortably inside each panel with generous top margin. Neutral closed-mouth expression, no smile. Uniform muted gray-blue studio background; balanced soft diffuse light. Realistic PS4-era football video-game 3D character rendering, believable skin and individual hair strands with slightly simplified game-model surfaces; clearly an AI concept, not a photograph or actual game screenshot. Preserve the actual named individual's distinctive facial likeness, not a generic handsome footballer. No captions, text labels, names, numbers, sponsor lettering, watermark, UI, divider line or decorative border. Club crest and maker symbol may be small simplified non-letter emblems.\\n\\nPlayer: KAZUKI GANAHA (我那覇和樹), aged 26, Kawasaki Frontale 2006. Preserve Ganaha's distinct Okinawan-Japanese likeness: warm tanned skin, broad oval/rectangular face, prominent high cheekbones, thick dark arched brows, large alert almond eyes, straight broad nose, wide defined mouth and firm chin. Neutral closed mouth. Small narrow dark chin-beard patch, otherwise mostly clean-shaven. Exact official 2006 portrait hair: warm medium-brown dyed short spiky textured crown, lifted front exposing forehead, natural dark roots and short sideburns, modest longer straight wisps at back/nape; ears visible, no skin fade, not black long hair. Wear Kawasaki Frontale 2006 ASICS CLUB HOME shirt: vertically divided main torso PLAYER'S RIGHT sky-blue half (viewer-left front), PLAYER'S LEFT BLACK half (viewer-right front), black crewneck band, sky-blue curved stripes along both shoulders and outer sleeves separated by narrow black outlines. Small blue/gold Frontale shield on player's left chest and small white ASICS-like nonletter symbol on right, no FUJITSU text. Official historical source: https://www.frontale.co.jp/profile/2006/img_members/photo_bust_mem_09.jpg .\",\n      \"file\": \"ganaha-2006-reference.png\",\n      \"status\": \"complete\",\n      \"generation_calls\": 1,\n      \"source_generated_path\": \"/workspace/scratch/165aae4b3a27/generated_images/exec-80039583-f8f5-4508-997c-726d08c51f8b.png\",\n      \"output_path\": \"/workspace/scratch/165aae4b3a27/player-images-batch5/ganaha-2006-reference.png\",\n      \"size_px\": [\n        1536,\n        1024\n      ],\n      \"bytes\": 2347972,\n      \"sha256\": \"9b4ce4bc98594f2219d240fae152269af1163126dd75b6893775867d40e1d0a4\",\n      \"qa\": [\n        \"Full hairstyle visible, equal panels, front and right-facing profile.\",\n        \"Brown spiky hair and small chin beard match official period portrait in broad form.\",\n        \"Spikes taller than source; crest and shoulder trim simplified.\"\n      ],\n      \"display_asset\": \"assets/ganaha-2006-reference.webp\",\n      \"encoding\": {\n        \"format\": \"WebP\",\n        \"quality\": 92,\n        \"method\": 6,\n        \"dimensions_preserved\": true,\n        \"creative_edit\": false,\n        \"sha256\": \"57700c94073811b2719ce546f790b68ace85db7ba2d2a9bfaa10444518c76d1a\"\n      }\n    }\n  ],\n  \"generation_calls_submitted\": 5,\n  \"generation_calls_succeeded\": 5,\n  \"qa_complete\": true\n}\n"
+      },
+      {
+        "player_ids": [
+          "kengo-kawamata-2013-albirex-niigata",
+          "robert-cullen-2005-jubilo-iwata"
+        ],
+        "filename": "batch6-edit-guide.md",
+        "content": "# 第6回追加：川又堅碁・カレン ロバート\n\n27人版（v1.10.0）の確認用データ。既存25人の全項目・画像・登録順を保持し、26番に川又、27番にカレンを追加する。\n\n## 川又 堅碁 — 2013年・アルビレックス新潟\n\n新潟公式とJリーグ公式で32試合23得点を確認。決定力85、オフェンス84、ヘディング83、フィジカル84、キック力84を中心に、クロスへの飛び込みと左足のフィニッシュを表現する独自査定。パスと細かな運びは控えめ。\n\n183cm・75kgは2014年1月13日の公式契約更新資料から仮採用し、2013年の登録値と断定しない。背番号20は2013年記事の写真と翌年公式発表を参照。左利きとシャツネームの当年一次資料照合は未完了。年齢は2013年12月7日時点の24歳。\n\n- https://www.albirex.co.jp/news/40859/\n- https://data.j-league.or.jp/SFIX04/?player_id=8968\n- https://www.albirex.co.jp/news/41562/\n- https://sports.yahoo.co.jp/column/detail/201311060003-spnavi\n\n外観は非常に短い黒髪、細い口ヒゲとあごヒゲ、オレンジの2013年ホームユニフォーム。参考画像の右側は真横よりやや斜めを向いている。生成1回の条件に従い、再生成せず記録する。\n\n## カレン・ロバート — 2005年・ジュビロ磐田\n\nJリーグ公式で31試合13得点、磐田公式歴史資料で新人王を確認。スピード84、瞬発力85、スタミナ84、オフェンス81、決定力78を軸に、斜めの飛び出しと前線からの追走を表現する独自査定。CF・STに適性を付ける。\n\n180cm・75kgは後年のJリーグ最終所属プロフィールとローヴァーズの紹介から仮採用し、2005年登録値としては未確定。背番号22は2005年公式歴史写真を参照。右利きはサッカーキングの二次資料で確認、シャツネームは当年未照合。年齢は2005年12月3日時点の20歳。\n\n- https://data.j-league.or.jp/SFIX04/?player_id=7682\n- https://jubilo-iwata.co.jp/30th/history/\n- https://rovers.co.jp/academy/staff/\n- https://www.soccer-king.jp/player/article/415975.html\n\n外観は茶色のミディアムレイヤー、額に下ろした前髪、ヒゲなし。水色・紺の2005年ホームユニフォームを参照。生成画像は資料より髪のボリュームがあり、スポンサーとエンブレムの細部は近似。\n\n## 共通の保持・確認範囲\n\n25能力、逆足等4項目、体形11項目、顔13調整と10パーツ選択ガイド、髪9項目、ヒゲ3項目、着こなし4項目を選手別に作成。各部位の0は選択した開始値であり、未知の項目を一括補完したものではない。顔パーツ番号と総合値はnullのまま。能力・スキル・COMは独自設定、顔と体形・髪型はPS4実機未確認。\n\n正面と右側の参考画像は各選手1回、計2回の生成。1536×1024の寸法を保ってWebPへ技術変換。プロンプト・元資料・観察内容・制約はbatch6-image-provenance.jsonと各選手のimages.reference_generationに保持。既存の画面表示方針は変更しない。\n\n25人版v1.9.0はGitHub Pages公開済み。今回の27人版は確認用で、ユーザーの確認OK後に同じ公開先へ上書きする。\n"
+      },
+      {
+        "player_ids": [
+          "kengo-kawamata-2013-albirex-niigata",
+          "robert-cullen-2005-jubilo-iwata"
+        ],
+        "filename": "batch6-image-provenance.json",
+        "content": "{\n  \"schema_version\": 1,\n  \"created_on\": \"2026-09-17\",\n  \"task\": \"PS4 Winning Eleven2020 Japanese-player historical appearance reference assets, batch6\",\n  \"generator\": \"built-in image_gen.imagegen\",\n  \"generation_calls_total\": 2,\n  \"no_variants\": true,\n  \"no_retries\": true,\n  \"assets\": [\n    {\n      \"id\": \"kawamata-2013\",\n      \"name_ja\": \"川又堅碁\",\n      \"name_en\": \"Kengo Kawamata\",\n      \"year\": 2013,\n      \"age\": 24,\n      \"club\": \"Albirex Niigata\",\n      \"kit\": \"2013 home\",\n      \"output\": \"/workspace/scratch/165aae4b3a27/player-images-batch6/kawamata-2013-reference.png\",\n      \"generated_original\": \"/workspace/scratch/165aae4b3a27/generated_images/exec-0808afab-e668-477c-8bd4-c741c70ca852.png\",\n      \"dimensions\": [\n        1536,\n        1024\n      ],\n      \"generation_calls\": 1,\n      \"prompt\": \"Use case: stylized-concept / identity-preserve.\\nTransform the supplied period photograph of Kengo Kawamata (川又堅碁) into one standalone 1536x1024 landscape face-edit reference image: the Japanese Albirex Niigata striker in late 2013, age24. Preserve his distinctive identity and historical appearance from this source photograph; this is a realistic PS4-era Winning Eleven/PES football-game 3D character, naturally modelled skin and restrained realistic game rendering, not a flat photo, not anime, not a generic athlete.\\nComposition: exactly TWO EQUAL vertical panels, each768x1024, with the same man and the same scale in both. LEFT panel is perfectly straight-on FRONT, eyes at camera, no head tilt. RIGHT panel is a STRICT90-degree side profile facing RIGHT, only the near eye visible and nose points exactly to the right; torso and head both turned90degrees. Neutral closed mouth. Shoulders and upper chest included; both entire heads, scalp, ears and full hair silhouette inside the frame with comfortable margin. Matching eye level and chin height. Soft even studio illumination, plain neutral muted gray-blue background in both panels. No captions, no labels, no UI, no frames, no watermark.\\nIdentity from reference: long oval angular face, tan warm skin, strong brow and dark slightly close-set almond eyes, prominent ears, broad angular jaw narrowing into distinct chin. Completely close buzz/shaved black scalp with visible very short stubble rather than polished baldness. Thin dark moustache, separate short narrow chin beard/soul-patch concentrated under lower lip and at tip of chin; cheeks clean, no full beard. Keep the youthful but rugged 24-year-old face and protruding medium broad nose. Reconstruct the unseen strict side view conservatively from the same facial identity.\\nClothing: exact2013 Albirex Niigata HOME kit visible in source: vivid orange Adidas jersey, subtle narrow vertical orange pinstripes, white fold-over polo collar with bright royal-blue stripe near its outer edge, short white central placket, three royal-blue shoulder stripes and fine pale piping. Correct historical Albirex blue/orange shield on left breast, small white Adidas on right breast, white sponsor rectangle with red 亀田製菓 across chest and white number20 lower on chest if within crop. Treat kit markings as authentic small jersey details, not labels outside the garment. Keep details subordinate to readable face.\\nDeliver only this one composed two-view image.\",\n      \"referenced_image_paths\": [\n        \"/workspace/scratch/165aae4b3a27/player-images-batch6/kawamata-period.jpg\",\n        \"/workspace/scratch/165aae4b3a27/player-images-batch6/kawamata-2013-action.jpg\"\n      ],\n      \"period_sources\": [\n        {\n          \"source_page_url\": \"https://sports.yahoo.co.jp/column/detail/201311060003-spnavi\",\n          \"title\": \"普通の感覚を取り戻した新潟・川又堅碁＝代表選出は着実なレベルアップのあとに\",\n          \"publisher\": \"Sports Navi\",\n          \"publication_date\": \"2013-11-06\",\n          \"image_url\": \"https://sports-pctr.c.yimg.jp/vrwP1cu9cY2YL4Fg3aXpJtHyHIQWv4q0Pd5fNOzmBc8XbzOVWbLmaFunUeb3t_QWoIC7p_AU264mAT-0tGR9kOR16F3LdkR6FhMvB0DxcS23vgAjqn5JNhDSJrd-vVaXGuVWzSx_AsEeR_I7O3pHxdtnVtKWq279zVBLrY2G82j1cnWyGd8AMJciprNIp_HN\",\n          \"image_capture_date\": null,\n          \"date_basis\": \"Dated2013article; exact date of match photograph not identified\",\n          \"local_reference\": \"/workspace/scratch/165aae4b3a27/player-images-batch6/kawamata-2013-action.jpg\",\n          \"observations\": \"Close-shaven black scalp, thin moustache and small chin hair. Orange home jersey with narrow vertical pinstripes, white polo collar edged blue, three blue Adidas shoulder stripes, white/red Kameda sponsor.20 visible.\",\n          \"uncertainty\": \"Exact match/photo date unavailable; facial proportions affected by action pose.\"\n        },\n        {\n          \"source_page_url\": \"https://www.albirex.co.jp/news/40859/\",\n          \"title\": \"契約更新選手のお知らせ（1月13日）\",\n          \"publisher\": \"Albirex Niigata official\",\n          \"publication_date\": \"2014-01-13\",\n          \"image_url\": \"https://www.albirex.co.jp/files/image/40859/1/original.jpg\",\n          \"image_capture_date\": null,\n          \"date_basis\": \"Official contract renewal immediately following2013; match photograph visibly matches2013home kit\",\n          \"local_reference\": \"/workspace/scratch/165aae4b3a27/player-images-batch6/kawamata-period.jpg\",\n          \"observations\": \"Clear three-quarter face with prominent ears, strong brows, shaved scalp, thin moustache, pointed small chin beard; orange2013home shirt.\",\n          \"uncertainty\": \"Photo inferred to show preceding2013season from kit and timing; no capture date stated.\",\n          \"facts\": {\n            \"birth_date\": \"1989-10-14\",\n            \"height_cm\": 183,\n            \"weight_kg\": 75,\n            \"age\": 24\n          }\n        },\n        {\n          \"source_page_url\": \"https://www.albirex.co.jp/news/41562/\",\n          \"title\": \"川又 堅碁選手 日本代表候補 トレーニングキャンプメンバーに選出\",\n          \"publisher\": \"Albirex Niigata official\",\n          \"publication_date\": \"2014-04-03\",\n          \"image_url\": \"https://www.albirex.co.jp/uploads/d9832e5e5f55bc82595809e638aa7a7e1289d8fe/original.jpg\",\n          \"role\": \"Nearby-period biographical corroboration only; this2014kit photograph not used as generation input\",\n          \"facts\": {\n            \"shirt_number\": 20,\n            \"height_cm\": 183,\n            \"weight_kg\": 75,\n            \"birth_date\": \"1989-10-14\"\n          }\n        }\n      ],\n      \"appearance_observations\": [\n        \"Warm tan skin, angular oval face, pronounced brow and ears.\",\n        \"Almost shaved scalp with very short dark stubble.\",\n        \"Thin moustache and separate small chin beard.\",\n        \"Orange2013home shirt and period white/blue polo collar.\"\n      ],\n      \"qa\": {\n        \"inspected\": true,\n        \"equal_panels\": true,\n        \"front_view\": true,\n        \"right_facing_view\": true,\n        \"strict_90_degree_profile\": \"partial: right head appears slightly turned toward viewer; near-profile rather than exact orthographic90degrees\",\n        \"full_hair_inside_frame\": true,\n        \"neutral_background\": true,\n        \"shoulders_and_chest\": true,\n        \"period_hair_and_facial_hair\": \"Pass; chin beard slightly fuller than reference\",\n        \"same_person_consistency\": \"Visually coherent across both views\",\n        \"likeness\": \"Recognizable period traits reproduced; AI approximation\",\n        \"style\": \"Very realistic rendered game-reference style, tending photoreal\",\n        \"captions_or_ui\": false,\n        \"kit\": \"Historical colors/collar/pinstripes/sponsor retained; badge and tiny lettering reconstructed\"\n      },\n      \"limitations\": [\n        \"Generated reconstruction, not official game render or biometric scan.\",\n        \"Strict90-degree right view was requested but the output is a slightly oblique profile; retained due to exact one-call budget.\",\n        \"Facial microdetail and unseen side anatomy inferred.\",\n        \"Jersey badge and sponsorship artwork are approximations.\",\n        \"24 refers to late2013after October14.\"\n      ],\n      \"display_asset\": \"assets/kawamata-2013-reference.webp\",\n      \"encoding\": {\n        \"format\": \"WebP\",\n        \"quality\": 92,\n        \"method\": 6,\n        \"dimensions_preserved\": true,\n        \"creative_edit\": false,\n        \"sha256\": \"2f4bcad057975a08090eaee23d7f4691960afb661812cf1d1a58038f7293c78c\"\n      }\n    },\n    {\n      \"id\": \"cullen-2005\",\n      \"name_ja\": \"カレン・ロバート\",\n      \"name_en\": \"Robert Cullen\",\n      \"year\": 2005,\n      \"age\": 20,\n      \"club\": \"Jubilo Iwata\",\n      \"kit\": \"2005 home\",\n      \"output\": \"/workspace/scratch/165aae4b3a27/player-images-batch6/cullen-2005-reference.png\",\n      \"generated_original\": \"/workspace/scratch/165aae4b3a27/generated_images/exec-58c0f4e8-7b89-4bfa-928d-846d9b92fb26.png\",\n      \"dimensions\": [\n        1536,\n        1024\n      ],\n      \"generation_calls\": 1,\n      \"prompt\": \"Use case: stylized-concept / identity-preserve.\\nTransform these historical2005 source photographs into one standalone1536x1024 landscape face-edit reference image of Robert Cullen (カレン・ロバート), the Japanese Júbilo Iwata footballer at age20 in2005. The first input (formal award photograph,2005 J.League Rookie of the Year) is the main IDENTITY AND HAIRSTYLE reference. The second input (player22 in sky-blue shirt during2005 match) is the HOME JERSEY reference and additional youthful identity reference. Produce a realistic PS4-era Winning Eleven/PES football-game 3D character with faithful player-specific likeness, natural modeled skin, realistic game hair strands/clumps, no cartoon or anime look, no generic handsome face.\\nComposition: exactlyTWO EQUAL vertical panels, each768x1024, same man and same scale. LEFT panel perfectly straight FRONT, eyes looking at camera, head vertical. RIGHT panel STRICT90-degree SIDE PROFILE facing RIGHT, only near eye visible, nose points right; head and torso turn90degrees together. Neutral closed mouth. Include shoulders and upper chest, entire head and ALL hair inside both panels with comfortable margins. Matching eye level and chin height. Soft even studio illumination, plain neutral muted gray-blue background in both halves. No captions, no labels, no UI, no frame, no watermark.\\nPlayer: preserve the award-photo youthful20-year-old face: light skin with natural warm tone, relatively long oval face, slightly deep-set brown eyes, substantial straight brows, straight prominent nose and rounded tip, moderate cheek volume, well-defined but narrow jaw, small softly squared chin, medium lips, clean-shaven. His2005 medium-length chestnut-brown layered shag hair, dense top with separated tousled strands, long irregular side-swept fringe falling near eyebrows, sides over upper ears, longer soft layered nape. Avoid modern short sides, fade, slick hair, blond coloring, beard or older present-day features. Use the award photograph's brown hair shade and overall silhouette. Conservatively reconstruct unseen exact side anatomy from same identity.\\nClothing:2005 Júbilo Iwata HOME shirt, sky/saxe-blue base with navy shoulder and underarm/side accents outlined by thin white piping, period Puma construction and small white Puma chest mark, original pre2014 Júbilo club crest on left breast. Small white neck edging, blue close V-shaped/crew hybrid sports collar matching2005 home top. Across the chest the historical white cursive sponsor 'Nestlé', with white22 lower on chest if within crop. A white sleeve patch with red YAMAHA when visible. Use2005 J.League sky-blue HOME design, not the navy special friendly shirt and not a modern Admiral or Yamaha-front shirt. Keep jersey details subordinate to the clear head reference.\\nDeliver only this one composed two-view image.\",\n      \"referenced_image_paths\": [\n        \"/workspace/scratch/165aae4b3a27/player-images-batch6/cullen-archive-08.jpg\",\n        \"/workspace/scratch/165aae4b3a27/player-images-batch6/cullen-archive-04.jpg\",\n        \"/workspace/scratch/165aae4b3a27/player-images-batch6/cullen-archive-02.jpg\"\n      ],\n      \"period_sources\": [\n        {\n          \"source_page_url\": \"https://jubilo-iwata.co.jp/30th/history/\",\n          \"title\": \"歴史／クラブ年表 —2005\",\n          \"publisher\": \"Jubilo Iwata official30th anniversary archive\",\n          \"publication_date\": null,\n          \"period_label\": \"2005\",\n          \"image_url\": \"https://jubilo-iwata.co.jp/30th/assets/img/history/2005/img_history_2005_08.jpg\",\n          \"image_capture_date\": null,\n          \"date_basis\": \"Official archive explicitly locates image in2005section, next to Cullen Rookie of the Year honor\",\n          \"local_reference\": \"/workspace/scratch/165aae4b3a27/player-images-batch6/cullen-archive-08.jpg\",\n          \"observations\": \"Formal awards photograph: youthful clean-shaven Cullen; medium brown layered shaggy fringe, hair around upper ears and nape; longer oval face, prominent nose.\",\n          \"uncertainty\": \"Exact award-photo capture date not provided in archive; frontal photo only.\"\n        },\n        {\n          \"source_page_url\": \"https://jubilo-iwata.co.jp/30th/history/\",\n          \"title\": \"歴史／クラブ年表 —2005\",\n          \"publisher\": \"Jubilo Iwata official30th anniversary archive\",\n          \"publication_date\": null,\n          \"period_label\": \"2005\",\n          \"image_url\": \"https://jubilo-iwata.co.jp/30th/assets/img/history/2005/img_history_2005_04.jpg\",\n          \"image_capture_date\": null,\n          \"date_basis\": \"Official2005section\",\n          \"local_reference\": \"/workspace/scratch/165aae4b3a27/player-images-batch6/cullen-archive-04.jpg\",\n          \"observations\": \"Player22(Cullen) with medium brown tousled hair. Sky-blue home shirt, navy sleeve/shoulder strip with white piping, redYAMAHA on white sleeve patch. White22 on back.\",\n          \"uncertainty\": \"Action profile partially obscured and head pitched down; exact match date unstated.\",\n          \"facts\": {\n            \"shirt_number\": 22\n          }\n        },\n        {\n          \"source_page_url\": \"https://jubilo-iwata.co.jp/30th/history/\",\n          \"title\": \"歴史／クラブ年表 —2005\",\n          \"publisher\": \"Jubilo Iwata official30th anniversary archive\",\n          \"publication_date\": null,\n          \"period_label\": \"2005\",\n          \"image_url\": \"https://jubilo-iwata.co.jp/30th/assets/img/history/2005/img_history_2005_02.jpg\",\n          \"image_capture_date\": null,\n          \"date_basis\": \"Official2005section\",\n          \"local_reference\": \"/workspace/scratch/165aae4b3a27/player-images-batch6/cullen-archive-02.jpg\",\n          \"observations\": \"Another Jubilo player, used only to corroborate home-shirt sky-blue base, navy side/sleeve construction, white piping and white sponsor.\",\n          \"uncertainty\": \"Not Cullen; does not inform face or hair.\"\n        }\n      ],\n      \"appearance_observations\": [\n        \"Chestnut-brown medium layered hair with long irregular fringe, upper ears covered, longer nape.\",\n        \"Youthful clean-shaven face, long oval shape, prominent straight nose.\",\n        \"Sky/saxe-blue Puma2005home shirt with navy accents, white piping, Nestle chest sponsor and YAMAHA sleeve mark.\"\n      ],\n      \"qa\": {\n        \"inspected\": true,\n        \"equal_panels\": true,\n        \"front_view\": true,\n        \"right_facing_view\": true,\n        \"strict_90_degree_profile\": \"Visually close to90degrees, only near eye visible\",\n        \"full_hair_inside_frame\": true,\n        \"neutral_background\": true,\n        \"shoulders_and_chest\": true,\n        \"period_hair_and_facial_hair\": \"Pass; generated hair more voluminous/tousled than formal reference\",\n        \"same_person_consistency\": \"Visually coherent across both views\",\n        \"likeness\": \"Period youthful identity traits reproduced; AI approximation\",\n        \"style\": \"Very realistic rendered game-reference style, tending photoreal\",\n        \"captions_or_ui\": false,\n        \"kit\": \"2005colors, navy accents, white piping and sponsors represented; crest/lettering approximated\"\n      },\n      \"limitations\": [\n        \"Generated reconstruction, not official game render or biometric scan.\",\n        \"Unseen side anatomy inferred from frontal and downward action views.\",\n        \"Hair volume exaggerated slightly relative to award photograph.\",\n        \"Fine crest and sponsor geometry not exact; generated Nestle wordmark is more block-like than historical cursive.\",\n        \"Official archive provides year grouping rather than individual capture dates.\",\n        \"Periodheight/weight/foot not verified in bounded research.\"\n      ],\n      \"display_asset\": \"assets/cullen-2005-reference.webp\",\n      \"encoding\": {\n        \"format\": \"WebP\",\n        \"quality\": 92,\n        \"method\": 6,\n        \"dimensions_preserved\": true,\n        \"creative_edit\": false,\n        \"sha256\": \"c4f32abac5ac992bd9fc8d92ccf8886d758fffac722933afcfdc7d66d1226459\"\n      }\n    }\n  ]\n}\n"
       }
     ],
     "reference_image_policy": {
@@ -17214,12 +18752,12 @@
       "provider": "GitHub",
       "repository": "sakerock911-hub/we2020-japan-edit",
       "url": "https://sakerock911-hub.github.io/we2020-japan-edit/",
-      "status": "awaiting_batch5_review",
-      "instruction": "20人版は確認OKを受けGitHub Pages公開済み。今回の25人版は確認用。確認OK後に同じ公開先へ上書き。",
+      "status": "awaiting_batch6_review",
+      "instruction": "25人版は確認OKを受けGitHub Pages公開済み。今回の27人版は確認用。確認OK後に同じ公開先へ上書き。",
       "date": "2026-09-17",
-      "published_version": "1.8.0",
-      "published_player_count": 20,
-      "published_commit": "36778f258ebfd8a1038627c8482d2ab64ee937f7"
+      "published_version": "1.9.0",
+      "published_player_count": 25,
+      "published_commit": "dffdbee23b84f0403b59c62530ed4a7c8bfcdc83"
     }
   }
 }
