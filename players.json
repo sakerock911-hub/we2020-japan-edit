@@ -8490,12 +8490,2099 @@
         "アーリア",
         "ジャスール"
       ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "OMF",
+            "main": true,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "ST",
+            "main": false,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "CMF",
+            "main": false,
+            "suitability": "準適性"
+          },
+          {
+            "position": "LMF",
+            "main": false,
+            "suitability": "準適性"
+          },
+          {
+            "position": "RMF",
+            "main": false,
+            "suitability": "準適性"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "トップ下からドリブルで運び、味方のFWを追い越してフィニッシュへ入る役割を中心にします。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 82
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 81
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 84
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 80
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 77
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 73
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 80
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 59
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 74
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 76
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 83
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 86
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 84
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 69
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 72
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 83
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 83
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 54
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 57
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 71
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 3
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 3
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 6
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 1
+          }
+        ],
+        "rationale": "ドリブル84・瞬発力86・キック力84を軸に、中央を持ち上がって自らシュートへ進む攻撃的MFとして独自査定。パスは味方との連係に必要な水準に抑え、2007年の得点力をオフェンスセンス82・決定力80で表現します。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 173,
+        "weight_kg": 70,
+        "note": "身長に対して重心を低くし、踏み込みを支える太ももをややしっかりさせる仮案。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 0
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 0
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 1
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": -1
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": 0
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 1
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 0
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": -1
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 0
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "やや縦長の卵形の輪郭、細めの目、比較的まっすぐな眉、丸みのある鼻先を目安にします。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "少し日焼けした自然な肌色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "細めで横長。二重の線は控えめ"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "下まぶたのふくらみは弱め"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "黒に近いこげ茶"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "比較的まっすぐで中程度の太さ"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "中程度の鼻筋と丸みのある鼻先"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "やや薄め"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "上唇よりわずかに厚め"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬骨は少し残し、頬をふくらませすぎない"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "細すぎず、先端に丸みのあるあご"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 1
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": 0
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 0
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 0
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 0
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": -1
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 0
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 1
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": 0
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": 0
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "暗い茶色の短め〜中程度の髪。トップと前髪に自然な毛束を残し、耳を一部見せ、襟足に少し長さを残します。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ショート〜ミディアム"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 1
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "前〜斜め上に自然な毛束"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "強い分け目なし"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "普通"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "耳を一部見せ、襟足に少し長さを残す"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "暗い茶色"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ],
+        "source_caveat": "資料は2007〜2008年のユニフォーム時期。厳密な撮影日は未確認。"
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "あご先に小さく入るヒゲ"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "薄め"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "白・黒系を仮設定。2007年の特定モデルは未確認"
+          }
+        ]
+      },
+      "id": "koji-yamase-2007-yokohama-f-marinos",
+      "name": "山瀬 功治",
+      "name_kana": "やませ こうじ",
+      "name_english": "KOJI YAMASE",
+      "shirt_name": "K.YAMASE",
+      "nationality": "日本",
+      "era": {
+        "year": 2007,
+        "season": "2007",
+        "label": "2007年・横浜F・マリノス",
+        "club": "横浜F・マリノス",
+        "selection_reason": "2007年はJ1で32試合11得点。中盤からドリブルで運び、ゴール前への飛び出しと力強いシュートで得点につなげる攻撃的MFを再現します。",
+        "reason_source_ids": [
+          "yamase_official_history"
+        ],
+        "source_check_status": "承認済み年度。当年資料・後年資料・未確認項目を区別して記録。"
+      },
+      "profile": {
+        "age": 26,
+        "height_cm": 173,
+        "weight_kg": 70,
+        "dominant_foot": "右",
+        "main_position": "OMF",
+        "shirt_number": 10,
+        "source_status": "2007年の所属・背番号10・32試合11得点と生年月日はクラブ公式の年度別記録で確認。年齢は2007年12月1日時点。173cm・70kgと右利きは2012年公式資料を参考にした仮入力で、2007年当年照合は未完了です。ユニフォームネームK.YAMASEは当年一次資料未確認。",
+        "birth_date": "1981-09-22",
+        "age_reference_date": "2007-12-01",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "2列目からの飛び出し",
+        "reason": "トップ下からドリブルで運び、味方のFWを追い越してフィニッシュへ入る役割を中心にします。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "ダブルタッチ",
+            "purpose": "狭い場所での切り返し"
+          },
+          {
+            "name": "ミドルシュート",
+            "purpose": "エリア外からの強いシュート"
+          },
+          {
+            "name": "ワンタッチシュート",
+            "purpose": "走り込んで少ないタッチで仕上げる"
+          },
+          {
+            "name": "ワンタッチパス",
+            "purpose": "前線との短い連係"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [
+          {
+            "name": "ダーティングドリブラー",
+            "enabled": true
+          },
+          {
+            "name": "ミドルシューター",
+            "enabled": true
+          }
+        ],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/yamase-2007-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2007年の山瀬 功治を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "status": "generated_and_integrated",
+          "generated_at": "2026-09-17",
+          "tool": "image_gen.imagegen",
+          "generation_count": 1,
+          "prompt": "Use case: stylized-concept. Create one football-game player appearance reference image. Landscape 1536x1024 pixels. Exactly two equally wide panels split at the center: LEFT a straight frontal head view looking directly at camera; RIGHT a TRUE 90-degree side profile looking to the viewer's right, only one eye visible. Both panels show the exact same named person, age and hairstyle. Equal head scale and equal horizontal eyeline, upright neutral pose, relaxed closed mouth. Frame complete hairstyle, head, neck and upper chest with breathing room above and around hair. Muted gray-blue seamless studio background in both panels. Soft diffuse studio lighting, neutral colors. Render as a realistic PS4-era football-game 3D character with slightly simplified game-model forms, lifelike skin texture and believable hair geometry. This is an AI visual reference, not an actual game screenshot. Keep each person's unique named likeness; never replace with a generic footballer or Yuichiro Nagai. No titles, labels, captions, watermark, UI, menus, decorative borders or readable text. Historical home-kit colors, collar, panels and trim must be correct; small crest shapes may appear but omit all readable lettering, sponsor text and jersey numbers.\nSubject: 山瀬功治 / Koji Yamase, age 26, Yokohama F. Marinos in 2007. Capture Yamase's distinctive narrow eyes, straight dark brows, angular cheekbones, tapered lower face, compact mouth and small dark chin goatee with very light moustache. His observed 2007 Adidas-kit photograph has SHORT-TO-MEDIUM dark brown-black hair, full textured top, a slightly side-swept broken fringe and longer feathered nape, ears partly exposed. Do not use a modern undercut or slick close crop. Clothing: 2007 Yokohama F. Marinos HOME jersey, rich royal blue Adidas Teamgeist design: blue round collar with narrow red insert at neck, white curved upper-chest/shoulder inserts, tricolor white/red shoulder stripe details. Reference observations from 2007 home-kit image https://pbs.twimg.com/media/GghNwYCWkAAVmJA.jpg (page https://x.com/NavyBlueWasp/status/1875834837808144518). Use the likeness and hair of Koji Yamase specifically. No long curls, no ponytail.",
+          "sources": [
+            {
+              "image_url": "https://pbs.twimg.com/media/GghNwYCWkAAVmJA.jpg",
+              "observed": "Yamase number10 in 2007 Adidas Teamgeist home design; textured dark brown short-to-medium hair with swept broken fringe, feathered nape and small chin goatee.",
+              "photo_date": "2007–2008 kit era; exact original match date unverified",
+              "url": "https://x.com/NavyBlueWasp/status/1875834837808144518"
+            }
+          ],
+          "uniform": {
+            "club": "横浜F・マリノス",
+            "year": 2007,
+            "variant": "home"
+          },
+          "composition": "正面と右向き横顔を左右等分。1536×1024。",
+          "asset": {
+            "path": "./assets/yamase-2007-reference.webp",
+            "format": "webp",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "sha256": "332d3d585eb804adf325c2e455317daf9de7e2e91c1a528bd55eefcc07c72fea",
+            "conversion": "PNGからWebPへ変換。寸法・構図の変更なし。"
+          },
+          "qa": {
+            "checked": true,
+            "checks": [
+              "髪型全体が見える",
+              "正面と右向き横顔",
+              "再現年度のクラブホーム用の配色"
+            ],
+            "limitations": [
+              "AI likeness and kit details are approximate; these are not game screenshots.",
+              "Yamase source repost is dated only to the identifiable 2007–2008 kit era; exact original photograph date unverified.",
+              "Generated club crests contain small pseudo-lettering; no captions, UI or sponsor text.",
+              "Tamada hair appears slightly fuller and more styled than the JFA2010 match photograph."
+            ]
+          },
+          "ps4_verified": false,
+          "actual_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "yamase_official_history",
+          "publisher": "川崎フロンターレ公式・2012年山瀬功治プロフィール／年度別記録",
+          "url": "https://www.frontale.co.jp/profile/2012/mem_13.html",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2007年横浜F・マリノス・背番号10・J1で32試合11得点",
+            "生年月日1981年9月22日",
+            "2012年時点の173cm・70kg・右利き"
+          ],
+          "caveat": "身体値・利き足の欄は2012年2月12日時点。2007年の身体値を確認した資料ではありません。",
+          "game_values_verified": false
+        },
+        {
+          "id": "yamase-2007_appearance_1",
+          "publisher": "外観・ユニフォーム参考資料",
+          "url": "https://x.com/NavyBlueWasp/status/1875834837808144518",
+          "image_url": "https://pbs.twimg.com/media/GghNwYCWkAAVmJA.jpg",
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "checked_for": [
+            "Yamase number10 in 2007 Adidas Teamgeist home design; textured dark brown short-to-medium hair with swept broken fringe, feathered nape and small chin goatee."
+          ],
+          "reference_date": "2007–2008 kit era; exact original match date unverified",
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "2007年の所属・背番号10・32試合11得点と生年月日はクラブ公式の年度別記録で確認。年齢は2007年12月1日時点。173cm・70kgと右利きは2012年公式資料を参考にした仮入力で、2007年当年照合は未完了です。ユニフォームネームK.YAMASEは当年一次資料未確認。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存13人の入力形式に従い、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査を実施。PS4版2020の公式編集項目・選択肢・入力範囲は一次資料で確定できず、実機未確認。外見の値は仮設定。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "2007年当年の身長・体重・利き足の資料",
+          "ユニフォームネームK.YAMASEの当年資料"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "山瀬",
+        "功治"
+      ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "RWG",
+            "main": true,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "ST",
+            "main": false,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "CF",
+            "main": false,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "LWG",
+            "main": false,
+            "suitability": "準適性"
+          },
+          {
+            "position": "OMF",
+            "main": false,
+            "suitability": "準適性"
+          },
+          {
+            "position": "RMF",
+            "main": false,
+            "suitability": "準適性"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "3トップの右を主登録にし、左足で内側へ持ち込む役割を重視。STやCFでも、味方と短くつないで動き直す使い方を想定します。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 82
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 84
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 86
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 83
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 79
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 76
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 81
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 60
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 77
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 80
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 84
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 87
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 80
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 66
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 66
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 86
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 78
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 46
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 49
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 59
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 2
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 2
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 6
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "左足のドリブル86・瞬発力87・ボディコントロール86で、細かく角度を変える突破を独自査定。決定力81とパス79で2010年の連係と得点を表現し、競り合いの強さは控えめにしています。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 173,
+        "weight_kg": 67,
+        "note": "小柄で細身、腰まわりを細めにして俊敏さが伝わる体形を目指す仮案。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 0
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": -1
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": -1
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 0
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": -2
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": -1
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 0
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 0
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 0
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 0
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "卵形でやや細い輪郭、切れ長の目、整った細めの眉、細めの鼻筋とすっきりした口元を目安にします。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "自然な少し日焼けした肌色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "切れ長でやや細め"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "目の下をふくらませすぎない"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "暗い茶色"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "細めで緩い角度の眉"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "細めの鼻筋。鼻先は尖らせすぎない"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "薄め"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "中程度の厚み"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "横幅を控えめにしたなめらかな頬"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "少し細くなるあご"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 1
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": -1
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 0
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 0
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": -1
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 0
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 0
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": -1
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": -1
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "2010年の暗い茶色のレイヤーを目安に、前髪と襟足に長さを残す仮案。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ショート〜ミディアム"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 1
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "毛束を斜めに流す"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "サイド寄り"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "普通"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "耳に少しかかる長さ、襟足を残す"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "暗い茶色"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "なし"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒に近い暗い茶色"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "なし"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "白・黒系を仮設定。2010年の特定モデルは未確認"
+          }
+        ]
+      },
+      "id": "keiji-tamada-2010-nagoya-grampus",
+      "name": "玉田 圭司",
+      "name_kana": "たまだ けいじ",
+      "name_english": "KEIJI TAMADA",
+      "shirt_name": "TAMADA",
+      "nationality": "日本",
+      "era": {
+        "year": 2010,
+        "season": "2010",
+        "label": "2010年・名古屋グランパス",
+        "club": "名古屋グランパス",
+        "selection_reason": "J1で29試合13得点を挙げた2010年の名古屋グランパス版。右から中央へ入る左足のドリブルと前線の連係、ゴール前での仕上げを軸に再現します。",
+        "reason_source_ids": [
+          "tamada_official_history",
+          "tamada_2010_match"
+        ],
+        "source_check_status": "承認済み年度。当年資料・後年資料・未確認項目を区別して記録。"
+      },
+      "profile": {
+        "age": 30,
+        "height_cm": 173,
+        "weight_kg": 67,
+        "dominant_foot": "左",
+        "main_position": "RWG",
+        "shirt_number": 11,
+        "source_status": "2010年の所属・29試合13得点はクラブ公式、背番号11は2010年2月28日の公式試合資料で確認。173cm・67kgと生年月日はJFAの2010年W杯選手資料で確認。年齢は2010年12月4日時点の30歳。左利きは2018年の公式回答で確認しましたが、当年資料との照合は未実施。ユニフォームネームTAMADAは当年一次資料未確認。",
+        "birth_date": "1980-04-11",
+        "age_reference_date": "2010-12-04",
+        "height_weight_verified_for_era": true
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "チャンスメイカー",
+        "reason": "3トップの右を主登録にし、左足で内側へ持ち込む役割を重視。STやCFでも、味方と短くつないで動き直す使い方を想定します。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "ダブルタッチ",
+            "purpose": "左足中心の鋭い切り返し"
+          },
+          {
+            "name": "コントロールカーブ",
+            "purpose": "左足でコースを狙うシュート"
+          },
+          {
+            "name": "ワンタッチシュート",
+            "purpose": "味方のパスを少ないタッチで仕上げる"
+          },
+          {
+            "name": "ワンタッチパス",
+            "purpose": "前線のコンビネーション"
+          },
+          {
+            "name": "スルーパス",
+            "purpose": "中央の味方へ通すパス"
+          },
+          {
+            "name": "アウトスピンキック",
+            "purpose": "左足の外側を使った変化"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [
+          {
+            "name": "テクニシャン",
+            "enabled": true
+          },
+          {
+            "name": "インサイドカッター",
+            "enabled": true
+          },
+          {
+            "name": "ダーティングドリブラー",
+            "enabled": true
+          }
+        ],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/tamada-2010-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2010年の玉田 圭司を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "status": "generated_and_integrated",
+          "generated_at": "2026-09-17",
+          "tool": "image_gen.imagegen",
+          "generation_count": 1,
+          "prompt": "Use case: stylized-concept. Create one football-game player appearance reference image. Landscape 1536x1024 pixels. Exactly two equally wide panels split at the center: LEFT a straight frontal head view looking directly at camera; RIGHT a TRUE 90-degree side profile looking to the viewer's right, only one eye visible. Both panels show the exact same named person, age and hairstyle. Equal head scale and equal horizontal eyeline, upright neutral pose, relaxed closed mouth. Frame complete hairstyle, head, neck and upper chest with breathing room above and around hair. Muted gray-blue seamless studio background in both panels. Soft diffuse studio lighting, neutral colors. Render as a realistic PS4-era football-game 3D character with slightly simplified game-model forms, lifelike skin texture and believable hair geometry. This is an AI visual reference, not an actual game screenshot. Keep each person's unique named likeness; never replace with a generic footballer or Yuichiro Nagai. No titles, labels, captions, watermark, UI, menus, decorative borders or readable text. Historical home-kit colors, collar, panels and trim must be correct; small crest shapes may appear but omit all readable lettering, sponsor text and jersey numbers.\nSubject: 玉田圭司 / Keiji Tamada, age 30, Nagoya Grampus in 2010. Preserve Tamada's recognizable youthful oval-to-heart-shaped face, softly rounded cheeks, small tapered chin, low straight eyebrows, narrow dark eyes, medium-small nose, and compact lips; clean-shaven. Hair: dark brown nearly black SHORT-TO-MEDIUM layered hair, full crown, straight textured pieces and loose side-swept fringe across the upper forehead, short sideburns and a little length at the nape, ears mostly visible. Base hair on his 2010 JFA World Cup archive, not later career hair: https://www.jfa.jp/samuraiblue/worldcup_history/assets/images/2010/pop/fw11.png. Clothing: 2010 Nagoya Grampus HOME le coq sportif jersey with vivid red sleeves, distinct red and orange vertical torso stripes, and a BLACK V-neck with red/orange inner collar. Reference actual shirt https://sc3.locondo.jp/contents/commodity_image/LE/LE1452EU20724_1_l.jpg. Do not show Japan national kit or a modern Nagoya shirt.",
+          "sources": [
+            {
+              "image_url": "https://www.jfa.jp/samuraiblue/worldcup_history/assets/images/2010/pop/fw11.png",
+              "observed": "Layered dark short-to-medium hair with forehead fringe, ears mostly clear; clean-shaven. Official profile shows173cm67kg and age30.",
+              "photo_date": "2010 FIFA World Cup; profile reference date 2010-06-11",
+              "url": "https://www.jfa.jp/samuraiblue/worldcup_history/2010/"
+            },
+            {
+              "image_url": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1452EU20724_1_l.jpg",
+              "observed": "Red/orange vertical stripes, red sleeves, black V-neck, le coq sportif.",
+              "photo_date": "2010 home kit catalog; product release2010-03",
+              "url": "https://www.sports-ws.com/commodity/SKOB1347D/LE1452EU20724/"
+            },
+            {
+              "observed": "Official match record confirms Tamada club shirt11; browser photo inaccessible due Cloudflare challenge.",
+              "photo_date": "2010-02-28",
+              "url": "https://nagoya-grampus.jp/game/result/2010/02282010jvsfc/"
+            }
+          ],
+          "uniform": {
+            "club": "名古屋グランパス",
+            "year": 2010,
+            "variant": "home"
+          },
+          "composition": "正面と右向き横顔を左右等分。1536×1024。",
+          "asset": {
+            "path": "./assets/tamada-2010-reference.webp",
+            "format": "webp",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "sha256": "4356dd124a0c56b1b538c7d8f484b066b3753de8211274184a9259cf707d2472",
+            "conversion": "PNGからWebPへ変換。寸法・構図の変更なし。"
+          },
+          "qa": {
+            "checked": true,
+            "checks": [
+              "髪型全体が見える",
+              "正面と右向き横顔",
+              "再現年度のクラブホーム用の配色"
+            ],
+            "limitations": [
+              "AI likeness and kit details are approximate; these are not game screenshots.",
+              "Generated club crests contain small pseudo-lettering; no captions, UI or sponsor text.",
+              "Tamada hair appears slightly fuller and more styled than the JFA2010 match photograph."
+            ]
+          },
+          "ps4_verified": false,
+          "actual_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "tamada_official_history",
+          "publisher": "名古屋グランパス公式・2018年玉田圭司プロフィール／年度別記録",
+          "url": "https://nagoya-grampus.jp/team/top/player/2018/28-keiji-tamada.html",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2010年名古屋グランパス・J1で29試合13得点",
+            "生年月日1980年4月11日",
+            "2018年時点の左利き"
+          ],
+          "caveat": "当ページの173cm・68kgは2018年の値なので、2010年版の体重へ流用しません。",
+          "game_values_verified": false
+        },
+        {
+          "id": "tamada_2010_match",
+          "publisher": "名古屋グランパス公式・2010年2月28日FC岐阜戦",
+          "url": "https://nagoya-grampus.jp/game/result/2010/02282010jvsfc/",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2010年の所属と背番号11",
+            "当時のホームユニフォーム"
+          ],
+          "caveat": "プレシーズンの試合資料。年間出場記録とは別です。",
+          "game_values_verified": false
+        },
+        {
+          "id": "tamada_jfa_2010",
+          "publisher": "JFA公式・2010年ワールドカップ玉田圭司選手資料",
+          "url": "https://www.jfa.jp/samuraiblue/worldcup_history/assets/images/2010/pop/fw11.png",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2010年6月11日時点の173cm・67kg",
+            "生年月日1980年4月11日・30歳",
+            "2010年の顔・髪型"
+          ],
+          "caveat": "当画像の代表番号11とクラブ番号の確認は別資料。",
+          "game_values_verified": false
+        },
+        {
+          "id": "tamada-2010_appearance_1",
+          "publisher": "外観・ユニフォーム参考資料",
+          "url": "https://www.jfa.jp/samuraiblue/worldcup_history/2010/",
+          "image_url": "https://www.jfa.jp/samuraiblue/worldcup_history/assets/images/2010/pop/fw11.png",
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "checked_for": [
+            "Layered dark short-to-medium hair with forehead fringe, ears mostly clear; clean-shaven. Official profile shows173cm67kg and age30."
+          ],
+          "reference_date": "2010 FIFA World Cup; profile reference date 2010-06-11",
+          "game_values_verified": false
+        },
+        {
+          "id": "tamada-2010_appearance_2",
+          "publisher": "外観・ユニフォーム参考資料",
+          "url": "https://www.sports-ws.com/commodity/SKOB1347D/LE1452EU20724/",
+          "image_url": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1452EU20724_1_l.jpg",
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "checked_for": [
+            "Red/orange vertical stripes, red sleeves, black V-neck, le coq sportif."
+          ],
+          "reference_date": "2010 home kit catalog; product release2010-03",
+          "game_values_verified": false
+        },
+        {
+          "id": "tamada-2010_appearance_3",
+          "publisher": "外観・ユニフォーム参考資料",
+          "url": "https://nagoya-grampus.jp/game/result/2010/02282010jvsfc/",
+          "image_url": null,
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "checked_for": [
+            "Official match record confirms Tamada club shirt11; browser photo inaccessible due Cloudflare challenge."
+          ],
+          "reference_date": "2010-02-28",
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "2010年の所属・29試合13得点はクラブ公式、背番号11は2010年2月28日の公式試合資料で確認。173cm・67kgと生年月日はJFAの2010年W杯選手資料で確認。年齢は2010年12月4日時点の30歳。左利きは2018年の公式回答で確認しましたが、当年資料との照合は未実施。ユニフォームネームTAMADAは当年一次資料未確認。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存13人の入力形式に従い、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査を実施。PS4版2020の公式編集項目・選択肢・入力範囲は一次資料で確定できず、実機未確認。外見の値は仮設定。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "ユニフォームネームTAMADAと当年利き足の資料"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "玉田",
+        "圭司"
+      ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "CB",
+            "main": true,
+            "suitability": "適性あり"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "4バックのCB、または3バックの中央・左右で、相手FWへの対応とクロスの跳ね返しを担当します。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 62
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 68
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 61
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 63
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 69
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 70
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 58
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 89
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 51
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 49
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 74
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 67
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 78
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 87
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 89
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 64
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 84
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 89
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 87
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 83
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 2
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 2
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 7
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 3
+          }
+        ],
+        "rationale": "ヘディング89・フィジカルコンタクト89・ジャンプ87で競り合いを、ディフェンスセンス89・ボール奪取87で中央の守備を独自査定。攻撃時の足技や急加速は抑え、長所を空中戦と守備対応に集中させます。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 187,
+        "weight_kg": 78,
+        "note": "長身で肩幅と胸まわりをしっかりさせ、空中戦の強さが伝わる体形にする仮案。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 0
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": 1
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 2
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 2
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": 0
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": 1
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 1
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 1
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 1
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 0
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "縦長で骨格のはっきりした輪郭、濃い眉、横長の目、通った鼻筋、しっかりしたあごを目安にします。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "健康的に日焼けした自然な肌色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "横長でやや奥まった目"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "輪郭を残しつつふくらみは控えめ"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "黒に近いこげ茶"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "太めで濃い眉"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "長めでしっかり通った鼻筋"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "薄め〜中程度"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "中程度の厚さ"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬骨を少しはっきりさせる"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "幅があり角張りすぎないあご"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 2
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": 0
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 1
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 1
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 1
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": 0
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 1
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 1
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": 1
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": 1
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "2004年のボリュームのある黒いウェーブヘア。耳と襟足を覆う長さを残し、結ばずに下ろす仮案。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ミディアム〜ロング"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 3
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "額を出し、外側・後ろへ流す"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "強い分け目なし"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "普通"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "耳まわりと首にかかる長さ、毛先にウェーブ"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "黒"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "なし〜ごく薄めを出発点とする"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "薄め"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "黒・白系を仮設定。2004年の特定モデルは未確認"
+          }
+        ]
+      },
+      "id": "yuji-nakazawa-2004-yokohama-f-marinos",
+      "name": "中澤 佑二",
+      "name_kana": "なかざわ ゆうじ",
+      "name_english": "YUJI NAKAZAWA",
+      "shirt_name": "NAKAZAWA",
+      "nationality": "日本",
+      "era": {
+        "year": 2004,
+        "season": "2004",
+        "label": "2004年・横浜F・マリノス",
+        "club": "横浜F・マリノス",
+        "selection_reason": "空中戦と対人守備で最終ラインを支える2004年の横浜F・マリノス版。当時の力強さとセットプレーでのヘディングを軸に再現します。",
+        "reason_source_ids": [
+          "nakazawa_joc_2000"
+        ],
+        "source_check_status": "承認済み年度。当年資料・後年資料・未確認項目を区別して記録。"
+      },
+      "profile": {
+        "age": 26,
+        "height_cm": 187,
+        "weight_kg": 78,
+        "dominant_foot": "右",
+        "main_position": "CB",
+        "shirt_number": 22,
+        "source_status": "生年月日と187cm・78kgはJOCの2000年公式プロフィールで確認。年齢は2004年12月11日時点。身体値は2004年当年の確認が未完了のため仮入力です。背番号22・右利き・ユニフォームネームNAKAZAWAは2004年当年の一次資料未確認の仮設定。",
+        "birth_date": "1978-02-25",
+        "age_reference_date": "2004-12-11",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "ハードプレス",
+        "reason": "4バックのCB、または3バックの中央・左右で、相手FWへの対応とクロスの跳ね返しを担当します。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "ヘッダー",
+            "purpose": "競り合いとセットプレーでのヘディング"
+          },
+          {
+            "name": "マンマーク",
+            "purpose": "相手FWを追う対人守備"
+          },
+          {
+            "name": "インターセプト",
+            "purpose": "相手のパスコースへ入る守備"
+          },
+          {
+            "name": "アクロバティッククリア",
+            "purpose": "崩れた体勢でもボールを遠ざける"
+          },
+          {
+            "name": "闘争心",
+            "purpose": "最後まで守備に集中する姿勢"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/nakazawa-2004-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2004年の中澤 佑二を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "status": "generated_and_integrated",
+          "generated_at": "2026-09-17",
+          "tool": "image_gen.imagegen",
+          "generation_count": 1,
+          "prompt": "Use case: stylized-concept. Create one football-game player appearance reference image. Landscape 1536x1024 pixels. Exactly two equally wide panels split at the center: LEFT a straight frontal head view looking directly at camera; RIGHT a TRUE 90-degree side profile looking to the viewer's right, only one eye visible. Both panels show the exact same named person, age and hairstyle. Equal head scale and equal horizontal eyeline, upright neutral pose, relaxed closed mouth. Frame complete hairstyle, head, neck and upper chest with breathing room above and around hair. Muted gray-blue seamless studio background in both panels. Soft diffuse studio lighting, neutral colors. Render as a realistic PS4-era football-game 3D character with slightly simplified game-model forms, lifelike skin texture and believable hair geometry. This is an AI visual reference, not an actual game screenshot. Keep each person's unique named likeness; never replace with a generic footballer or Yuichiro Nagai. No titles, labels, captions, watermark, UI, menus, decorative borders or readable text. Historical home-kit colors, collar, panels and trim must be correct; small crest shapes may appear but omit all readable lettering, sponsor text and jersey numbers.\nSubject: 中澤佑二 / Yuji Nakazawa, age 26, Yokohama F. Marinos in 2004. Preserve Nakazawa's unmistakable long angular face, high cheekbones, strong long nose, narrow eyes beneath thick eyebrows, pronounced chin and athletic neck. Very light facial stubble rather than a full beard. Historical hair: LOOSE voluminous black/dark brown wavy textured bomber hair, irregular loose center/off-center part, long sides falling around ears and thick neck-length/upper-shoulder nape. The whole large hair silhouette must be visible in both panels, including rear of hair in true profile. Do not tie it into a modern bun or ponytail. Base this on his December2004 championship MVP photograph https://d1uzk9o9cg136f.cloudfront.net/f/16783519/rc/2020/04/30/231e8e1f982af623d8f049a1fd0f63a7e692761f_xlarge.jpg and the dated June1 2004 photo https://www.sporting-heroes.net/content/thumbnails/00233/23248-zoom.jpg, which both show loose period bomber hair. Clothing: 2004 Yokohama F. Marinos HOME Adidas jersey, royal blue body, red collar with fine white edging, classic white Adidas shoulder stripes with red accents. It is the2004 club home shirt, not national team or a modern club shirt.",
+          "sources": [
+            {
+              "credit": "J.LEAGUE via Soccer Magazine",
+              "image_url": "https://d1uzk9o9cg136f.cloudfront.net/f/16783519/rc/2020/04/30/231e8e1f982af623d8f049a1fd0f63a7e692761f_xlarge.jpg",
+              "observed": "Loose voluminous dark wavy hair to neck/upper shoulders, parted fringe. Royal blue home shirt with red collar and white/red shoulder striping.",
+              "photo_date": "2004 J.League championship MVP ceremony; article2020-05-01",
+              "url": "https://soccermagazine.jp/_ct/17360857/p2"
+            },
+            {
+              "credit": "George Herringshaw",
+              "image_url": "https://www.sporting-heroes.net/content/thumbnails/00233/23248-zoom.jpg",
+              "observed": "Loose black bomber hair, visibly long and voluminous. Japan away kit used only as hair reference.",
+              "photo_date": "2004-06-01",
+              "url": "https://www.sporting-heroes.net/football/japan/yuji-nakazawa-11217/england-1-1-japan-1st-june-2004_a23248/"
+            }
+          ],
+          "uniform": {
+            "club": "横浜F・マリノス",
+            "year": 2004,
+            "variant": "home"
+          },
+          "composition": "正面と右向き横顔を左右等分。1536×1024。",
+          "asset": {
+            "path": "./assets/nakazawa-2004-reference.webp",
+            "format": "webp",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "sha256": "15d321d3799476763b553e1c78fb3a09eb2bc8d7bcf970d210921d9a730f8a04",
+            "conversion": "PNGからWebPへ変換。寸法・構図の変更なし。"
+          },
+          "qa": {
+            "checked": true,
+            "checks": [
+              "髪型全体が見える",
+              "正面と右向き横顔",
+              "再現年度のクラブホーム用の配色"
+            ],
+            "limitations": [
+              "AI likeness and kit details are approximate; these are not game screenshots.",
+              "Generated club crests contain small pseudo-lettering; no captions, UI or sponsor text."
+            ]
+          },
+          "ps4_verified": false,
+          "actual_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "nakazawa_joc_2000",
+          "publisher": "日本オリンピック委員会・シドニー2000 中澤佑二",
+          "url": "https://www.joc.or.jp/games/olympic/sydney/sports/football/team/nakazawayuji.html",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "生年月日1978年2月25日",
+            "2000年時点の187cm・78kg"
+          ],
+          "caveat": "身体値の確認年は2000年。2004年の身体値が一致するかは未確認です。",
+          "game_values_verified": false
+        },
+        {
+          "id": "nakazawa-2004_appearance_1",
+          "publisher": "J.LEAGUE via Soccer Magazine",
+          "url": "https://soccermagazine.jp/_ct/17360857/p2",
+          "image_url": "https://d1uzk9o9cg136f.cloudfront.net/f/16783519/rc/2020/04/30/231e8e1f982af623d8f049a1fd0f63a7e692761f_xlarge.jpg",
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "checked_for": [
+            "Loose voluminous dark wavy hair to neck/upper shoulders, parted fringe. Royal blue home shirt with red collar and white/red shoulder striping."
+          ],
+          "reference_date": "2004 J.League championship MVP ceremony; article2020-05-01",
+          "game_values_verified": false
+        },
+        {
+          "id": "nakazawa-2004_appearance_2",
+          "publisher": "George Herringshaw",
+          "url": "https://www.sporting-heroes.net/football/japan/yuji-nakazawa-11217/england-1-1-japan-1st-june-2004_a23248/",
+          "image_url": "https://www.sporting-heroes.net/content/thumbnails/00233/23248-zoom.jpg",
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "checked_for": [
+            "Loose black bomber hair, visibly long and voluminous. Japan away kit used only as hair reference."
+          ],
+          "reference_date": "2004-06-01",
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "生年月日と187cm・78kgはJOCの2000年公式プロフィールで確認。年齢は2004年12月11日時点。身体値は2004年当年の確認が未完了のため仮入力です。背番号22・右利き・ユニフォームネームNAKAZAWAは2004年当年の一次資料未確認の仮設定。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存13人の入力形式に従い、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査を実施。PS4版2020の公式編集項目・選択肢・入力範囲は一次資料で確定できず、実機未確認。外見の値は仮設定。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "2004年当年の身長・体重の資料",
+          "当年の背番号・利き足・ユニフォームネームの一次資料"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "中澤",
+        "佑二"
+      ]
     }
   ],
   "catalog": {
     "title": "ウイイレ2020 日本代表エディット図鑑",
-    "version": "1.6.0",
-    "updated_at": "2026-09-17T01:37:57.245078+00:00",
+    "version": "1.7.0",
+    "updated_at": "2026-09-17T03:01:02.057230+00:00",
     "site_project_id": "appgprj_6aa9d6dd0e8481918a538a8d49a4ab2d",
     "registration_order": [
       {
@@ -8562,6 +10649,21 @@
         "player_id": "ariajasuru-hasegawa-2013-fc-tokyo",
         "order": 13,
         "added_at": "2026-09-17T01:37:57.245078+00:00"
+      },
+      {
+        "player_id": "koji-yamase-2007-yokohama-f-marinos",
+        "order": 14,
+        "added_at": "2026-09-17T03:01:02.057230+00:00"
+      },
+      {
+        "player_id": "keiji-tamada-2010-nagoya-grampus",
+        "order": 15,
+        "added_at": "2026-09-17T03:01:02.057230+00:00"
+      },
+      {
+        "player_id": "yuji-nakazawa-2004-yokohama-f-marinos",
+        "order": 16,
+        "added_at": "2026-09-17T03:01:02.057230+00:00"
       }
     ],
     "change_history": [
@@ -8714,6 +10816,23 @@
           "長谷川の長い名前は「長谷川／アーリア／ジャスール」の意味の区切りで折り返せるよう対応。",
           "既存の写真表示、年表示なし、確認事項非表示、余白の修正を維持。"
         ]
+      },
+      {
+        "version": "1.7.0",
+        "date": "2026-09-17T03:01:02.057230+00:00",
+        "player_ids": [
+          "koji-yamase-2007-yokohama-f-marinos",
+          "keiji-tamada-2010-nagoya-grampus",
+          "yuji-nakazawa-2004-yokohama-f-marinos"
+        ],
+        "changes": [
+          "第3回：山瀬功治2007・玉田圭司2010・中澤佑二2004を承認済みの順で追加。全16人。",
+          "既存13人の全項目・数値・画像パス・登録順を保持。",
+          "全25能力・逆足等4項目・適性・スキル・体形・顔・髪型・ヒゲ・着こなしを個別作成。能力は独自査定、外見は実機未確認の仮設定。",
+          "当年に確認できないプロフィールを後年資料と区別し、出典と未確認項目を保存。",
+          "各選手1回の生成で正面・横顔のAI参考画像を追加。実機の再現結果ではない。",
+          "前回の名前の区切り・スマホ画像・既存の表示設定を維持。"
+        ]
       }
     ],
     "handoff_documents": [
@@ -8777,6 +10896,15 @@
         "player_id": "yuhei-tokunaga-2012-fc-tokyo",
         "filename": "tokunaga-2012.md",
         "content": "# 徳永 悠平・2012年FC東京版の作成記録\n\n作成日：2026-09-16。ユーザー指定による新規追加。再現年度の選定とゲーム能力値は図鑑用の判断です。\n\n## 再現年度とプロフィール\n\nFC東京でJ1に31試合出場。オーバーエイジで臨んだロンドン五輪では日本の4位に貢献した。左右の守備に対応できる、対人の強さと安定感を再現。\n\n生年月日・180cm/76kg・28歳はJOCロンドン2012選手名鑑（2012年7月27日時点）。FC東京の年度別アーカイブは77kg表記だが、時点の明確な五輪資料を採用。背番号2とクラブ用ユニフォームはFC東京の2012年ページ。利き足はサッカーキングで確認。\n\n## ゲーム内の設定方針\n\n相手の仕掛けに粘り強く対応し、守備へ戻れるサイドバック。ディフェンスセンス81・ボール奪取80・スタミナ87を軸に、スピード80とフィジカルコンタクト80で広い範囲を支える。\n\nメインポジション：RSB。プレースタイル：守備的サイドバック。右サイドバックを基本に、左サイドにも対応。中央の守備は準適性とし、対人対応と守備の安定を重視。\n\n数値は資料の公式ゲームデータを転載したものではなく、今回個別に作成した設定です。PS4版ウイニングイレブン2020の実機で、入力範囲・スタイルの動作・顔の再現は未検証です。総合値と顔パーツ種類番号、記載していない細部調整はnullを保持し、0で補完しません。\n\n## 顔と髪型\n\nFC東京公式2012年プロフィール写真の特徴を基にした開始値。正確なパーツ番号や入力範囲は実機未確認。\n\nやや縦長で引き締まった輪郭。横に長い目、まっすぐな眉、通った鼻筋、細めのあごを合わせる。口ヒゲとあご先のヒゲも特徴にする。\n\n暗い茶色の短髪。トップを短い束で立たせ、額を出す。耳まわりは短く整え、長い襟足やヘアバンドは付けない。\n\n## 参照先と確認範囲\n\n- [JOC・ロンドン2012選手名鑑](https://www.joc.or.jp/games/olympic/london/sports/football/team/tokunagayuhei.html)：2012年7月27日時点の28歳・180cm/76kg・FC東京所属・生年月日\n- [FC東京・2012年公式プロフィール](https://www.fctokyo.co.jp/team/players/2012/296617/)：当時の背番号2と公式掲載写真／アーカイブの77kg表記。採用値76kgとの相違を記録\n- [JOC・オリンピック成績](https://www.joc.or.jp/athletes/yuheitokunaga/index.html)：ロンドン2012・男子4位\n- [FC東京・移籍発表内の代表歴](https://www.fctokyo.co.jp/news/details/304872/)：2012年五輪のオーバーエイジ枠。後年の体重は採用しない\n- [サッカーキング・プロフィール](https://www.soccer-king.jp/player/article/413879.html)：2012年J1の31試合1得点／利き足：右\n- [外観資料の確認記録](https://www.fctokyo.co.jp/team/players/2012/296617/)：FC東京公式2012年プロフィール写真の特徴を基にした開始値。正確なパーツ番号や入力範囲は実機未確認。\n\n注意書きと出典の画面表示は、ユーザーの既存指定に従い非表示。参照情報はこの記録と全選手JSONに保持します。既存の石川・梶山の設定を再査定したものではありません。\n\n\n## 参考画像の作成と確認\n\n正面・右向き横顔を等分した1536×1024 PNGを生成し、顔・髪型・当時のホーム用ユニフォームを目視確認。実機のレンダリングではありません。画像の出典、生成指示全文、確認範囲は全選手JSONの images.reference_generation に保存しています。\n\n- Roster content explicitly labels 2012 although its image was rehosted in a /2026/01/ asset directory. Neutral expression and exact profile geometry are inferred from the frontal smiling portrait.\n- AI-generated concept reference, not engine output; kit sponsor and crest fine details are approximate.\n"
+      },
+      {
+        "player_ids": [
+          "koji-yamase-2007-yokohama-f-marinos",
+          "keiji-tamada-2010-nagoya-grampus",
+          "yuji-nakazawa-2004-yokohama-f-marinos"
+        ],
+        "filename": "batch3-edit-guide.md",
+        "content": "# 第3回追加：山瀬・玉田・中澤\n\n既存13人の設定をすべて保持し、3人を登録順14〜16番へ追加。全16人。能力は独自査定、外見はPS4実機未確認の仮設定。\n\n## 山瀬 功治｜2007年・横浜F・マリノス\n\n2007年はJ1で32試合11得点。中盤からドリブルで運び、ゴール前への飛び出しと力強いシュートで得点につなげる攻撃的MFを再現します。\n\n2007年の所属・背番号10・32試合11得点と生年月日はクラブ公式の年度別記録で確認。年齢は2007年12月1日時点。173cm・70kgと右利きは2012年公式資料を参考にした仮入力で、2007年当年照合は未完了です。ユニフォームネームK.YAMASEは当年一次資料未確認。\n\n2007年のマリノス用写真を参考にした、暗い茶色の短め〜中程度の髪。トップと前髪に自然な毛束を残す仮案。写真の厳密な撮影日は未確認。\n\n### 参照資料\n\n- [川崎フロンターレ公式・2012年山瀬功治プロフィール／年度別記録](https://www.frontale.co.jp/profile/2012/mem_13.html)：2007年横浜F・マリノス・背番号10・J1で32試合11得点／生年月日1981年9月22日／2012年時点の173cm・70kg・右利き\n- [外観・ユニフォーム参考資料](https://x.com/NavyBlueWasp/status/1875834837808144518)：Yamase number10 in 2007 Adidas Teamgeist home design; textured dark brown short-to-medium hair with swept broken fringe, feathered nape and small chin goatee.\n\n### 画像の確認範囲\n\n1人につき1回生成。正面と右向き横顔、髪型、所属クラブのホーム用配色を確認。画像は実機の完成見本ではありません。顔・細部のユニフォームはAIによる近似で、玉田の髪は資料写真よりややボリュームがあります。\n\n## 玉田 圭司｜2010年・名古屋グランパス\n\nJ1で29試合13得点を挙げた2010年の名古屋グランパス版。右から中央へ入る左足のドリブルと前線の連係、ゴール前での仕上げを軸に再現します。\n\n2010年の所属・29試合13得点はクラブ公式、背番号11は2010年2月28日の公式試合資料で確認。173cm・67kgと生年月日はJFAの2010年W杯選手資料で確認。年齢は2010年12月4日時点の30歳。左利きは2018年の公式回答で確認しましたが、当年資料との照合は未実施。ユニフォームネームTAMADAは当年一次資料未確認。\n\n2010年の暗い茶色のレイヤーを目安に、前髪と襟足に長さを残す仮案。\n\n### 参照資料\n\n- [名古屋グランパス公式・2018年玉田圭司プロフィール／年度別記録](https://nagoya-grampus.jp/team/top/player/2018/28-keiji-tamada.html)：2010年名古屋グランパス・J1で29試合13得点／生年月日1980年4月11日／2018年時点の左利き\n- [名古屋グランパス公式・2010年2月28日FC岐阜戦](https://nagoya-grampus.jp/game/result/2010/02282010jvsfc/)：2010年の所属と背番号11／当時のホームユニフォーム\n- [JFA公式・2010年ワールドカップ玉田圭司選手資料](https://www.jfa.jp/samuraiblue/worldcup_history/assets/images/2010/pop/fw11.png)：2010年6月11日時点の173cm・67kg／生年月日1980年4月11日・30歳／2010年の顔・髪型\n- [外観・ユニフォーム参考資料](https://www.jfa.jp/samuraiblue/worldcup_history/2010/)：Layered dark short-to-medium hair with forehead fringe, ears mostly clear; clean-shaven. Official profile shows173cm67kg and age30.\n- [外観・ユニフォーム参考資料](https://www.sports-ws.com/commodity/SKOB1347D/LE1452EU20724/)：Red/orange vertical stripes, red sleeves, black V-neck, le coq sportif.\n- [外観・ユニフォーム参考資料](https://nagoya-grampus.jp/game/result/2010/02282010jvsfc/)：Official match record confirms Tamada club shirt11; browser photo inaccessible due Cloudflare challenge.\n\n### 画像の確認範囲\n\n1人につき1回生成。正面と右向き横顔、髪型、所属クラブのホーム用配色を確認。画像は実機の完成見本ではありません。顔・細部のユニフォームはAIによる近似で、玉田の髪は資料写真よりややボリュームがあります。\n\n## 中澤 佑二｜2004年・横浜F・マリノス\n\n空中戦と対人守備で最終ラインを支える2004年の横浜F・マリノス版。当時の力強さとセットプレーでのヘディングを軸に再現します。\n\n生年月日と187cm・78kgはJOCの2000年公式プロフィールで確認。年齢は2004年12月11日時点。身体値は2004年当年の確認が未完了のため仮入力です。背番号22・右利き・ユニフォームネームNAKAZAWAは2004年当年の一次資料未確認の仮設定。\n\n2004年のボリュームのある黒いウェーブヘア。耳と襟足を覆う長さを残し、結ばずに下ろす仮案。\n\n### 参照資料\n\n- [日本オリンピック委員会・シドニー2000 中澤佑二](https://www.joc.or.jp/games/olympic/sydney/sports/football/team/nakazawayuji.html)：生年月日1978年2月25日／2000年時点の187cm・78kg\n- [J.LEAGUE via Soccer Magazine](https://soccermagazine.jp/_ct/17360857/p2)：Loose voluminous dark wavy hair to neck/upper shoulders, parted fringe. Royal blue home shirt with red collar and white/red shoulder striping.\n- [George Herringshaw](https://www.sporting-heroes.net/football/japan/yuji-nakazawa-11217/england-1-1-japan-1st-june-2004_a23248/)：Loose black bomber hair, visibly long and voluminous. Japan away kit used only as hair reference.\n\n### 画像の確認範囲\n\n1人につき1回生成。正面と右向き横顔、髪型、所属クラブのホーム用配色を確認。画像は実機の完成見本ではありません。顔・細部のユニフォームはAIによる近似で、玉田の髪は資料写真よりややボリュームがあります。\n\n## 確認・次回引き継ぎ\n\n- 全選手JSON：players-v1.7.0.json。\n- 総合値・未確認の顔パーツ番号はnullを保持。\n- 出典・生成指示・未確認事項は全選手JSONに保存。画面上の注意書き非表示を維持。\n- 公開先は既存GitHub Pages。確認OK後に上書きする手順。\n- プロジェクトの情報源は直接差し替えていません。次回はplayers-v1.7.0.jsonを最新の全選手データとして使用。\n"
       }
     ],
     "reference_image_policy": {
@@ -8796,9 +10924,11 @@
     },
     "publication_request": {
       "provider": "GitHub",
-      "status": "awaiting_preview_review_and_repository",
-      "instruction": "追加3選手を確認し、問題なさそうならGitHubで公開したいというユーザー指示。公開先リポジトリは未指定。",
-      "date": "2026-09-16T02:15:38.246691+00:00"
+      "repository": "sakerock911-hub/we2020-japan-edit",
+      "url": "https://sakerock911-hub.github.io/we2020-japan-edit/",
+      "status": "awaiting_batch3_review",
+      "instruction": "引き継いだ「確認OK後にGitHubへ上書き」の手順を保持。3人追加版の確認用ファイルを準備し、公開版は既存13人の状態。",
+      "date": "2026-09-17"
     }
   }
 }
