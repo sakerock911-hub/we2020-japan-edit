@@ -10577,12 +10577,2828 @@
         "中澤",
         "佑二"
       ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "CB",
+            "main": true,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "DMF",
+            "main": false,
+            "suitability": "準適性"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "3バックの中央を基本に、守備では競り合いと跳ね返しを担当。セットプレーや流れを変えたい場面で前線へ上がります。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 75
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 73
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 65
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 68
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 74
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 76
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 69
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 89
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 58
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 57
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 75
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 68
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 82
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 86
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 90
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 66
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 83
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 87
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 86
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 89
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 2
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 2
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 7
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "ヘディング89・フィジカル90で空中戦、ディフェンスセンス87・ボール奪取86で守備を表現。オフェンスセンス75・決定力69はCBとしての得点参加を意識し、急加速や細かなドリブルは控えめにした独自査定。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 185,
+        "weight_kg": 82,
+        "note": "幅のある肩と厚い胸、しっかりした首・腕・下半身を持つ力強い体形の仮案。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 0
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": 2
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 2
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 2
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": 1
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": 2
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 2
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 1
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 0
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 0
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "高めの額、濃く弓なりの眉、奥まった横長の目、通った鼻筋と幅のあるあご。2006年の写真の骨格を目安にします。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "自然に日焼けした明るめの褐色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "やや奥まった横長の目"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "厚みを控えめに"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "こげ茶"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "濃く太い弓なりの眉"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "鼻筋が高く先端に厚み"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "薄め〜中程度"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "中程度"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬骨を軽く出す"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "幅があり輪郭の明確なあご"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 1
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": 1
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 1
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 2
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 2
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": 0
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 1
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 1
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": 2
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": 1
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "2006年の、額を出して後ろへ流した黒いウェーブヘア。耳まわりと襟足にカールを残します。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ミディアム〜ロング"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 2
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "額を出して後方へ流す"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "強い分け目なし"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "広め"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "耳まわりと襟足に緩いカールを残す"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "黒"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "口周りとあごの薄い無精ヒゲ"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "薄め"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "黒・白系を仮設定。対象シーズンの特定モデルは未確認"
+          }
+        ]
+      },
+      "id": "marcus-tulio-tanaka-2006-urawa-reds",
+      "name": "田中 マルクス 闘莉王",
+      "name_kana": "たなか まるくす とぅーりお",
+      "name_english": "MARCUS TULIO TANAKA",
+      "shirt_name": "TULIO",
+      "nationality": "日本",
+      "era": {
+        "year": 2006,
+        "season": "2006",
+        "label": "2006年・浦和レッズ",
+        "club": "浦和レッズ",
+        "selection_reason": "浦和のリーグ初優勝を支え、2006年のJ1で33試合7得点を記録したシーズン。空中戦と対人守備に、好機を見た攻撃参加を組み合わせたCBとして再現します。",
+        "reason_source_ids": [
+          "tulio_soccerking",
+          "tulio_jfa2010"
+        ],
+        "source_check_status": "継続候補の順で追加。当年資料と前後年資料、未確認項目を区別。"
+      },
+      "profile": {
+        "age": 25,
+        "height_cm": 185,
+        "weight_kg": 82,
+        "dominant_foot": "右",
+        "main_position": "CB",
+        "shirt_number": 4,
+        "source_status": "生年月日と185cm・82kgはJFAの2010年公式資料で確認。体格は2006年当年の確認が未完了のため、2010年値を仮入力。右利きはサッカーキングのプロフィールで確認。背番号4・ユニフォームネームTULIOの2006年当年の一次資料照合は未完了。",
+        "birth_date": "1981-04-24",
+        "age_reference_date": "2006-12-02",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "オーバーラップ",
+        "reason": "3バックの中央を基本に、守備では競り合いと跳ね返しを担当。セットプレーや流れを変えたい場面で前線へ上がります。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "ヘッダー",
+            "purpose": "セットプレーと空中戦での強さ"
+          },
+          {
+            "name": "マンマーク",
+            "purpose": "相手FWへの対人守備"
+          },
+          {
+            "name": "インターセプト",
+            "purpose": "中央のパスコースへの対応"
+          },
+          {
+            "name": "アクロバティッククリア",
+            "purpose": "体勢を崩した場面のクリア"
+          },
+          {
+            "name": "キャプテンシー",
+            "purpose": "最終ラインを鼓舞する役割"
+          },
+          {
+            "name": "闘争心",
+            "purpose": "攻守の競り合いを続ける姿勢"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [
+          {
+            "name": "ロングパサー",
+            "enabled": true
+          }
+        ],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/tulio-2006-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2006年の田中 マルクス 闘莉王を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "tool": "image_gen.imagegen",
+          "created_at": "2026-09-17",
+          "prompt": "Use case: stylized-concept. Create one football-game appearance reference image, landscape 1536x1024. Exactly two equal-width panels, split at the center: LEFT perfectly frontal head view looking directly at camera, RIGHT true 90-degree side profile facing the viewer's RIGHT with only one eye visible. Both panels depict the SAME specifically named real footballer at the specified historical age, with matching head scale, horizontal eyeline, hairstyle, neck and clothing. Neutral closed-mouth expression. Frame whole hairstyle, head, neck and upper chest with generous margin so hair is not cropped. Muted gray-blue seamless studio background, consistent soft diffuse light. Realistic PS4-era football-game 3D character rendering, subtly simplified game mesh anatomy, lifelike skin and game-style hair. An AI appearance concept, not a real screenshot. Preserve individual likeness rather than a generic face. No captions, names, letters, numbers, sponsor text, watermark, UI, or decorative border. Shirt geometry/colors from the specified period; a small simplified club crest and manufacturer symbol may appear without any lettering.\nSubject: 田中マルクス闘莉王 / Marcus Tulio Tanaka, age25 in2006, Urawa Red Diamonds. His distinctive broad elongated face, high forehead and receding temples, heavy dark arched brows, deep-set eyes, strong prominent nose, wide mouth and firm broad chin; subtle dark moustache and chin stubble. Hair is his period medium-long DARK BLACK WAVY hair brushed back off the forehead, slightly wet/swept-back texture, loose curls around the ears and at the neck-length nape; show the entire rear hairstyle in profile. Avoid modern shaved hair, topknot or exaggerated ponytail. Clothing: exact2006 Urawa HOME Nike shirt: red body and sleeves, BLACK curved shoulder panels and black underarm/side inserts, WHITE shallow V-neck mesh collar wrapping up the sides of the neck, small centered club crest below collar and a small gold swoosh on wearer's right chest. The2006 kit is corroborated by the club's2006 championship photo and matching period card and shirt catalog; do not use the misleading retail variant with large WHITE shoulder panels and black collar. Likeness/hair reference https://8zi3k70.mint-mall.net/upload/save_image/06161619_62aad988d4f5f.jpg. Kit reference https://baseec-img-mng.akamaized.net/images/item/origin/dcc6fc0755fc97107722b8fc00511138.jpg?imformat=generic and official archive https://www.urawa-reds.co.jp/game/img/data/2006.jpg.",
+          "generation_count": 1,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "period": "2006 Urawa Red Diamonds",
+          "uniform": {
+            "club": "浦和レッズ",
+            "season": "2006",
+            "variant": "home",
+            "sources": [
+              {
+                "url": "https://www.mint-mall.net/products/detail.php?product_id=441866",
+                "image_url": "https://8zi3k70.mint-mall.net/upload/save_image/06161619_62aad988d4f5f.jpg",
+                "photo_date": "2006 J.League official team-edition card; exact match date unverified",
+                "observed": "Dark medium-long wavy hair brushed back; loose curls at ears/nape; facial stubble; red/black shirt and white neckline."
+              },
+              {
+                "url": "https://www.urawa-reds.co.jp/en/game/records.php",
+                "image_url": "https://www.urawa-reds.co.jp/game/img/data/2006.jpg",
+                "photo_date": "2006 championship ceremony",
+                "observed": "Official club archive confirms red/black kit and white neckline."
+              },
+              {
+                "url": "https://firstwitness.base.shop/items/114346520",
+                "image_url": "https://baseec-img-mng.akamaized.net/images/item/origin/dcc6fc0755fc97107722b8fc00511138.jpg?imformat=generic",
+                "photo_date": "2006 kit catalog attribution",
+                "observed": "Black shoulder/side panels, white shallow V-neck mesh collar, centered crest; consistent with2006 player photography."
+              },
+              {
+                "url": "https://sportiva.shueisha.co.jp/clm/football/jleague_other/2025/06/16/2006/",
+                "image_url": "https://sportiva.shueisha.co.jp/clm/football/jleague_other/2025/assets_c/2025/06/TsuboiKeisuke250617b-thumb-600xauto-357788.jpg",
+                "photo_date": "2006 season retrospective published2025-06-16",
+                "observed": "Tsuboi photograph confirms kit geometry only; not a likeness reference."
+              }
+            ]
+          },
+          "sources": [
+            {
+              "url": "https://www.mint-mall.net/products/detail.php?product_id=441866",
+              "image_url": "https://8zi3k70.mint-mall.net/upload/save_image/06161619_62aad988d4f5f.jpg",
+              "photo_date": "2006 J.League official team-edition card; exact match date unverified",
+              "observed": "Dark medium-long wavy hair brushed back; loose curls at ears/nape; facial stubble; red/black shirt and white neckline."
+            },
+            {
+              "url": "https://www.urawa-reds.co.jp/en/game/records.php",
+              "image_url": "https://www.urawa-reds.co.jp/game/img/data/2006.jpg",
+              "photo_date": "2006 championship ceremony",
+              "observed": "Official club archive confirms red/black kit and white neckline."
+            },
+            {
+              "url": "https://firstwitness.base.shop/items/114346520",
+              "image_url": "https://baseec-img-mng.akamaized.net/images/item/origin/dcc6fc0755fc97107722b8fc00511138.jpg?imformat=generic",
+              "photo_date": "2006 kit catalog attribution",
+              "observed": "Black shoulder/side panels, white shallow V-neck mesh collar, centered crest; consistent with2006 player photography."
+            },
+            {
+              "url": "https://sportiva.shueisha.co.jp/clm/football/jleague_other/2025/06/16/2006/",
+              "image_url": "https://sportiva.shueisha.co.jp/clm/football/jleague_other/2025/assets_c/2025/06/TsuboiKeisuke250617b-thumb-600xauto-357788.jpg",
+              "photo_date": "2006 season retrospective published2025-06-16",
+              "observed": "Tsuboi photograph confirms kit geometry only; not a likeness reference."
+            }
+          ],
+          "limitations": [
+            "AI likeness and historical uniform details are approximate.",
+            "Tulio card is2006 edition; exact photograph date unverified.",
+            "Tomiyasu arrival photograph exact shoot date unverified; official hair reference is2021-09-26.",
+            "Nakamura trophy photograph date from image-search caption; underlying article extraction did not expose caption.",
+            "Suzuki yellow goalkeeper kit confirmed at Parma home match; separate closeup supplies collar and hair details."
+          ],
+          "qa": "正面・右横顔・全髪型・服装を目視確認",
+          "is_in_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "tulio_soccerking",
+          "publisher": "サッカーキング・田中マルクス闘莉王",
+          "url": "https://www.soccer-king.jp/player/article/414375.html",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "1981年4月24日生、185cm、右足",
+            "2006年浦和33試合7得点"
+          ],
+          "caveat": "",
+          "game_values_verified": false
+        },
+        {
+          "id": "tulio_jfa2010",
+          "publisher": "JFA・2010年代表プロフィール",
+          "url": "https://www.jfa.jp/samuraiblue/worldcup_history/assets/images/2010/pop/df04.png",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2010年時点185cm・82kg",
+            "生年月日1981年4月24日"
+          ],
+          "caveat": "体格は再現対象より4年後。髪型・服装の根拠には使用しない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "tulio-2006-reference_appearance_1",
+          "publisher": "外観参照資料",
+          "url": "https://www.mint-mall.net/products/detail.php?product_id=441866",
+          "image_url": "https://8zi3k70.mint-mall.net/upload/save_image/06161619_62aad988d4f5f.jpg",
+          "reference_date": "2006 J.League official team-edition card; exact match date unverified",
+          "checked_for": [
+            "Dark medium-long wavy hair brushed back; loose curls at ears/nape; facial stubble; red/black shirt and white neckline."
+          ],
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "game_values_verified": false
+        },
+        {
+          "id": "tulio-2006-reference_appearance_2",
+          "publisher": "外観参照資料",
+          "url": "https://www.urawa-reds.co.jp/en/game/records.php",
+          "image_url": "https://www.urawa-reds.co.jp/game/img/data/2006.jpg",
+          "reference_date": "2006 championship ceremony",
+          "checked_for": [
+            "Official club archive confirms red/black kit and white neckline."
+          ],
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "game_values_verified": false
+        },
+        {
+          "id": "tulio-2006-reference_appearance_3",
+          "publisher": "外観参照資料",
+          "url": "https://firstwitness.base.shop/items/114346520",
+          "image_url": "https://baseec-img-mng.akamaized.net/images/item/origin/dcc6fc0755fc97107722b8fc00511138.jpg?imformat=generic",
+          "reference_date": "2006 kit catalog attribution",
+          "checked_for": [
+            "Black shoulder/side panels, white shallow V-neck mesh collar, centered crest; consistent with2006 player photography."
+          ],
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "game_values_verified": false
+        },
+        {
+          "id": "tulio-2006-reference_appearance_4",
+          "publisher": "外観参照資料",
+          "url": "https://sportiva.shueisha.co.jp/clm/football/jleague_other/2025/06/16/2006/",
+          "image_url": "https://sportiva.shueisha.co.jp/clm/football/jleague_other/2025/assets_c/2025/06/TsuboiKeisuke250617b-thumb-600xauto-357788.jpg",
+          "reference_date": "2006 season retrospective published2025-06-16",
+          "checked_for": [
+            "Tsuboi photograph confirms kit geometry only; not a likeness reference."
+          ],
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "生年月日と185cm・82kgはJFAの2010年公式資料で確認。体格は2006年当年の確認が未完了のため、2010年値を仮入力。右利きはサッカーキングのプロフィールで確認。背番号4・ユニフォームネームTULIOの2006年当年の一次資料照合は未完了。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存16人と同じ形式で、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査。PS4の項目・選択肢・範囲は実機未照合。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "対象シーズンに固定された身体値資料",
+          "背番号・利き足・ユニフォームネームの当年一次資料照合"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "田中",
+        "マルクス",
+        "闘莉王"
+      ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "RSB",
+            "main": true,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "CB",
+            "main": false,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "LSB",
+            "main": false,
+            "suitability": "適性あり"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "右サイドバックを基本に、無理な攻め上がりを抑えて相手ウイングへ対応。CBや左サイドバックでも守備の安定を優先します。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 62
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 76
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 69
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 73
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 79
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 77
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 47
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 81
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 48
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 55
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 80
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 76
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 76
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 83
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 84
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 72
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 85
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 86
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 85
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 80
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 4
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 4
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 6
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "守備の読み86・ボール奪取85、空中戦を支えるジャンプ83とフィジカル84を中心に設定。逆足は両足でのつなぎを評価して4・4。クロス主体の攻撃型SBとはせず、低い位置での配球と守備を優先した独自査定。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 187,
+        "weight_kg": 84,
+        "note": "長い手足と引き締まった胴体を基本に、肩と太ももに守備者らしい厚みを残す仮案。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 1
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 1
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 1
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": -1
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": 0
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 1
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 0
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 2
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 1
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "縦長で細身の輪郭、はっきりした頬骨、横長の目と自然な直線眉、すっきりしたあご。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "自然なやや日焼けした肌色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "切れ長で細い目"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "ふくらみを控えめに"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "黒に近いこげ茶"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "太すぎない直線的な眉"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "まっすぐで中程度の高さ"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "やや薄め"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "中程度"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬骨を少し出す"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "細めで先端を尖らせすぎない"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 2
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": -1
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 0
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": -1
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 0
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 0
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": 0
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 1
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 1
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": -1
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": 0
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "2021年加入時の自然な黒い短髪。上に厚みを残し、短めの前髪を横へ流します。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ショート"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 0
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "短い前髪を自然に横へ流す"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "弱い横分け"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "普通"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "耳を出して短く整え、襟足は短め"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "黒"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "口元とあごにごく薄く残す"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "ごく薄め"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "黒・白系を仮設定。対象シーズンの特定モデルは未確認"
+          }
+        ]
+      },
+      "id": "takehiro-tomiyasu-2021-22-arsenal",
+      "name": "冨安 健洋",
+      "name_kana": "とみやす たけひろ",
+      "name_english": "TAKEHIRO TOMIYASU",
+      "shirt_name": "TOMIYASU",
+      "nationality": "日本",
+      "era": {
+        "year": 2021,
+        "season": "2021–22",
+        "label": "2021–22年・アーセナル",
+        "club": "アーセナル",
+        "selection_reason": "アーセナル加入初年度の2021–22年版。右サイドバックでの対人守備と空中戦、左右の足で無理なくつなぐ配球を軸に再現します。",
+        "reason_source_ids": [
+          "tomiyasu_joc",
+          "tomiyasu_udn",
+          "tomiyasu_20210927"
+        ],
+        "source_check_status": "継続候補の順で追加。当年資料と前後年資料、未確認項目を区別。"
+      },
+      "profile": {
+        "age": 23,
+        "height_cm": 187,
+        "weight_kg": 84,
+        "dominant_foot": "右",
+        "main_position": "RSB",
+        "shirt_number": 18,
+        "source_status": "生年月日はJOC東京2020、2021年夏のアーセナル移籍と187cm・84kgはUDN SPORTSのプロフィールで確認。身体値の掲載時点が2021–22年に固定された資料ではないため仮入力。背番号18・右利き・TOMIYASUは当該シーズンの一次資料照合が未完了の仮設定。",
+        "birth_date": "1998-11-05",
+        "age_reference_date": "2022-05-22",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "守備的サイドバック",
+        "reason": "右サイドバックを基本に、無理な攻め上がりを抑えて相手ウイングへ対応。CBや左サイドバックでも守備の安定を優先します。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "マンマーク",
+            "purpose": "サイドと中央での対人対応"
+          },
+          {
+            "name": "インターセプト",
+            "purpose": "相手の縦パスへの反応"
+          },
+          {
+            "name": "ヘッダー",
+            "purpose": "サイドでの競り合いとクリア"
+          },
+          {
+            "name": "アクロバティッククリア",
+            "purpose": "ゴール前での緊急対応"
+          },
+          {
+            "name": "ワンタッチパス",
+            "purpose": "低い位置で素早くつなぐ配球"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/tomiyasu-2021-22-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2021–22年の冨安 健洋を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "tool": "image_gen.imagegen",
+          "created_at": "2026-09-17",
+          "prompt": "Use case: stylized-concept. Create one football-game appearance reference image, landscape 1536x1024. Exactly two equal-width panels, split at the center: LEFT perfectly frontal head view looking directly at camera, RIGHT true 90-degree side profile facing the viewer's RIGHT with only one eye visible. Both panels depict the SAME specifically named real footballer at the specified historical age, with matching head scale, horizontal eyeline, hairstyle, neck and clothing. Neutral closed-mouth expression. Frame whole hairstyle, head, neck and upper chest with generous margin so hair is not cropped. Muted gray-blue seamless studio background, consistent soft diffuse light. Realistic PS4-era football-game 3D character rendering, subtly simplified game mesh anatomy, lifelike skin and game-style hair. An AI appearance concept, not a real screenshot. Preserve individual likeness rather than a generic face. No captions, names, letters, numbers, sponsor text, watermark, UI, or decorative border. Shirt geometry/colors from the specified period; a small simplified club crest and manufacturer symbol may appear without any lettering.\nSubject: 冨安健洋 / Takehiro Tomiyasu, age23 in the2021–22 Arsenal season. Capture his distinctive long slim angular face, prominent cheekbones, straight brows, narrow dark eyes, straight medium nose, wide mouth and narrow defined jaw; only faint natural moustache/chin stubble. Hair: short natural black hair with full but tidy top, side-swept textured fringe and short tapered sides, ears exposed; no long fringe, bleach or dramatic undercut. Use his2021 arrival appearance, not later hair. Clothing: Arsenal2021–22 HOME Adidas shirt, vivid red torso and red crew-neck with very thin navy edging, WHITE sleeves, navy blue three stripes over RED shoulders, white side inserts, red sleeve cuffs with thin navy trim. No polo collar. Photo reference for period hairstyle from official Arsenal photographer Stuart MacFarlane2021-09-26: https://www.arsenalpics.com/p/5/arsenals-tomiyasu-makes-premier-league-debut-23790944.jpg.webp (use hair only; warmup shirt must be replaced by match home shirt). Arrival shirt/face reference https://photobooth.cdn.sports.ru/preset/post/c/81/9f7966fe0445db19549aa3ba111f3.jpeg?f=webp&q=90&s=2x&w=730.",
+          "generation_count": 1,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "period": "2021–22 Arsenal",
+          "uniform": {
+            "club": "アーセナル",
+            "season": "2021–22",
+            "variant": "home",
+            "sources": [
+              {
+                "url": "https://www.arsenalpics.com/arsenal-2021-22/arsenal-v-tottenham-hotspur-2021-22/arsenals-tomiyasu-makes-premier-league-debut-arsenal-vs-23790944.html",
+                "image_url": "https://www.arsenalpics.com/p/5/arsenals-tomiyasu-makes-premier-league-debut-23790944.jpg.webp",
+                "photo_date": "2021-09-26",
+                "credit": "Stuart MacFarlane/Arsenal FC",
+                "observed": "Short natural black side-swept hair, ears clear; official caption confirms2021. Warmup kit not used."
+              },
+              {
+                "url": "https://www.sports.ru/football/blogs/2961971.html",
+                "image_url": "https://photobooth.cdn.sports.ru/preset/post/c/81/9f7966fe0445db19549aa3ba111f3.jpeg?f=webp&q=90&s=2x&w=730",
+                "photo_date": "2021 Arsenal arrival photograph; exact shoot date unverified",
+                "observed": "2021–22 red torso/white sleeves; red round collar with thin navy trim; navy stripes on red shoulders; slight moustache/chin stubble."
+              }
+            ]
+          },
+          "sources": [
+            {
+              "url": "https://www.arsenalpics.com/arsenal-2021-22/arsenal-v-tottenham-hotspur-2021-22/arsenals-tomiyasu-makes-premier-league-debut-arsenal-vs-23790944.html",
+              "image_url": "https://www.arsenalpics.com/p/5/arsenals-tomiyasu-makes-premier-league-debut-23790944.jpg.webp",
+              "photo_date": "2021-09-26",
+              "credit": "Stuart MacFarlane/Arsenal FC",
+              "observed": "Short natural black side-swept hair, ears clear; official caption confirms2021. Warmup kit not used."
+            },
+            {
+              "url": "https://www.sports.ru/football/blogs/2961971.html",
+              "image_url": "https://photobooth.cdn.sports.ru/preset/post/c/81/9f7966fe0445db19549aa3ba111f3.jpeg?f=webp&q=90&s=2x&w=730",
+              "photo_date": "2021 Arsenal arrival photograph; exact shoot date unverified",
+              "observed": "2021–22 red torso/white sleeves; red round collar with thin navy trim; navy stripes on red shoulders; slight moustache/chin stubble."
+            }
+          ],
+          "limitations": [
+            "AI likeness and historical uniform details are approximate.",
+            "Tulio card is2006 edition; exact photograph date unverified.",
+            "Tomiyasu arrival photograph exact shoot date unverified; official hair reference is2021-09-26.",
+            "Nakamura trophy photograph date from image-search caption; underlying article extraction did not expose caption.",
+            "Suzuki yellow goalkeeper kit confirmed at Parma home match; separate closeup supplies collar and hair details."
+          ],
+          "qa": "正面・右横顔・全髪型・服装を目視確認",
+          "is_in_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "tomiyasu_joc",
+          "publisher": "日本オリンピック委員会・東京2020",
+          "url": "https://www.joc.or.jp/games/olympic/tokyo/sports/football/team/tomiyasutakehiro.html",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "1998年11月5日生",
+            "東京2020時点で22歳"
+          ],
+          "caveat": "",
+          "game_values_verified": false
+        },
+        {
+          "id": "tomiyasu_udn",
+          "publisher": "UDN SPORTS・冨安健洋",
+          "url": "https://www.udnsports.com/member/takehirotomiyasu/",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "187cm・84kg",
+            "2021年夏アーセナル移籍",
+            "守備の複数位置への対応と予測・対人守備"
+          ],
+          "caveat": "更新型プロフィール。身体値の2021–22年当年確認は未完了。",
+          "game_values_verified": false
+        },
+        {
+          "id": "tomiyasu_20210927",
+          "publisher": "ゲキサカ・2021年9月27日",
+          "url": "https://web.gekisaka.jp/news/world/detail/?341957-341957-fl=",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2021年9月26日トッテナム戦に右SBで先発フル出場",
+            "加入後リーグ3連勝"
+          ],
+          "caveat": "",
+          "game_values_verified": false
+        },
+        {
+          "id": "tomiyasu-2021-22-reference_appearance_1",
+          "publisher": "Stuart MacFarlane/Arsenal FC",
+          "url": "https://www.arsenalpics.com/arsenal-2021-22/arsenal-v-tottenham-hotspur-2021-22/arsenals-tomiyasu-makes-premier-league-debut-arsenal-vs-23790944.html",
+          "image_url": "https://www.arsenalpics.com/p/5/arsenals-tomiyasu-makes-premier-league-debut-23790944.jpg.webp",
+          "reference_date": "2021-09-26",
+          "checked_for": [
+            "Short natural black side-swept hair, ears clear; official caption confirms2021. Warmup kit not used."
+          ],
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "game_values_verified": false
+        },
+        {
+          "id": "tomiyasu-2021-22-reference_appearance_2",
+          "publisher": "外観参照資料",
+          "url": "https://www.sports.ru/football/blogs/2961971.html",
+          "image_url": "https://photobooth.cdn.sports.ru/preset/post/c/81/9f7966fe0445db19549aa3ba111f3.jpeg?f=webp&q=90&s=2x&w=730",
+          "reference_date": "2021 Arsenal arrival photograph; exact shoot date unverified",
+          "checked_for": [
+            "2021–22 red torso/white sleeves; red round collar with thin navy trim; navy stripes on red shoulders; slight moustache/chin stubble."
+          ],
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "生年月日はJOC東京2020、2021年夏のアーセナル移籍と187cm・84kgはUDN SPORTSのプロフィールで確認。身体値の掲載時点が2021–22年に固定された資料ではないため仮入力。背番号18・右利き・TOMIYASUは当該シーズンの一次資料照合が未完了の仮設定。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存16人と同じ形式で、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査。PS4の項目・選択肢・範囲は実機未照合。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "対象シーズンに固定された身体値資料",
+          "背番号・利き足・ユニフォームネームの当年一次資料照合"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "冨安",
+        "健洋"
+      ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "GK",
+            "main": true,
+            "suitability": "適性あり"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "ゴール前のセービングを基本に、背後のボールへの対応と長いフィードで攻撃を始めます。GK以外の適性は付けません。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 40
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 63
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 46
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 51
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 70
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 77
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 40
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 45
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 45
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 46
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 68
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 64
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 85
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 85
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 88
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 61
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 65
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 52
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 48
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 65
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 81
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 78
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 82
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 85
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 85
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 2
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 2
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 6
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "コラプシング85・ディフレクティング85で反応と守備範囲を評価。GKセンス81・キャッチング78は伸びしろを残し、フライパス77・キック力85でフィードを表現。後年の成績や負傷は持ち込まない2024–25年向けの独自査定。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 190,
+        "weight_kg": 100,
+        "note": "厚い胸と肩、しっかりした腕と太もも、長いリーチを意識したGK体形の仮案。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 0
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": 2
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 2
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 2
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": 1
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": 2
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 2
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 1
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 1
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 2
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "幅のある力強い輪郭、低めで自然な眉、丸みのある広めの鼻、厚みのある唇としっかりしたあご。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "写真に合わせた自然な濃い褐色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "自然な幅でやや奥まった目"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "厚みを抑えた自然な形"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "濃いこげ茶"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "低めの自然な直線眉"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "幅があり先端に丸み"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "厚みを持たせる"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "厚みがあり自然な丸み"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬骨を軽く出す"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "幅があり四角さを残す"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 0
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": 2
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 1
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 1
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": 0
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 0
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 1
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": 2
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 1
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 1
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": 2
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": 1
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "2025年春の短いカールヘア。上部に細かいカールを残し、横と襟足を短く。毛先の明るさは控えめにします。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ベリーショート〜ショート"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 3
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "短いカールを自然に立たせる"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "なし"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "普通"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "低〜中程度の刈り上げ、襟足は短い"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "黒を基調に毛先のみ少し明るい茶色"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "なし"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "なし"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "黒・白系を仮設定。対象シーズンの特定モデルは未確認"
+          },
+          {
+            "key": "gloves",
+            "label": "GKグローブ",
+            "value": "白系を仮設定。特定モデルは未確認"
+          }
+        ]
+      },
+      "id": "zion-suzuki-2024-25-parma",
+      "name": "鈴木 彩艶",
+      "name_kana": "すずき ざいおん",
+      "name_english": "ZION SUZUKI",
+      "shirt_name": "SUZUKI",
+      "nationality": "日本",
+      "era": {
+        "year": 2024,
+        "season": "2024–25",
+        "label": "2024–25年・パルマ",
+        "club": "パルマ",
+        "selection_reason": "パルマでセリエAに挑んだ2024–25年版。大きな守備範囲と反応、遠くまで届くフィードを持つGKとして再現します。",
+        "reason_source_ids": [
+          "suzuki_jfa202503",
+          "suzuki_wiki_profile",
+          "suzuki_jfa_play"
+        ],
+        "source_check_status": "継続候補の順で追加。当年資料と前後年資料、未確認項目を区別。"
+      },
+      "profile": {
+        "age": 22,
+        "height_cm": 190,
+        "weight_kg": 100,
+        "dominant_foot": "右",
+        "main_position": "GK",
+        "shirt_number": 31,
+        "source_status": "2025年3月のJFA代表名簿でパルマ所属を確認。生年月日・190cm・100kg・右足は閲覧時点のWikipediaプロフィールで補助確認。身体値は2024–25年の一次資料では未確定の仮入力で、後年情報との混同を避けるため当年確認済みとは扱わない。背番号31・SUZUKIも当年一次資料照合は未完了。",
+        "birth_date": "2002-08-21",
+        "age_reference_date": "2025-05-25",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "攻撃的GK",
+        "reason": "ゴール前のセービングを基本に、背後のボールへの対応と長いフィードで攻撃を始めます。GK以外の適性は付けません。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "GK低弾道パントキック",
+            "purpose": "低く速い配球から攻撃を始める"
+          },
+          {
+            "name": "GKロングスロー",
+            "purpose": "手から遠くへ素早くつなぐ"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [
+          {
+            "name": "ロングパサー",
+            "enabled": true
+          }
+        ],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/suzuki-2024-25-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2024–25年の鈴木 彩艶を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "tool": "image_gen.imagegen",
+          "created_at": "2026-09-17",
+          "prompt": "Use case: stylized-concept. Create one football-game appearance reference image, landscape 1536x1024. Exactly two equal-width panels, split at the center: LEFT perfectly frontal head view looking directly at camera, RIGHT true 90-degree side profile facing the viewer's RIGHT with only one eye visible. Both panels depict the SAME specifically named real footballer at the specified historical age, with matching head scale, horizontal eyeline, hairstyle, neck and clothing. Neutral closed-mouth expression. Frame whole hairstyle, head, neck and upper chest with generous margin so hair is not cropped. Muted gray-blue seamless studio background, consistent soft diffuse light. Realistic PS4-era football-game 3D character rendering, subtly simplified game mesh anatomy, lifelike skin and game-style hair. An AI appearance concept, not a real screenshot. Preserve individual likeness rather than a generic face. No captions, names, letters, numbers, sponsor text, watermark, UI, or decorative border. Shirt geometry/colors from the specified period; a small simplified club crest and manufacturer symbol may appear without any lettering.\nSubject: 鈴木彩艶 / Zion Suzuki, age22 in Parma's2024–25 season. Preserve Suzuki's recognizable rich medium-dark brown skin, broad strong athletic face, defined cheekbones, rounded broad nose, full lips, low straight brows and broad square jaw; clean-shaven. Hair: short tightly curled black top with a few subtly lightened brown-blond curl tips, neat low-to-mid faded sides and close nape, flat-to-rounded textured crown, no long braids. Clothing must be his PARMA GOALKEEPER shirt actually used during2024–25 home matches: bright GOLDEN YELLOW Puma goalkeeper jersey, solid yellow upper torso, dark NAVY round crew collar and navy sleeve-end bands, subtle tonal texture, a small Parma shield at left chest. NO white outfield shirt, NO black cross design across the body, NO blue/yellow outfield stripes. This is goalkeeper clothing. Period portrait/kit observation from https://images.daznservices.com/di/library/DAZN_News/b8/4d/2025-05-18-parma-zion-suzuki_2kojcigi3nem1ulavfdtwj5do.jpg?t=-371813834. Yellow goalkeeper kit independently confirmed at HOME Parma v Roma,16 February2025, Ennio Tardini, in Getty photograph https://dimages2.corriereobjects.it/uploads/2025/02/17/67b33dcc60596.jpeg. Keep face neutral and no gloves necessary within the head-and-chest crop.",
+          "generation_count": 1,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "period": "2024–25 Parma",
+          "uniform": {
+            "club": "パルマ",
+            "season": "2024–25",
+            "variant": "home-match goalkeeper yellow",
+            "sources": [
+              {
+                "url": "https://www.corriere.it/sport/calcio/serie-a/cards/pagelle-serie-a-giornata-25-febbraio-17/la-parata-alla-benji-del-portiere-giapponese-suzuki-voto-8.shtml",
+                "image_url": "https://dimages2.corriereobjects.it/uploads/2025/02/17/67b33dcc60596.jpeg",
+                "photo_date": "2025-02-16",
+                "credit": "Alessandro Sabattini/Getty Images",
+                "observed": "Parma–Roma home match, Ennio Tardini. Yellow goalkeeper kit."
+              },
+              {
+                "url": "https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/2025-06-07-seriea-parma-napoli-zion-suzuki-cherubini/1r0ylejmaklht12ju2ja6rxt1j",
+                "image_url": "https://images.daznservices.com/di/library/DAZN_News/b8/4d/2025-05-18-parma-zion-suzuki_2kojcigi3nem1ulavfdtwj5do.jpg?t=-371813834",
+                "photo_date": "Image filename2025-05-18; article2025-06-07",
+                "observed": "Yellow Puma goalkeeper jersey, navy crew collar/cuffs; tightly curled black hair with lightened curl tips and faded sides."
+              }
+            ]
+          },
+          "sources": [
+            {
+              "url": "https://www.corriere.it/sport/calcio/serie-a/cards/pagelle-serie-a-giornata-25-febbraio-17/la-parata-alla-benji-del-portiere-giapponese-suzuki-voto-8.shtml",
+              "image_url": "https://dimages2.corriereobjects.it/uploads/2025/02/17/67b33dcc60596.jpeg",
+              "photo_date": "2025-02-16",
+              "credit": "Alessandro Sabattini/Getty Images",
+              "observed": "Parma–Roma home match, Ennio Tardini. Yellow goalkeeper kit."
+            },
+            {
+              "url": "https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/2025-06-07-seriea-parma-napoli-zion-suzuki-cherubini/1r0ylejmaklht12ju2ja6rxt1j",
+              "image_url": "https://images.daznservices.com/di/library/DAZN_News/b8/4d/2025-05-18-parma-zion-suzuki_2kojcigi3nem1ulavfdtwj5do.jpg?t=-371813834",
+              "photo_date": "Image filename2025-05-18; article2025-06-07",
+              "observed": "Yellow Puma goalkeeper jersey, navy crew collar/cuffs; tightly curled black hair with lightened curl tips and faded sides."
+            }
+          ],
+          "limitations": [
+            "AI likeness and historical uniform details are approximate.",
+            "Tulio card is2006 edition; exact photograph date unverified.",
+            "Tomiyasu arrival photograph exact shoot date unverified; official hair reference is2021-09-26.",
+            "Nakamura trophy photograph date from image-search caption; underlying article extraction did not expose caption.",
+            "Suzuki yellow goalkeeper kit confirmed at Parma home match; separate closeup supplies collar and hair details."
+          ],
+          "qa": "正面・右横顔・全髪型・服装を目視確認",
+          "is_in_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "suzuki_jfa202503",
+          "publisher": "JFA・2025年3月代表メンバー",
+          "url": "https://www.jfa.jp/samuraiblue/worldcup_2026/final_q_2026/20250320/member.html",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2025年3月時点のパルマ所属",
+            "GK登録"
+          ],
+          "caveat": "",
+          "game_values_verified": false
+        },
+        {
+          "id": "suzuki_wiki_profile",
+          "publisher": "Wikipedia・鈴木彩艶（補助資料）",
+          "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E5%BD%A9%E8%89%B6",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2002年8月21日生",
+            "閲覧時の身長190cm・体重100kg・右足"
+          ],
+          "caveat": "2024–25年の固定資料ではない。体格の当年一次資料確認は未完了。",
+          "game_values_verified": false
+        },
+        {
+          "id": "suzuki_jfa_play",
+          "publisher": "JFA・鈴木彩艶プロフィール",
+          "url": "https://www.jfa.jp/samuraiblue/member/suzuki_zion.html",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "セービングと正確なロングフィードというプレー傾向",
+            "パルマ初年度の残留貢献への回顧"
+          ],
+          "caveat": "2026年の記述を含む更新型ページ。後年の負傷情報を2024–25年の査定へ適用しない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "suzuki-2024-25-reference_appearance_1",
+          "publisher": "Alessandro Sabattini/Getty Images",
+          "url": "https://www.corriere.it/sport/calcio/serie-a/cards/pagelle-serie-a-giornata-25-febbraio-17/la-parata-alla-benji-del-portiere-giapponese-suzuki-voto-8.shtml",
+          "image_url": "https://dimages2.corriereobjects.it/uploads/2025/02/17/67b33dcc60596.jpeg",
+          "reference_date": "2025-02-16",
+          "checked_for": [
+            "Parma–Roma home match, Ennio Tardini. Yellow goalkeeper kit."
+          ],
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "game_values_verified": false
+        },
+        {
+          "id": "suzuki-2024-25-reference_appearance_2",
+          "publisher": "外観参照資料",
+          "url": "https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/2025-06-07-seriea-parma-napoli-zion-suzuki-cherubini/1r0ylejmaklht12ju2ja6rxt1j",
+          "image_url": "https://images.daznservices.com/di/library/DAZN_News/b8/4d/2025-05-18-parma-zion-suzuki_2kojcigi3nem1ulavfdtwj5do.jpg?t=-371813834",
+          "reference_date": "Image filename2025-05-18; article2025-06-07",
+          "checked_for": [
+            "Yellow Puma goalkeeper jersey, navy crew collar/cuffs; tightly curled black hair with lightened curl tips and faded sides."
+          ],
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "2025年3月のJFA代表名簿でパルマ所属を確認。生年月日・190cm・100kg・右足は閲覧時点のWikipediaプロフィールで補助確認。身体値は2024–25年の一次資料では未確定の仮入力で、後年情報との混同を避けるため当年確認済みとは扱わない。背番号31・SUZUKIも当年一次資料照合は未完了。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存16人と同じ形式で、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査。PS4の項目・選択肢・範囲は実機未照合。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "対象シーズンに固定された身体値資料",
+          "背番号・利き足・ユニフォームネームの当年一次資料照合"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "鈴木",
+        "彩艶"
+      ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "RMF",
+            "main": true,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "OMF",
+            "main": false,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "CMF",
+            "main": false,
+            "suitability": "準適性"
+          },
+          {
+            "position": "LMF",
+            "main": false,
+            "suitability": "準適性"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "右サイドから内側へ入り、左足でスルーパスとクロスを供給。セットプレーのキッカーを任せ、中央のトップ下でも起用できます。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 79
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 91
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 86
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 89
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 89
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 93
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 78
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 50
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 95
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 94
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 72
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 75
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 83
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 55
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 64
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 81
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 80
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 49
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 47
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 56
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 2
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 2
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 7
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "プレースキック95・カーブ94・フライパス93を左足の特色として強調し、ボールコントロール91・キープ89で落ち着いた保持を表現。速さや接触の強さは控えめにした独自査定。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 178,
+        "weight_kg": 70,
+        "note": "細身の胴体と肩、しなやかな下半身を意識し、筋肉の厚みを強調しすぎない仮案。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 1
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": -1
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": -1
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": -1
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": -1
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": -1
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 0
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": -1
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 1
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 0
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "細長い輪郭、切れ長で少し下がる目、細めの眉と長めの鼻筋、細いあご。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "自然な明るめの肌色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "切れ長で目尻を少し下げる"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "ふくらみは控えめ"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "黒に近いこげ茶"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "細めで自然な直線眉"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "細く長めの鼻筋"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "薄めで小さめの口"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "上唇より少し厚く"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "細身で頬骨を軽く出す"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "細く、尖らせすぎないあご"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 2
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": -2
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 0
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": -1
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 0
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": 0
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": -1
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 1
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": -2
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": -1
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "2006–07年の黒いストレートのシャギー。眉に近い前髪、耳にかかる横髪と長めの襟足を残します。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ミディアム"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 0
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "眉に近い長さの束感がある前髪"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "はっきり分けない"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "普通"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "耳の上にかかる横髪、首に沿う長めの襟足"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "黒"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "なし"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "なし"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "黒・白系を仮設定。対象シーズンの特定モデルは未確認"
+          }
+        ]
+      },
+      "id": "shunsuke-nakamura-2006-07-celtic",
+      "name": "中村 俊輔",
+      "name_kana": "なかむら しゅんすけ",
+      "name_english": "SHUNSUKE NAKAMURA",
+      "shirt_name": "NAKAMURA",
+      "nationality": "日本",
+      "era": {
+        "year": 2006,
+        "season": "2006–07",
+        "label": "2006–07年・セルティック",
+        "club": "セルティック",
+        "selection_reason": "セルティックでプレーした2006–07年版。右から中央へ入りながら左足で決定機をつくるプレーメーカーとして、フリーキックとクロス、ボールの収まりを重視します。",
+        "reason_source_ids": [
+          "nakamura_jfa2006"
+        ],
+        "source_check_status": "継続候補の順で追加。当年資料と前後年資料、未確認項目を区別。"
+      },
+      "profile": {
+        "age": 28,
+        "height_cm": 178,
+        "weight_kg": 70,
+        "dominant_foot": "左",
+        "main_position": "RMF",
+        "shirt_number": 25,
+        "source_status": "生年月日・178cm・70kg・セルティック所属はJFAの2006年6月資料で確認。身体値は2006–07年シーズン直前の資料を採用し、シーズン中の変動は未確認。背番号25・左利き・NAKAMURAは当該シーズンの一次資料照合が未完了の仮設定。年齢28歳は2007年5月26日時点。",
+        "birth_date": "1978-06-24",
+        "age_reference_date": "2007-05-26",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "チャンスメイカー",
+        "reason": "右サイドから内側へ入り、左足でスルーパスとクロスを供給。セットプレーのキッカーを任せ、中央のトップ下でも起用できます。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "コントロールカーブ",
+            "purpose": "曲がるシュートの軌道"
+          },
+          {
+            "name": "ミドルシュート",
+            "purpose": "ペナルティーエリア外からの左足シュート"
+          },
+          {
+            "name": "ピンポイントクロス",
+            "purpose": "味方へ合わせる左足のクロス"
+          },
+          {
+            "name": "スルーパス",
+            "purpose": "最終ラインの隙間へ通す配球"
+          },
+          {
+            "name": "バックスピンロブ",
+            "purpose": "味方の足元へ落とす浮き球"
+          },
+          {
+            "name": "ワンタッチパス",
+            "purpose": "速いテンポでの連係"
+          },
+          {
+            "name": "アウトスピンキック",
+            "purpose": "左足の外側を使った配球"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [
+          {
+            "name": "アーリークロサー",
+            "enabled": true
+          },
+          {
+            "name": "ロングパサー",
+            "enabled": true
+          },
+          {
+            "name": "ミドルシューター",
+            "enabled": true
+          }
+        ],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/nakamura-2006-07-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2006–07年の中村 俊輔を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "tool": "image_gen.imagegen",
+          "created_at": "2026-09-17",
+          "prompt": "Use case: stylized-concept. Create one football-game appearance reference image, landscape 1536x1024. Exactly two equal-width panels, split at the center: LEFT perfectly frontal head view looking directly at camera, RIGHT true 90-degree side profile facing the viewer's RIGHT with only one eye visible. Both panels depict the SAME specifically named real footballer at the specified historical age, with matching head scale, horizontal eyeline, hairstyle, neck and clothing. Neutral closed-mouth expression. Frame whole hairstyle, head, neck and upper chest with generous margin so hair is not cropped. Muted gray-blue seamless studio background, consistent soft diffuse light. Realistic PS4-era football-game 3D character rendering, subtly simplified game mesh anatomy, lifelike skin and game-style hair. An AI appearance concept, not a real screenshot. Preserve individual likeness rather than a generic face. No captions, names, letters, numbers, sponsor text, watermark, UI, or decorative border. Shirt geometry/colors from the specified period; a small simplified club crest and manufacturer symbol may appear without any lettering.\nSubject: 中村俊輔 / Shunsuke Nakamura, age28 in Celtic's2006–07 season. Preserve Nakamura's unmistakable long narrow face, fine cheekbones, narrow slightly downturned dark eyes, fine straight brows, long narrow nose, relatively small mouth with full lower lip and tapered chin, clean-shaven. Hair: his historical straight black medium-length layered SHAG, heavy separated fringe falling nearly to eyebrows, sides covering upper ears, long straight feathered nape down the neck. Slight natural unevenness, no modern fade, no slickback, no curls and no dyed hair. Entire nape hair silhouette visible in profile. Clothing: Celtic2006–07 HOME Nike jersey with broad horizontal GREEN AND WHITE HOOPS across chest and sleeves, plain white upper shoulder band, simple fine green/white round neckline, small dark Nike swoosh and Celtic crest shapes without text. Do not use later gold anniversary trim or polo collar. Period trophy photograph https://www.nikkansports.com/soccer/news/img/202210170000716-w500_21.jpg shows the2006–07 home shirt and his black shag haircut. Use Nakamura's unique likeness, not another Japanese player.",
+          "generation_count": 1,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "period": "2006–07 Celtic",
+          "uniform": {
+            "club": "セルティック",
+            "season": "2006–07",
+            "variant": "home",
+            "sources": [
+              {
+                "url": "https://www.nikkansports.com/soccer/photonews/photonews_nsInc_202210170000716-21.html",
+                "image_url": "https://www.nikkansports.com/soccer/news/img/202210170000716-w500_21.jpg",
+                "photo_date": "2007-04-29 per image search caption; retrospective article2022-10-17",
+                "observed": "Black straight layered shag with heavy fringe and long nape; Celtic green/white broad hoops with simple round collar."
+              }
+            ]
+          },
+          "sources": [
+            {
+              "url": "https://www.nikkansports.com/soccer/photonews/photonews_nsInc_202210170000716-21.html",
+              "image_url": "https://www.nikkansports.com/soccer/news/img/202210170000716-w500_21.jpg",
+              "photo_date": "2007-04-29 per image search caption; retrospective article2022-10-17",
+              "observed": "Black straight layered shag with heavy fringe and long nape; Celtic green/white broad hoops with simple round collar."
+            }
+          ],
+          "limitations": [
+            "AI likeness and historical uniform details are approximate.",
+            "Tulio card is2006 edition; exact photograph date unverified.",
+            "Tomiyasu arrival photograph exact shoot date unverified; official hair reference is2021-09-26.",
+            "Nakamura trophy photograph date from image-search caption; underlying article extraction did not expose caption.",
+            "Suzuki yellow goalkeeper kit confirmed at Parma home match; separate closeup supplies collar and hair details."
+          ],
+          "qa": "正面・右横顔・全髪型・服装を目視確認",
+          "is_in_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "nakamura_jfa2006",
+          "publisher": "JFA・2006年代表プロフィール",
+          "url": "https://www.jfa.jp/samuraiblue/worldcup_history/assets/images/2006/pop/mf10.png",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "1978年6月24日生",
+            "2006年6月時点178cm・70kg",
+            "セルティック所属"
+          ],
+          "caveat": "2006–07年シーズン直前の資料。シーズン中の身体値変化は未確認。",
+          "game_values_verified": false
+        },
+        {
+          "id": "nakamura-2006-07-reference_appearance_1",
+          "publisher": "外観参照資料",
+          "url": "https://www.nikkansports.com/soccer/photonews/photonews_nsInc_202210170000716-21.html",
+          "image_url": "https://www.nikkansports.com/soccer/news/img/202210170000716-w500_21.jpg",
+          "reference_date": "2007-04-29 per image search caption; retrospective article2022-10-17",
+          "checked_for": [
+            "Black straight layered shag with heavy fringe and long nape; Celtic green/white broad hoops with simple round collar."
+          ],
+          "checked_at": "2026-09-17",
+          "checked_in_this_transfer": true,
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "生年月日・178cm・70kg・セルティック所属はJFAの2006年6月資料で確認。身体値は2006–07年シーズン直前の資料を採用し、シーズン中の変動は未確認。背番号25・左利き・NAKAMURAは当該シーズンの一次資料照合が未完了の仮設定。年齢28歳は2007年5月26日時点。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存16人と同じ形式で、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査。PS4の項目・選択肢・範囲は実機未照合。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "対象シーズンに固定された身体値資料",
+          "背番号・利き足・ユニフォームネームの当年一次資料照合"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "中村",
+        "俊輔"
+      ]
     }
   ],
   "catalog": {
     "title": "ウイイレ2020 日本代表エディット図鑑",
-    "version": "1.7.0",
-    "updated_at": "2026-09-17T03:01:02.057230+00:00",
+    "version": "1.8.0",
+    "updated_at": "2026-09-17T03:38:48.929595+00:00",
     "site_project_id": "appgprj_6aa9d6dd0e8481918a538a8d49a4ab2d",
     "registration_order": [
       {
@@ -10664,6 +13480,26 @@
         "player_id": "yuji-nakazawa-2004-yokohama-f-marinos",
         "order": 16,
         "added_at": "2026-09-17T03:01:02.057230+00:00"
+      },
+      {
+        "player_id": "marcus-tulio-tanaka-2006-urawa-reds",
+        "order": 17,
+        "added_at": "2026-09-17T03:38:48.929595+00:00"
+      },
+      {
+        "player_id": "takehiro-tomiyasu-2021-22-arsenal",
+        "order": 18,
+        "added_at": "2026-09-17T03:38:48.929595+00:00"
+      },
+      {
+        "player_id": "zion-suzuki-2024-25-parma",
+        "order": 19,
+        "added_at": "2026-09-17T03:38:48.929595+00:00"
+      },
+      {
+        "player_id": "shunsuke-nakamura-2006-07-celtic",
+        "order": 20,
+        "added_at": "2026-09-17T03:38:48.929595+00:00"
       }
     ],
     "change_history": [
@@ -10833,6 +13669,24 @@
           "各選手1回の生成で正面・横顔のAI参考画像を追加。実機の再現結果ではない。",
           "前回の名前の区切り・スマホ画像・既存の表示設定を維持。"
         ]
+      },
+      {
+        "version": "1.8.0",
+        "date": "2026-09-17T03:38:48.929595+00:00",
+        "player_ids": [
+          "marcus-tulio-tanaka-2006-urawa-reds",
+          "takehiro-tomiyasu-2021-22-arsenal",
+          "zion-suzuki-2024-25-parma",
+          "shunsuke-nakamura-2006-07-celtic"
+        ],
+        "changes": [
+          "第4回：闘莉王2006・冨安健洋2021–22・鈴木彩艶2024–25・中村俊輔2006–07を順に追加。全20人。",
+          "既存16人の全項目・画像パス・登録順を保持。",
+          "全25能力・逆足等4項目・適性・スタイル・スキル・COM・体形・顔・髪型・ヒゲ・着こなしを個別作成。初のGKを追加。",
+          "参考画像は各選手1回の生成。再現年度の所属クラブの服装に合わせ、鈴木はホーム戦で着用した黄色いGKユニフォーム。",
+          "能力は独自査定、外見は実機未確認。身体値の確認時点を区別し、未確認の総合値と顔パーツ番号はnullを維持。",
+          "20人版は確認用。公開中の16人版への上書きは確認OK後に実施。"
+        ]
       }
     ],
     "handoff_documents": [
@@ -10855,7 +13709,11 @@
         "yuhei-tokunaga-2012-fc-tokyo": "v1.4.0新規登録。sources.checked_forとimages.reference_generationの範囲を確認。ゲーム設定の実機確認はなし。",
         "yoichiro-kakitani-2013-cerezo-osaka": "v1.6.0新規登録。取得した一次資料の範囲をsourcesへ記録。当年未確認の体格は仮入力。能力と外見は実機未確認。",
         "mike-havenaar-2015-16-ado-den-haag": "v1.6.0新規登録。取得した一次資料の範囲をsourcesへ記録。当年未確認の体格は仮入力。能力と外見は実機未確認。",
-        "ariajasuru-hasegawa-2013-fc-tokyo": "v1.6.0新規登録。取得した一次資料の範囲をsourcesへ記録。当年未確認の体格は仮入力。能力と外見は実機未確認。"
+        "ariajasuru-hasegawa-2013-fc-tokyo": "v1.6.0新規登録。取得した一次資料の範囲をsourcesへ記録。当年未確認の体格は仮入力。能力と外見は実機未確認。",
+        "marcus-tulio-tanaka-2006-urawa-reds": "v1.8.0新規。取得資料の確認範囲はsourcesへ記録。対象シーズンの身体値は未確定。能力・外見・GKスキルはPS4実機未確認。",
+        "takehiro-tomiyasu-2021-22-arsenal": "v1.8.0新規。取得資料の確認範囲はsourcesへ記録。対象シーズンの身体値は未確定。能力・外見・GKスキルはPS4実機未確認。",
+        "zion-suzuki-2024-25-parma": "v1.8.0新規。取得資料の確認範囲はsourcesへ記録。対象シーズンの身体値は未確定。能力・外見・GKスキルはPS4実機未確認。",
+        "shunsuke-nakamura-2006-07-celtic": "v1.8.0新規。取得資料の確認範囲はsourcesへ記録。対象シーズンの身体値は未確定。能力・外見・GKスキルはPS4実機未確認。"
       },
       "uniform_images": "v1.3.2：両選手の2009年FC東京公式写真でユニフォームの外観を確認。既存のプロフィール・能力・顔設定の再検証とは区別。",
       "new_players_1_4_0": "追加3名のプロフィール・成績・外観資料を確認。ゲーム能力・適性・スタイル・スキルは独自設定、顔・体形の入力範囲と再現結果は実機未確認。"
@@ -10905,6 +13763,16 @@
         ],
         "filename": "batch3-edit-guide.md",
         "content": "# 第3回追加：山瀬・玉田・中澤\n\n既存13人の設定をすべて保持し、3人を登録順14〜16番へ追加。全16人。能力は独自査定、外見はPS4実機未確認の仮設定。\n\n## 山瀬 功治｜2007年・横浜F・マリノス\n\n2007年はJ1で32試合11得点。中盤からドリブルで運び、ゴール前への飛び出しと力強いシュートで得点につなげる攻撃的MFを再現します。\n\n2007年の所属・背番号10・32試合11得点と生年月日はクラブ公式の年度別記録で確認。年齢は2007年12月1日時点。173cm・70kgと右利きは2012年公式資料を参考にした仮入力で、2007年当年照合は未完了です。ユニフォームネームK.YAMASEは当年一次資料未確認。\n\n2007年のマリノス用写真を参考にした、暗い茶色の短め〜中程度の髪。トップと前髪に自然な毛束を残す仮案。写真の厳密な撮影日は未確認。\n\n### 参照資料\n\n- [川崎フロンターレ公式・2012年山瀬功治プロフィール／年度別記録](https://www.frontale.co.jp/profile/2012/mem_13.html)：2007年横浜F・マリノス・背番号10・J1で32試合11得点／生年月日1981年9月22日／2012年時点の173cm・70kg・右利き\n- [外観・ユニフォーム参考資料](https://x.com/NavyBlueWasp/status/1875834837808144518)：Yamase number10 in 2007 Adidas Teamgeist home design; textured dark brown short-to-medium hair with swept broken fringe, feathered nape and small chin goatee.\n\n### 画像の確認範囲\n\n1人につき1回生成。正面と右向き横顔、髪型、所属クラブのホーム用配色を確認。画像は実機の完成見本ではありません。顔・細部のユニフォームはAIによる近似で、玉田の髪は資料写真よりややボリュームがあります。\n\n## 玉田 圭司｜2010年・名古屋グランパス\n\nJ1で29試合13得点を挙げた2010年の名古屋グランパス版。右から中央へ入る左足のドリブルと前線の連係、ゴール前での仕上げを軸に再現します。\n\n2010年の所属・29試合13得点はクラブ公式、背番号11は2010年2月28日の公式試合資料で確認。173cm・67kgと生年月日はJFAの2010年W杯選手資料で確認。年齢は2010年12月4日時点の30歳。左利きは2018年の公式回答で確認しましたが、当年資料との照合は未実施。ユニフォームネームTAMADAは当年一次資料未確認。\n\n2010年の暗い茶色のレイヤーを目安に、前髪と襟足に長さを残す仮案。\n\n### 参照資料\n\n- [名古屋グランパス公式・2018年玉田圭司プロフィール／年度別記録](https://nagoya-grampus.jp/team/top/player/2018/28-keiji-tamada.html)：2010年名古屋グランパス・J1で29試合13得点／生年月日1980年4月11日／2018年時点の左利き\n- [名古屋グランパス公式・2010年2月28日FC岐阜戦](https://nagoya-grampus.jp/game/result/2010/02282010jvsfc/)：2010年の所属と背番号11／当時のホームユニフォーム\n- [JFA公式・2010年ワールドカップ玉田圭司選手資料](https://www.jfa.jp/samuraiblue/worldcup_history/assets/images/2010/pop/fw11.png)：2010年6月11日時点の173cm・67kg／生年月日1980年4月11日・30歳／2010年の顔・髪型\n- [外観・ユニフォーム参考資料](https://www.jfa.jp/samuraiblue/worldcup_history/2010/)：Layered dark short-to-medium hair with forehead fringe, ears mostly clear; clean-shaven. Official profile shows173cm67kg and age30.\n- [外観・ユニフォーム参考資料](https://www.sports-ws.com/commodity/SKOB1347D/LE1452EU20724/)：Red/orange vertical stripes, red sleeves, black V-neck, le coq sportif.\n- [外観・ユニフォーム参考資料](https://nagoya-grampus.jp/game/result/2010/02282010jvsfc/)：Official match record confirms Tamada club shirt11; browser photo inaccessible due Cloudflare challenge.\n\n### 画像の確認範囲\n\n1人につき1回生成。正面と右向き横顔、髪型、所属クラブのホーム用配色を確認。画像は実機の完成見本ではありません。顔・細部のユニフォームはAIによる近似で、玉田の髪は資料写真よりややボリュームがあります。\n\n## 中澤 佑二｜2004年・横浜F・マリノス\n\n空中戦と対人守備で最終ラインを支える2004年の横浜F・マリノス版。当時の力強さとセットプレーでのヘディングを軸に再現します。\n\n生年月日と187cm・78kgはJOCの2000年公式プロフィールで確認。年齢は2004年12月11日時点。身体値は2004年当年の確認が未完了のため仮入力です。背番号22・右利き・ユニフォームネームNAKAZAWAは2004年当年の一次資料未確認の仮設定。\n\n2004年のボリュームのある黒いウェーブヘア。耳と襟足を覆う長さを残し、結ばずに下ろす仮案。\n\n### 参照資料\n\n- [日本オリンピック委員会・シドニー2000 中澤佑二](https://www.joc.or.jp/games/olympic/sydney/sports/football/team/nakazawayuji.html)：生年月日1978年2月25日／2000年時点の187cm・78kg\n- [J.LEAGUE via Soccer Magazine](https://soccermagazine.jp/_ct/17360857/p2)：Loose voluminous dark wavy hair to neck/upper shoulders, parted fringe. Royal blue home shirt with red collar and white/red shoulder striping.\n- [George Herringshaw](https://www.sporting-heroes.net/football/japan/yuji-nakazawa-11217/england-1-1-japan-1st-june-2004_a23248/)：Loose black bomber hair, visibly long and voluminous. Japan away kit used only as hair reference.\n\n### 画像の確認範囲\n\n1人につき1回生成。正面と右向き横顔、髪型、所属クラブのホーム用配色を確認。画像は実機の完成見本ではありません。顔・細部のユニフォームはAIによる近似で、玉田の髪は資料写真よりややボリュームがあります。\n\n## 確認・次回引き継ぎ\n\n- 全選手JSON：players-v1.7.0.json。\n- 総合値・未確認の顔パーツ番号はnullを保持。\n- 出典・生成指示・未確認事項は全選手JSONに保存。画面上の注意書き非表示を維持。\n- 公開先は既存GitHub Pages。確認OK後に上書きする手順。\n- プロジェクトの情報源は直接差し替えていません。次回はplayers-v1.7.0.jsonを最新の全選手データとして使用。\n"
+      },
+      {
+        "player_ids": [
+          "marcus-tulio-tanaka-2006-urawa-reds",
+          "takehiro-tomiyasu-2021-22-arsenal",
+          "zion-suzuki-2024-25-parma",
+          "shunsuke-nakamura-2006-07-celtic"
+        ],
+        "filename": "batch4-edit-guide.md",
+        "content": "# 第4回・20人版の作成記録\n\n追加順は闘莉王2006、冨安健洋2021–22、鈴木彩艶2024–25、中村俊輔2006–07。既存16人を保持。\n\n能力は公式ゲーム値ではなく独自査定。体形11項目・顔13項目・髪型等はPS4実機未確認の開始案。未確認の顔パーツ番号と総合値はnull。\n\n## 田中 マルクス 闘莉王 — 2006\n\n生年月日と185cm・82kgはJFAの2010年公式資料で確認。体格は2006年当年の確認が未完了のため、2010年値を仮入力。右利きはサッカーキングのプロフィールで確認。背番号4・ユニフォームネームTULIOの2006年当年の一次資料照合は未完了。\n\nヘディング89・フィジカル90で空中戦、ディフェンスセンス87・ボール奪取86で守備を表現。オフェンスセンス75・決定力69はCBとしての得点参加を意識し、急加速や細かなドリブルは控えめにした独自査定。\n\n2006年の、額を出して後ろへ流した黒いウェーブヘア。耳まわりと襟足にカールを残します。\n\n- [サッカーキング・田中マルクス闘莉王](https://www.soccer-king.jp/player/article/414375.html) — 1981年4月24日生、185cm、右足 / 2006年浦和33試合7得点\n- [JFA・2010年代表プロフィール](https://www.jfa.jp/samuraiblue/worldcup_history/assets/images/2010/pop/df04.png) — 2010年時点185cm・82kg / 生年月日1981年4月24日\n- [外観参照資料](https://www.mint-mall.net/products/detail.php?product_id=441866) — Dark medium-long wavy hair brushed back; loose curls at ears/nape; facial stubble; red/black shirt and white neckline.\n- [外観参照資料](https://www.urawa-reds.co.jp/en/game/records.php) — Official club archive confirms red/black kit and white neckline.\n- [外観参照資料](https://firstwitness.base.shop/items/114346520) — Black shoulder/side panels, white shallow V-neck mesh collar, centered crest; consistent with2006 player photography.\n- [外観参照資料](https://sportiva.shueisha.co.jp/clm/football/jleague_other/2025/06/16/2006/) — Tsuboi photograph confirms kit geometry only; not a likeness reference.\n\n## 冨安 健洋 — 2021–22\n\n生年月日はJOC東京2020、2021年夏のアーセナル移籍と187cm・84kgはUDN SPORTSのプロフィールで確認。身体値の掲載時点が2021–22年に固定された資料ではないため仮入力。背番号18・右利き・TOMIYASUは当該シーズンの一次資料照合が未完了の仮設定。\n\n守備の読み86・ボール奪取85、空中戦を支えるジャンプ83とフィジカル84を中心に設定。逆足は両足でのつなぎを評価して4・4。クロス主体の攻撃型SBとはせず、低い位置での配球と守備を優先した独自査定。\n\n2021年加入時の自然な黒い短髪。上に厚みを残し、短めの前髪を横へ流します。\n\n- [日本オリンピック委員会・東京2020](https://www.joc.or.jp/games/olympic/tokyo/sports/football/team/tomiyasutakehiro.html) — 1998年11月5日生 / 東京2020時点で22歳\n- [UDN SPORTS・冨安健洋](https://www.udnsports.com/member/takehirotomiyasu/) — 187cm・84kg / 2021年夏アーセナル移籍 / 守備の複数位置への対応と予測・対人守備\n- [ゲキサカ・2021年9月27日](https://web.gekisaka.jp/news/world/detail/?341957-341957-fl=) — 2021年9月26日トッテナム戦に右SBで先発フル出場 / 加入後リーグ3連勝\n- [Stuart MacFarlane/Arsenal FC](https://www.arsenalpics.com/arsenal-2021-22/arsenal-v-tottenham-hotspur-2021-22/arsenals-tomiyasu-makes-premier-league-debut-arsenal-vs-23790944.html) — Short natural black side-swept hair, ears clear; official caption confirms2021. Warmup kit not used.\n- [外観参照資料](https://www.sports.ru/football/blogs/2961971.html) — 2021–22 red torso/white sleeves; red round collar with thin navy trim; navy stripes on red shoulders; slight moustache/chin stubble.\n\n## 鈴木 彩艶 — 2024–25\n\n2025年3月のJFA代表名簿でパルマ所属を確認。生年月日・190cm・100kg・右足は閲覧時点のWikipediaプロフィールで補助確認。身体値は2024–25年の一次資料では未確定の仮入力で、後年情報との混同を避けるため当年確認済みとは扱わない。背番号31・SUZUKIも当年一次資料照合は未完了。\n\nコラプシング85・ディフレクティング85で反応と守備範囲を評価。GKセンス81・キャッチング78は伸びしろを残し、フライパス77・キック力85でフィードを表現。後年の成績や負傷は持ち込まない2024–25年向けの独自査定。\n\n2025年春の短いカールヘア。上部に細かいカールを残し、横と襟足を短く。毛先の明るさは控えめにします。\n\n- [JFA・2025年3月代表メンバー](https://www.jfa.jp/samuraiblue/worldcup_2026/final_q_2026/20250320/member.html) — 2025年3月時点のパルマ所属 / GK登録\n- [Wikipedia・鈴木彩艶（補助資料）](https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E5%BD%A9%E8%89%B6) — 2002年8月21日生 / 閲覧時の身長190cm・体重100kg・右足\n- [JFA・鈴木彩艶プロフィール](https://www.jfa.jp/samuraiblue/member/suzuki_zion.html) — セービングと正確なロングフィードというプレー傾向 / パルマ初年度の残留貢献への回顧\n- [Alessandro Sabattini/Getty Images](https://www.corriere.it/sport/calcio/serie-a/cards/pagelle-serie-a-giornata-25-febbraio-17/la-parata-alla-benji-del-portiere-giapponese-suzuki-voto-8.shtml) — Parma–Roma home match, Ennio Tardini. Yellow goalkeeper kit.\n- [外観参照資料](https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/2025-06-07-seriea-parma-napoli-zion-suzuki-cherubini/1r0ylejmaklht12ju2ja6rxt1j) — Yellow Puma goalkeeper jersey, navy crew collar/cuffs; tightly curled black hair with lightened curl tips and faded sides.\n\n## 中村 俊輔 — 2006–07\n\n生年月日・178cm・70kg・セルティック所属はJFAの2006年6月資料で確認。身体値は2006–07年シーズン直前の資料を採用し、シーズン中の変動は未確認。背番号25・左利き・NAKAMURAは当該シーズンの一次資料照合が未完了の仮設定。年齢28歳は2007年5月26日時点。\n\nプレースキック95・カーブ94・フライパス93を左足の特色として強調し、ボールコントロール91・キープ89で落ち着いた保持を表現。速さや接触の強さは控えめにした独自査定。\n\n2006–07年の黒いストレートのシャギー。眉に近い前髪、耳にかかる横髪と長めの襟足を残します。\n\n- [JFA・2006年代表プロフィール](https://www.jfa.jp/samuraiblue/worldcup_history/assets/images/2006/pop/mf10.png) — 1978年6月24日生 / 2006年6月時点178cm・70kg / セルティック所属\n- [外観参照資料](https://www.nikkansports.com/soccer/photonews/photonews_nsInc_202210170000716-21.html) — Black straight layered shag with heavy fringe and long nape; Celtic green/white broad hoops with simple round collar.\n\n## 画像と公開\n\n各選手1回の生成、追加バリエーションなし。各1536×1024、正面と右横顔。図鑑用には構図を変えずWebPへ圧縮。鈴木は2025年2月16日のパルマ対ローマで着用した黄色いGK服を基準にした。ロゴや細部の再現は近似であり、実機スクリーンショットではない。プロンプト全文と写真日付は正本JSONとbatch4-image-provenance.jsonへ保存。\n\n16人版はすでにGitHub Pagesで公開済み。20人版は確認用ファイルを作成し、確認OK後に同じ公開先へ上書きする。\n"
       }
     ],
     "reference_image_policy": {
@@ -10926,9 +13794,12 @@
       "provider": "GitHub",
       "repository": "sakerock911-hub/we2020-japan-edit",
       "url": "https://sakerock911-hub.github.io/we2020-japan-edit/",
-      "status": "awaiting_batch3_review",
-      "instruction": "引き継いだ「確認OK後にGitHubへ上書き」の手順を保持。3人追加版の確認用ファイルを準備し、公開版は既存13人の状態。",
-      "date": "2026-09-17"
+      "status": "awaiting_batch4_review",
+      "instruction": "16人版は確認OKを受けGitHub Pages公開済み。今回の20人版は確認用。確認OK後に同じ公開先へ上書き。",
+      "date": "2026-09-17",
+      "published_version": "1.7.0",
+      "published_player_count": 16,
+      "published_commit": "d1780350cb4f88aa661cca1b0c883aef5f2c0e87"
     }
   }
 }
