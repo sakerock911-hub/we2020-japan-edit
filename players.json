@@ -6451,12 +6451,2051 @@
         ],
         "approval": "今回新規作成。ユーザーの実機確認待ち"
       }
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "CF",
+            "main": true,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "ST",
+            "main": false,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "LWG",
+            "main": false,
+            "suitability": "準適性"
+          },
+          {
+            "position": "RWG",
+            "main": false,
+            "suitability": "準適性"
+          },
+          {
+            "position": "OMF",
+            "main": false,
+            "suitability": "準適性"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "相手最終ラインの背後へ動き、ファーストタッチから素早くフィニッシュするCF。足元で受ける場面もボールコントロールで表現します。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 85
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 90
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 87
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 86
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 76
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 72
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 83
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 63
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 65
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 78
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 85
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 88
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 76
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 72
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 65
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 86
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 78
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 45
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 46
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 56
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 3
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 3
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 7
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "2013年の得点実績を踏まえ、ボールコントロール90・瞬発力88・決定力83を軸に設定。長身選手のような空中戦の強さは付与しません。すべて独自査定です。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 177,
+        "weight_kg": 68,
+        "note": "細身で軽快なシルエット。上半身を厚くしすぎず、脚の長さを少し強調する仮案です。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 0
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": -1
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": -1
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": -1
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": -1
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": -1
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": -1
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 0
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": -1
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 1
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 0
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "細めの卵形の輪郭、横長の目、緩やかに上がる眉、細い鼻筋、薄めの唇と小さめのあごを目安にします。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "自然な明るめの肌色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "横長で二重線を強調しすぎない形"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "下まぶたのふくらみは控えめ"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "暗い茶色"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "中程度の太さで緩やかに上がる眉"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "細い鼻筋と小さめの鼻先"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "薄めで中央の山が強すぎない形"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "上唇より少し厚い形"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬骨を張らせすぎない"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "細めだが尖りすぎないあご"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 0
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": -1
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 0
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": 0
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 0
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 0
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": -1
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 0
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 0
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": -1
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": -1
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "近接年2014年を含むJFA資料を補助参照。2013年当年の髪型の細部・実機パーツは未確認。",
+        "target": "近接年のJFA公式写真を参考に、茶色の毛先を含む短い束状のトップと不揃いな前髪で作る仮案。2013年そのものの写真確認は未完了です。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ショート"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 1
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "短い束を不揃いに下ろす"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "はっきりした分け目なし"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "普通"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "耳まわりを短く、トップは長め"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "茶色"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "なし"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "髪色に合わせる"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "なし"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "明るい色を基調とする。型番は指定しない"
+          }
+        ]
+      },
+      "id": "yoichiro-kakitani-2013-cerezo-osaka",
+      "name": "柿谷 曜一朗",
+      "name_kana": "かきたに よういちろう",
+      "name_english": "YOICHIRO KAKITANI",
+      "shirt_name": "KAKITANI",
+      "nationality": "日本",
+      "era": {
+        "year": 2013,
+        "season": "2013",
+        "label": "2013年・セレッソ大阪",
+        "club": "セレッソ大阪",
+        "selection_reason": "J1で34試合21得点を記録した2013年を採用。鋭い抜け出しと難しいボールを収める技術が、得点につながったシーズンを再現します。",
+        "reason_source_ids": [
+          "kakitani_season",
+          "kakitani_jfa"
+        ],
+        "source_check_status": "承認済み年度。取得できた一次資料と未確認項目を分けて記録。"
+      },
+      "profile": {
+        "age": 23,
+        "height_cm": 177,
+        "weight_kg": 68,
+        "dominant_foot": "右",
+        "main_position": "CF",
+        "shirt_number": 8,
+        "source_status": "誕生日・177cm/68kgはJFA公式プロフィールの配信JSONで確認。ただし同資料はFCバーゼル在籍期の経歴を含み、2013年当時の身体値と断定できないため仮入力値です。年齢は2013年12月7日時点の23歳。利き足・ユニフォームネーム・背番号8の当年一次資料照合は未完了です。",
+        "birth_date": "1990-01-03",
+        "age_reference_date": "2013-12-07",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機動作未確認",
+        "value": "ラインブレイカー",
+        "reason": "相手最終ラインの背後へ動き、ファーストタッチから素早くフィニッシュするCF。足元で受ける場面もボールコントロールで表現します。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューの実機照合は未実施。",
+        "items": [
+          {
+            "name": "ダブルタッチ",
+            "purpose": "細かな持ち替えで相手をかわす"
+          },
+          {
+            "name": "ルーレット",
+            "purpose": "身体を回してボールを保護する"
+          },
+          {
+            "name": "コントロールカーブ",
+            "purpose": "角度を作ったシュート"
+          },
+          {
+            "name": "アクロバティックシュート",
+            "purpose": "難しい姿勢でボールに合わせる"
+          },
+          {
+            "name": "ワンタッチシュート",
+            "purpose": "トラップから、または直接の素早い仕上げ"
+          },
+          {
+            "name": "ワンタッチパス",
+            "purpose": "狭い場所で味方と連係する"
+          },
+          {
+            "name": "アウトスピンキック",
+            "purpose": "足の外側を使うプレー"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [
+          {
+            "name": "テクニシャン",
+            "enabled": true
+          },
+          {
+            "name": "クイックスター",
+            "enabled": true
+          },
+          {
+            "name": "インサイドカッター",
+            "enabled": true
+          }
+        ],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/kakitani-2013-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2013年の柿谷 曜一朗を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "既存の表示設定を保持し、画像区分をデータ内に残す。"
+        ],
+        "reference_generation": {
+          "method": "built-in image_gen.imagegen",
+          "generated_from_game_engine": false,
+          "edit_values_verified_against_image": false,
+          "generation_calls": 1,
+          "prompt": "Use case: stylized-concept. Asset: paired portrait for a football edit-reference website. Generate one NEW 1536×1024 landscape image of Yoichiro Kakitani (柿谷曜一朗), age 23, with the Cerezo Osaka 2013 home shirt. This is an AI reference render, not an in-game screenshot.\nLayout: exactly two equal 50/50 halves with no border. Left: straight front-facing head-and-upper-chest bust, eyes looking directly at camera. Right: true 90-degree side profile looking toward the RIGHT edge. Same man, same face geometry, same head scale and matching eye line in both halves. Both complete hair silhouettes fully inside image with ample gray-blue margin above and around the head. No part of the head, hair, nose, chin or nape cut off. Center each bust in its own half.\nPlayer appearance: young Japanese footballer Yoichiro Kakitani in his early-twenties 2013–14 appearance, as seen in his historic JFA portrait: lean oval face narrowing to a small rounded-pointed chin, warm medium-light lightly tanned skin, almond-shaped narrow dark-brown eyes, subtly heavy upper eyelids, medium straight dark brows, modest straight nose with rounded tip, medium-full lower lip, clean-shaven face. Hair is short dark brown with warm copper-brown tips, distinct small tousled spiky strands raised at the crown, short layered sides above the ears, irregular short pointed fringe falling a little onto the upper forehead, compact silhouette. Keep youthful natural proportions. No beard, moustache, bleached blond modern hair, or later slicked-back undercut. Neutral relaxed closed-mouth expression.\nClothes: Cerezo Osaka 2013 home jersey, vivid cherry pink main body with dark navy shoulder/yoke and side accents, navy collar trim, pink sleeves with navy accents. Period Cerezo Osaka crest at left breast, small white Mizuno running-bird mark at right breast; period white YANMAR chest sponsor naturally on shirt if in frame. Keep period pink/navy color scheme, no later Puma shirt and no national Japan blue kit.\nVisual style: realistic PS4-era football-game 3D character render intended as a reference portrait, believable face geometry, subtle skin pores, separated natural hair strands, textured woven football jersey. Soft even studio lighting, restrained specular highlights, neutral matte gray-blue backdrop shared across both halves. Prioritize resemblance to Kakitani, not generic Japanese player features.\nNo added text, labels, dates, names, numbers, captions, UI, menus, watermarks, HUD, stadium, balls, props or extra people.\n",
+          "sources": [
+            {
+              "url": "https://www.jfa.jp/national_team/inc/member/samuraiblue/kakitani_yoichiro.jpg",
+              "year": "circa 2014",
+              "role": "official near-period face and hair reference",
+              "limitation": "Exact 2013 photo date not verified; JFA profile context includes Basel and latest 2014 cap, so reference treated as near-year rather than exact 2013."
+            },
+            {
+              "url": "https://www.jfa.jp/national_team/inc/member/samuraiblue/kakitani_yoichiro.json",
+              "year": "2014 profile context",
+              "role": "source context"
+            }
+          ],
+          "limitations": [
+            "Exact 2013 Cerezo home shirt construction not verified from a dated archival photo; prompt uses requested 2013 pink/navy period interpretation.",
+            "Exact 2013 hair reference unavailable; nearby JFA portrait used and explicitly recorded."
+          ],
+          "dimensions": {
+            "width": 1536,
+            "height": 1024
+          },
+          "visual_review": "Frontal and right-facing profile at equal scale, complete hair/head, muted gray-blue background. Period-style hair and kit approximated from nearby JFA portrait and user shirt specification; exact 2013 hair and shirt details not verified.",
+          "profile_view_status": "横顔は資料を基にAIが補完した参考イメージ。実機・実写の横顔との一致は未検証。",
+          "delivery_format": "WebP（配信用に圧縮。構図・寸法・内容の編集なし）",
+          "original_png_sha256": "c288993813a3a0ef14f2a1d148529018da6dda76fbe2a7e3c7eafe985c3c6ae7",
+          "delivery_sha256": "169084cb1e36dc5adda6af535452c910973209f2c80aabff45bc9ba12ef3bfab"
+        }
+      },
+      "sources": [
+        {
+          "id": "kakitani_season",
+          "publisher": "Jリーグ公式・年度別出場記録",
+          "url": "https://data.j-league.or.jp/SFIX04/?player_id=8190",
+          "previously_cited_for": [],
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2013年C大阪 J1 34試合21得点",
+            "生年月日1990年1月3日"
+          ],
+          "caveat": "ページ上部の176cmは最終所属時のプロフィールであり2013年の身体値に流用しない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "kakitani_jfa",
+          "publisher": "日本サッカー協会・選手プロフィール",
+          "url": "https://www.jfa.jp/samuraiblue/member/kakitani_yoichiro.html",
+          "previously_cited_for": [],
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "公式配信JSONの177cm/68kg・誕生日"
+          ],
+          "caveat": "配信JSON https://www.jfa.jp/national_team/inc/member/samuraiblue/kakitani_yoichiro.json を取得。バーゼル在籍期を含む資料であり、2013年の身体値の確認済み資料とは扱わない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "kakitani-2013_visual_1",
+          "publisher": "公式外観資料（画像作成用）",
+          "url": "https://www.jfa.jp/national_team/inc/member/samuraiblue/kakitani_yoichiro.jpg",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "official near-period face and hair reference"
+          ],
+          "caveat": "Exact 2013 photo date not verified; JFA profile context includes Basel and latest 2014 cap, so reference treated as near-year rather than exact 2013.",
+          "game_values_verified": false
+        },
+        {
+          "id": "kakitani-2013_visual_2",
+          "publisher": "公式外観資料（画像作成用）",
+          "url": "https://www.jfa.jp/national_team/inc/member/samuraiblue/kakitani_yoichiro.json",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "source context"
+          ],
+          "caveat": "",
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "誕生日・177cm/68kgはJFA公式プロフィールの配信JSONで確認。ただし同資料はFCバーゼル在籍期の経歴を含み、2013年当時の身体値と断定できないため仮入力値です。年齢は2013年12月7日時点の23歳。利き足・ユニフォームネーム・背番号8の当年一次資料照合は未完了です。",
+        "能力値は独自査定。顔・体形・髪型は実機未確認の仮設定。画像は参考イメージ・実機の再現結果ではありません。",
+        "外観は近接年JFA写真を補助に使用。2013年当年の髪型・ユニフォーム細部が確認済みとは扱いません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存データとの整合性として能力40〜99、逆足1〜4、安定度1〜8、ケガ耐性1〜3を暫定検査。PS4実機の入力範囲・スキル選択肢・外見数値は未確認。",
+        "pending": [
+          "PS4版2020の実機メニュー・入力範囲・顔パーツ番号",
+          "対象シーズンの体格",
+          "当時の利き足・ユニフォームネームの一次資料",
+          "2013年当年の髪型・ホームユニフォームの細部",
+          "2013年背番号8の当年一次資料照合"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      }
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "CF",
+            "main": true,
+            "suitability": "適性あり"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "クロスの終点となる長身CF。中央で相手を背負い、ヘディングや少ないタッチで仕上げる役割を重視します。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 82
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 73
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 64
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 66
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 66
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 57
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 81
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 89
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 52
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 60
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 69
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 62
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 82
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 80
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 86
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 58
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 74
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 44
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 42
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 66
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 2
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 2
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 6
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "ヘディング89・フィジカルコンタクト86・決定力81を軸に設定。身長による利点と合わせ、細かな切り返しや瞬発力は抑えています。すべて独自査定です。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 194,
+        "weight_kg": 81,
+        "note": "長い手足と高い重心を表現。大柄でも腰や脚を過度に太くしない仮案です。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 1
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": 1
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 1
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 1
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": 0
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": 0
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 0
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": -1
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 2
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 2
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "縦に長い輪郭、深めの目もと、通った鼻筋、幅のあるあごを目安にします。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "自然な明るい肌色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "やや深く横長の目になる形"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "目の下を厚くしすぎない"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "茶色。2015年公式写真の見え方を目安にした仮設定。"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "中程度から太めの眉"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "高めの鼻筋と前に出る鼻先"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "やや薄めの上唇"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "中程度の厚さ"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "少し頬骨が見える形"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "幅があり角を少し残すあご"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 2
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": 0
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 1
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 1
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 1
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": 0
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 0
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 1
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": 1
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": 1
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "2015年ADO公式写真の特徴を参考に作成。実機パーツ・数値範囲は未確認。",
+        "target": "2015年ADO公式写真を参考に、黒に近いこげ茶の短髪。サイドを短く、トップを少し上げて後ろへ流す仮案。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ショート"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 0
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "前髪を上げて後ろへ流す"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "サイド寄り"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "やや広め"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "耳まわりを短くする"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "黒に近いこげ茶色"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "口まわりとあごの短いヒゲ"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "茶色"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "薄め〜中程度"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "白または明るい色。型番は指定しない"
+          }
+        ]
+      },
+      "id": "mike-havenaar-2015-16-ado-den-haag",
+      "name": "ハーフナー マイク",
+      "name_kana": "はーふなー まいく",
+      "name_english": "MIKE HAVENAAR",
+      "shirt_name": "HAVENAAR",
+      "nationality": "日本",
+      "era": {
+        "year": 2015,
+        "season": "2015–16",
+        "label": "2015–16年・ADOデン・ハーグ",
+        "club": "ADOデン・ハーグ",
+        "selection_reason": "2015–16年のオランダ1部で31試合16得点。大型CFとしてゴール前で強みを発揮したシーズンを、1シーズンに限定して再現します。",
+        "reason_source_ids": [
+          "havenaar_season",
+          "havenaar_jfa",
+          "havenaar_2016_roster"
+        ],
+        "source_check_status": "承認済み年度。取得できた一次資料と未確認項目を分けて記録。"
+      },
+      "profile": {
+        "age": 28,
+        "height_cm": 194,
+        "weight_kg": 81,
+        "dominant_foot": "左",
+        "main_position": "CF",
+        "shirt_number": 9,
+        "source_status": "誕生日・194cm/81kgはJFA公式プロフィールの配信JSONで確認。同資料はADO所属の経歴を含みますが、身体値の更新日が不明なため2015–16年の体格は仮入力値です。後年のUDN紹介にある195cm/92kgとは混同しません。年齢は2016年5月8日時点の28歳。利き足・背番号9・ユニフォームネームの当年一次資料照合は未完了です。",
+        "birth_date": "1987-05-20",
+        "age_reference_date": "2016-05-08",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機動作未確認",
+        "value": "ポストプレイヤー",
+        "reason": "クロスの終点となる長身CF。中央で相手を背負い、ヘディングや少ないタッチで仕上げる役割を重視します。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューの実機照合は未実施。",
+        "items": [
+          {
+            "name": "ヘッダー",
+            "purpose": "クロスからのヘディング"
+          },
+          {
+            "name": "ワンタッチシュート",
+            "purpose": "ゴール前で少ないタッチで合わせる"
+          },
+          {
+            "name": "アクロバティックシュート",
+            "purpose": "高いボールや難しい姿勢への対応"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/havenaar-2015-16-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2015–16年のハーフナー マイクを想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "既存の表示設定を保持し、画像区分をデータ内に残す。"
+        ],
+        "reference_generation": {
+          "method": "built-in image_gen.imagegen",
+          "generated_from_game_engine": false,
+          "edit_values_verified_against_image": false,
+          "generation_calls": 1,
+          "prompt": "Use case: stylized-concept. Asset: football edit-reference website, paired portrait. Generate one NEW 1536×1024 landscape image of Mike Havenaar (ハーフナー・マイク), age 28, as he looked at ADO Den Haag in 2015–16. This is an AI reference render, not a genuine in-game screenshot.\nComposition: two equal 50/50 panels without borders. Left: straight frontal head-and-upper-chest bust looking at camera. Right: true 90-degree side profile facing RIGHT. Same person, same head scale and matching eye/hair levels. Both complete hair silhouettes with visible space above; keep entire nose, skull and nape inside canvas. Busts centered in respective halves.\nPeriod face and hair observed in ADO’s 11 August 2015 signing and 28 October 2015 match photographs: a very tall lean-athletic man of Dutch ancestry, fair lightly tanned skin, long angular face, prominent defined nose, high cheekbones, broad defined brow, dark eyebrows, brown eyes, somewhat square but narrow chin. Dark-brown nearly black short hair; closely trimmed sides, a little length on top, swept up and back with a modest natural uneven quiff, not a tall modern pompadour. Neat short dark beard outlining the jaw and concentrated at the chin, connected short moustache. Match same precise face geometry from front and side. Neutral relaxed closed-mouth expression.\nClothing: ADO Den Haag 2015–16 home football jersey as seen in that season’s official club photo: saturated green and yellow broad vertical stripes, green shoulder and upper-sleeve area, small yellow panels toward neckline, a green folded collar, yellow sleeve/underarm inset. Period ADO stork shield on left breast, small Errea emblem on right breast. Small period white BASIC-FIT FITNESS sponsor naturally printed across shirt chest if it is in frame; no other writing. No Japan national kit, no Vitesse kit.\nStyle: realistic PS4-era football-game 3D character reference, believable face geometry, subtly visible skin pores, carefully separated short hair strands, cloth weave; soft even studio lighting, restrained highlights. Neutral matte gray-blue seamless background throughout. Accurate recognizable Mike Havenaar likeness.\nNo captions, player names, dates, numbers, watermarks, menus, interface, HUD, stadium, crowd, ball, borders, or extra people.\n",
+          "sources": [
+            {
+              "url": "https://adodenhaag.nl/nl/nieuws/laatste-nieuws/1e-elftal/4291-mike-havenaar-komt-ado-den-haag-versterken",
+              "date": "2015-08-11",
+              "role": "official face and hairstyle photos"
+            },
+            {
+              "url": "https://adodenhaag.nl/nl/nieuws/laatste-nieuws/1e-elftal/4508-mike-havenaar-in-voorlopige-selectie-japan",
+              "date": "2015-10-28",
+              "role": "official match photo face/hair/home kit"
+            },
+            {
+              "url": "https://adodenhaag.nl/images/cache/1f1f06d371ad1f834291cec13d082a93_w835.jpg",
+              "date": "2015-10-28",
+              "role": "shirt and appearance visual"
+            }
+          ],
+          "limitations": [],
+          "dimensions": {
+            "width": 1536,
+            "height": 1024
+          },
+          "visual_review": "Frontal plus right-facing profile, consistent scale, full hair/head inside canvas, gray-blue background. Recognizable period hair/beard and green/yellow home kit; AI interpretation of face and detailed crest.",
+          "profile_view_status": "横顔は資料を基にAIが補完した参考イメージ。実機・実写の横顔との一致は未検証。",
+          "delivery_format": "WebP（配信用に圧縮。構図・寸法・内容の編集なし）",
+          "original_png_sha256": "58e565069c8b72c05cf564d0eaeb69e5e677077e2a07ff01fc0b9550c8a128bb",
+          "delivery_sha256": "23e31c8e75426affa1771deacfc05564bfb834a2b47931953b946d75889be68b"
+        }
+      },
+      "sources": [
+        {
+          "id": "havenaar_season",
+          "publisher": "UDN SPORTS・ハーフナー マイク公式プロフィール",
+          "url": "https://www.udnsports.com/member/mikehavenaar/",
+          "previously_cited_for": [],
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2015/16 ADO・エールディヴィジ31試合16得点",
+            "誕生日1987年5月20日"
+          ],
+          "caveat": "現在の195cm/92kgは2015–16年の体格として採用していない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "havenaar_jfa",
+          "publisher": "日本サッカー協会・選手プロフィール",
+          "url": "https://www.jfa.jp/samuraiblue/member/havenaar_mike.html",
+          "previously_cited_for": [],
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "公式配信JSONの194cm/81kg・誕生日"
+          ],
+          "caveat": "配信JSON https://www.jfa.jp/national_team/inc/member/samuraiblue/havenaar_mike.json を取得。身体値更新日は未確認。",
+          "game_values_verified": false
+        },
+        {
+          "id": "havenaar_2016_roster",
+          "publisher": "日本サッカー協会・2016年3月29日招集メンバー",
+          "url": "https://www.jfa.jp/samuraiblue/20160329/member.html",
+          "previously_cited_for": [],
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2016年3月時点のADOデン・ハーグ所属"
+          ],
+          "caveat": "",
+          "game_values_verified": false
+        },
+        {
+          "id": "havenaar-2015-16_visual_1",
+          "publisher": "公式外観資料（画像作成用）",
+          "url": "https://adodenhaag.nl/nl/nieuws/laatste-nieuws/1e-elftal/4291-mike-havenaar-komt-ado-den-haag-versterken",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "official face and hairstyle photos"
+          ],
+          "caveat": "",
+          "game_values_verified": false
+        },
+        {
+          "id": "havenaar-2015-16_visual_2",
+          "publisher": "公式外観資料（画像作成用）",
+          "url": "https://adodenhaag.nl/nl/nieuws/laatste-nieuws/1e-elftal/4508-mike-havenaar-in-voorlopige-selectie-japan",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "official match photo face/hair/home kit"
+          ],
+          "caveat": "",
+          "game_values_verified": false
+        },
+        {
+          "id": "havenaar-2015-16_visual_3",
+          "publisher": "公式外観資料（画像作成用）",
+          "url": "https://adodenhaag.nl/images/cache/1f1f06d371ad1f834291cec13d082a93_w835.jpg",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "shirt and appearance visual"
+          ],
+          "caveat": "",
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "誕生日・194cm/81kgはJFA公式プロフィールの配信JSONで確認。同資料はADO所属の経歴を含みますが、身体値の更新日が不明なため2015–16年の体格は仮入力値です。後年のUDN紹介にある195cm/92kgとは混同しません。年齢は2016年5月8日時点の28歳。利き足・背番号9・ユニフォームネームの当年一次資料照合は未完了です。",
+        "能力値は独自査定。顔・体形・髪型は実機未確認の仮設定。画像は参考イメージ・実機の再現結果ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存データとの整合性として能力40〜99、逆足1〜4、安定度1〜8、ケガ耐性1〜3を暫定検査。PS4実機の入力範囲・スキル選択肢・外見数値は未確認。",
+        "pending": [
+          "PS4版2020の実機メニュー・入力範囲・顔パーツ番号",
+          "対象シーズンの体格",
+          "当時の利き足・ユニフォームネームの一次資料"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      }
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "OMF",
+            "main": true,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "CMF",
+            "main": false,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "LMF",
+            "main": false,
+            "suitability": "準適性"
+          },
+          {
+            "position": "RMF",
+            "main": false,
+            "suitability": "準適性"
+          },
+          {
+            "position": "DMF",
+            "main": false,
+            "suitability": "準適性"
+          },
+          {
+            "position": "ST",
+            "main": false,
+            "suitability": "準適性"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "トップ下を中心に、ボールを収めて味方と短いパスを交換する役割。必要に応じて中央のMFでも使える適性にします。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 73
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 83
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 77
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 82
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 80
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 74
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 70
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 65
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 58
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 67
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 75
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 73
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 73
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 70
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 79
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 74
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 81
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 60
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 64
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 65
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 2
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 2
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 5
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "ボールコントロール83・ボールキープ82・グラウンダーパス80を中心に、中盤のつなぎ役として設定。後年の役割や実績は合成していません。すべて独自査定です。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 186,
+        "weight_kg": 75,
+        "note": "長身で手足が長く、細身ながら相手を背負える体形を目安にする仮案です。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 1
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 1
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 0
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": -1
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": 0
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 0
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 0
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 1
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 1
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "やや面長の輪郭、濃い眉、横長の目、はっきりした鼻筋を目安にします。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "自然な少し日焼けした肌色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "横長でやや奥まった目もと"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "目の下の線を強調しすぎない"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "暗い茶色"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "濃くしっかりした眉"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "細めで通った鼻筋"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "中程度の厚さ"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "上唇よりわずかに厚い形"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬の横幅を控えめにする"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "やや細いが尖らせすぎないあご"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 1
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": -1
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 0
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": 0
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 1
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 1
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": 0
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 0
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 0
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": -1
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": 0
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "2013年FC東京公式写真を参考に作成。実機パーツ・数値範囲は未確認。",
+        "target": "公式2013年写真の茶色の髪、サイド分け、横へ流した前髪、少し耳にかかる長さを目安にした仮案。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ショート〜ミディアム"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 1
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "毛束を横へ流す"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "サイド寄り"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "普通"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "耳まわりを整える"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "茶色"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "口まわりとあごに薄いヒゲを仮設定"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒に近い暗い茶色"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "薄め"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "白・黒を基調とする。型番は指定しない"
+          }
+        ]
+      },
+      "id": "ariajasuru-hasegawa-2013-fc-tokyo",
+      "name": "長谷川 アーリアジャスール",
+      "name_kana": "はせがわ あーりあじゃすーる",
+      "name_english": "ARIAJASURU HASEGAWA",
+      "shirt_name": "ARIA",
+      "nationality": "日本",
+      "era": {
+        "year": 2013,
+        "season": "2013",
+        "label": "2013年・FC東京",
+        "club": "FC東京",
+        "selection_reason": "承認済みの2013年FC東京版。中盤と前線をつなぐ役割を重視し、当時のボール保持と連係を軸に再現します。",
+        "reason_source_ids": [
+          "hasegawa_2013_roster"
+        ],
+        "source_check_status": "承認済み年度。取得できた一次資料と未確認項目を分けて記録。"
+      },
+      "profile": {
+        "age": 25,
+        "height_cm": 186,
+        "weight_kg": 75,
+        "dominant_foot": "右",
+        "main_position": "OMF",
+        "shirt_number": 8,
+        "source_status": "2013年の所属・背番号8・英字氏名はFC東京公式の年度別選手一覧で確認。186cm/75kgは当年一次資料未確認の仮入力値です。生年月日1988年10月29日・利き足・ユニフォームネームARIAも当年資料との照合未完了。年齢はこの誕生日に基づく2013年12月7日時点の25歳です。",
+        "birth_date": "1988-10-29",
+        "age_reference_date": "2013-12-07",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機動作未確認",
+        "value": "チャンスメイカー",
+        "reason": "トップ下を中心に、ボールを収めて味方と短いパスを交換する役割。必要に応じて中央のMFでも使える適性にします。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューの実機照合は未実施。",
+        "items": [
+          {
+            "name": "ダブルタッチ",
+            "purpose": "相手をかわしてパスコースを作る"
+          },
+          {
+            "name": "ワンタッチパス",
+            "purpose": "味方と短いタッチで連係する"
+          },
+          {
+            "name": "スルーパス",
+            "purpose": "前線の動きに合わせて通す"
+          },
+          {
+            "name": "アウトスピンキック",
+            "purpose": "足の外側を使った方向の変化"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [
+          {
+            "name": "テクニシャン",
+            "enabled": true
+          }
+        ],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/hasegawa-2013-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2013年の長谷川 アーリアジャスールを想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "既存の表示設定を保持し、画像区分をデータ内に残す。"
+        ],
+        "reference_generation": {
+          "method": "built-in image_gen.imagegen",
+          "generated_from_game_engine": false,
+          "edit_values_verified_against_image": false,
+          "generation_calls": 1,
+          "prompt": "Use case: stylized-concept. Asset: football edit-reference website, a paired portrait image. Generate one NEW 1536×1024 landscape image showing Ariajasuru Hasegawa (長谷川アーリアジャスール), age 25, as he looked with FC Tokyo in the 2013 season. This is an AI reference render, not a genuine game screenshot.\nComposition: exactly two equal 50/50 panels, without borders. Left half is a straight frontal view looking into the camera. Right half is a true 90-degree side profile facing RIGHT. The same man and same head scale in both halves; matching eye level and top-of-hair level. Head-and-upper-chest busts, complete hair silhouette with generous top margin, complete nose and back of head, no clipping. Each portrait centered in its own half.\nPeriod appearance, observed in his official 2013 FC Tokyo roster portrait: a tall lean young man, warm light-medium skin, long oval somewhat angular face, narrow pointed chin, strong straight nose with a pronounced bridge, dark brown almond-shaped eyes, relatively full dark eyebrows, modest ears. Short-to-medium chestnut brown hair, straight and smoothly side-swept across the upper forehead from a clear side part, top full but not spiky, sides neat and covering only the upper rim of the ears, short at nape. Natural short dark stubble along chin, jaw, and upper lip. Neutral relaxed closed-mouth expression in both views.\nClothing: 2013 FC Tokyo home football shirt. Strong royal-blue upper chest and shoulders, red inset V neckline, slim pale-gold triple shoulder stripes, blue and red broad vertical stripes beginning below a blue chest band, FC Tokyo period crest on left breast and small white adidas mark on right. This is the 2013 blue/red home kit, not the later New Balance kit or Cerezo kit. Lower shirt sponsor may fall below frame; no added wording.\nStyle: realistic PS4-era football-game 3D character reference render, precise believable face geometry, subtly visible skin pores, realistic separated hair strands and fabric texture, soft balanced studio illumination with restrained specular highlights. Muted neutral gray-blue seamless background across both halves. Resemblance to the actual named player is essential, avoid generic interchangeable face.\nNo captions, player names, numbers, dates, watermarks, menu/UI, HUD, frame, stadium, crowd, ball, or extra people. Do not copy any other player’s facial features.",
+          "sources": [
+            {
+              "url": "https://www.fctokyo.co.jp/team/players/?y=2013",
+              "year": 2013,
+              "role": "official historical roster"
+            },
+            {
+              "url": "https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/01/2013_8.png?x64424",
+              "year": 2013,
+              "role": "official historical face, hair and kit reference",
+              "note": "Asset migrated under 2026/01; roster selected year and filename establish 2013."
+            }
+          ],
+          "limitations": [
+            "生成画像のユニフォームは、公式2013年写真にある青い胸部帯より上まで赤青の縦模様が伸びる近似表現。"
+          ],
+          "dimensions": {
+            "width": 1536,
+            "height": 1024
+          },
+          "visual_review": "Frontal plus right-facing profile, consistent scale, hair/head within canvas, gray-blue background. AI face/kit interpretation; generated shirt stripes extend higher than official 2013 blue chest band, noted without regeneration.",
+          "profile_view_status": "横顔は資料を基にAIが補完した参考イメージ。実機・実写の横顔との一致は未検証。",
+          "delivery_format": "WebP（配信用に圧縮。構図・寸法・内容の編集なし）",
+          "original_png_sha256": "9c8abb96dc2ee709c3d2ab6cca2ac7de91b9266130f616c34f34134921ae5bac",
+          "delivery_sha256": "d7d730070e08a3ea4096232409d5dc926ab676590293acd9ae7592e27f8cd4c2"
+        }
+      },
+      "sources": [
+        {
+          "id": "hasegawa_2013_roster",
+          "publisher": "FC東京公式・2013年選手一覧",
+          "url": "https://www.fctokyo.co.jp/team/players/?y=2013",
+          "previously_cited_for": [],
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2013年の所属・背番号8",
+            "氏名・英字表記",
+            "当年選手写真"
+          ],
+          "caveat": "2013_8.pngを参照。画像URLの2026/01は保存先であり撮影年ではない。身体値はこの一覧に記載なし。",
+          "game_values_verified": false
+        },
+        {
+          "id": "hasegawa-2013_visual_1",
+          "publisher": "公式外観資料（画像作成用）",
+          "url": "https://www.fctokyo.co.jp/team/players/?y=2013",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "official historical roster"
+          ],
+          "caveat": "",
+          "game_values_verified": false
+        },
+        {
+          "id": "hasegawa-2013_visual_2",
+          "publisher": "公式外観資料（画像作成用）",
+          "url": "https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/01/2013_8.png?x64424",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "official historical face, hair and kit reference"
+          ],
+          "caveat": "Asset migrated under 2026/01; roster selected year and filename establish 2013.",
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "2013年の所属・背番号8・英字氏名はFC東京公式の年度別選手一覧で確認。186cm/75kgは当年一次資料未確認の仮入力値です。生年月日1988年10月29日・利き足・ユニフォームネームARIAも当年資料との照合未完了。年齢はこの誕生日に基づく2013年12月7日時点の25歳です。",
+        "能力値は独自査定。顔・体形・髪型は実機未確認の仮設定。画像は参考イメージ・実機の再現結果ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存データとの整合性として能力40〜99、逆足1〜4、安定度1〜8、ケガ耐性1〜3を暫定検査。PS4実機の入力範囲・スキル選択肢・外見数値は未確認。",
+        "pending": [
+          "PS4版2020の実機メニュー・入力範囲・顔パーツ番号",
+          "対象シーズンの体格",
+          "当時の利き足・ユニフォームネームの一次資料"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "長谷川",
+        "アーリア",
+        "ジャスール"
+      ]
     }
   ],
   "catalog": {
     "title": "ウイイレ2020 日本代表エディット図鑑",
-    "version": "1.5.2",
-    "updated_at": "2026-09-16T08:23:14.142735+00:00",
+    "version": "1.6.0",
+    "updated_at": "2026-09-17T01:37:57.245078+00:00",
     "site_project_id": "appgprj_6aa9d6dd0e8481918a538a8d49a4ab2d",
     "registration_order": [
       {
@@ -6508,6 +8547,21 @@
         "player_id": "ryoichi-maeda-2009-jubilo-iwata",
         "order": 10,
         "added_at": "2026-09-16T07:22:19.048187+00:00"
+      },
+      {
+        "player_id": "yoichiro-kakitani-2013-cerezo-osaka",
+        "order": 11,
+        "added_at": "2026-09-17T01:37:57.245078+00:00"
+      },
+      {
+        "player_id": "mike-havenaar-2015-16-ado-den-haag",
+        "order": 12,
+        "added_at": "2026-09-17T01:37:57.245078+00:00"
+      },
+      {
+        "player_id": "ariajasuru-hasegawa-2013-fc-tokyo",
+        "order": 13,
+        "added_at": "2026-09-17T01:37:57.245078+00:00"
       }
     ],
     "change_history": [
@@ -6643,6 +8697,23 @@
           "一覧見出し下の「あのシーズンの選手を、手元のエディットに。」を削除し、余白を縮小。",
           "全10選手の設定値と画像を変更せず保持。"
         ]
+      },
+      {
+        "version": "1.6.0",
+        "date": "2026-09-17T01:37:57.245078+00:00",
+        "player_ids": [
+          "yoichiro-kakitani-2013-cerezo-osaka",
+          "mike-havenaar-2015-16-ado-den-haag",
+          "ariajasuru-hasegawa-2013-fc-tokyo"
+        ],
+        "changes": [
+          "第2回：柿谷曜一朗2013・ハーフナー マイク2015–16・長谷川アーリアジャスール2013を追加。全13人。",
+          "既存10人の全項目・数値・画像・登録順を保持。",
+          "全25能力・逆足等4項目・適性・スキル・外見を個別作成。能力は独自査定、実機未確認の外見は仮設定。",
+          "各選手の正面・横顔AI参考画像を追加。実機の再現結果ではない。",
+          "長谷川の長い名前は「長谷川／アーリア／ジャスール」の意味の区切りで折り返せるよう対応。",
+          "既存の写真表示、年表示なし、確認事項非表示、余白の修正を維持。"
+        ]
       }
     ],
     "handoff_documents": [
@@ -6662,7 +8733,10 @@
         "yohei-kajiyama-2009-fc-tokyo": "新規作成。プロフィール・成績と外観資料を確認。ゲーム数値・顔の再現は未検証。",
         "shingo-akamine-2012-vegalta-sendai": "v1.4.0新規登録。sources.checked_forとimages.reference_generationの範囲を確認。ゲーム設定の実機確認はなし。",
         "mu-kanazaki-2016-kashima-antlers": "v1.4.0新規登録。sources.checked_forとimages.reference_generationの範囲を確認。ゲーム設定の実機確認はなし。",
-        "yuhei-tokunaga-2012-fc-tokyo": "v1.4.0新規登録。sources.checked_forとimages.reference_generationの範囲を確認。ゲーム設定の実機確認はなし。"
+        "yuhei-tokunaga-2012-fc-tokyo": "v1.4.0新規登録。sources.checked_forとimages.reference_generationの範囲を確認。ゲーム設定の実機確認はなし。",
+        "yoichiro-kakitani-2013-cerezo-osaka": "v1.6.0新規登録。取得した一次資料の範囲をsourcesへ記録。当年未確認の体格は仮入力。能力と外見は実機未確認。",
+        "mike-havenaar-2015-16-ado-den-haag": "v1.6.0新規登録。取得した一次資料の範囲をsourcesへ記録。当年未確認の体格は仮入力。能力と外見は実機未確認。",
+        "ariajasuru-hasegawa-2013-fc-tokyo": "v1.6.0新規登録。取得した一次資料の範囲をsourcesへ記録。当年未確認の体格は仮入力。能力と外見は実機未確認。"
       },
       "uniform_images": "v1.3.2：両選手の2009年FC東京公式写真でユニフォームの外観を確認。既存のプロフィール・能力・顔設定の再検証とは区別。",
       "new_players_1_4_0": "追加3名のプロフィール・成績・外観資料を確認。ゲーム能力・適性・スタイル・スキルは独自設定、顔・体形の入力範囲と再現結果は実機未確認。"
