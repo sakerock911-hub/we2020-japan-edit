@@ -20328,12 +20328,3484 @@
         "伊藤",
         "翔"
       ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "DMF",
+            "main": true,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "CMF",
+            "main": false,
+            "suitability": "適性あり"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "DMFを基点に左足で縦と対角へ配球する設定。CMFでも使えます。前へ出続ける運動量より、後方での受け直しと展開力を優先します。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 64
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 78
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 69
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 73
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 84
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 86
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 62
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 70
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 77
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 80
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 68
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 65
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 82
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 70
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 76
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 68
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 82
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 79
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 80
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 78
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 2
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 2
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 7
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "グラウンダーパス84・フライパス86で左足の配球を中心に、ディフェンス79・ボール奪取80で守備も担える設定。キック力82とミドルシュートを付けますが、決定力は62に抑え、年間得点数から得点能力を過大に広げない独自査定です。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 185,
+        "weight_kg": 74,
+        "note": "185cmの長身で細身のシルエット。腰を少し絞り、首と脚を少し長くする開始案。身体値は後年資料の仮適用、調整値は実機未確認。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 1
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": -1
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 0
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 0
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": -1
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": -1
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 0
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 0
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 1
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 1
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "縦長の卵形、細い目とまっすぐな眉、すっきりした頬からあごの線。2024年末のサイドパートの暗い髪を基準にします。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "自然な肌色で軽い日焼け感"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "細めで目尻をやや絞る"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "ふくらみを抑えた薄いライン"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "黒に近いこげ茶"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "比較的まっすぐで中程度の太さ"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "細めの鼻筋と丸みを残す鼻先"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "標準的な厚さを残す"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "上唇より少し厚くする"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬の横幅を抑える"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "細くなるが極端には尖らせない"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 2
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": -1
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 0
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 0
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 1
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": 0
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 0
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 0
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": -1
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": -1
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "2024年12月の写真を目安に、暗い茶色のミディアムをサイドで分け、自然に横へ流します。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ミディアム"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 1
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "横へ流す"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "サイドパート"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "額を一部出す"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "耳周りを整え、極端には刈り上げない"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "黒に近い暗い茶色"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "なし"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "なし"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "当年モデル・色は未確認。ゲーム内で黒系を仮選択"
+          }
+        ]
+      },
+      "id": "takahiro-ogihara-2024-vissel-kobe",
+      "name": "扇原 貴宏",
+      "name_kana": "おうぎはら たかひろ",
+      "name_english": "TAKAHIRO OHGIHARA",
+      "shirt_name": "OHGIHARA",
+      "nationality": "日本",
+      "era": {
+        "year": 2024,
+        "season": "2024",
+        "label": "2024年・ヴィッセル神戸",
+        "club": "ヴィッセル神戸",
+        "selection_reason": "J1で35試合1得点を記録し、神戸のリーグ連覇と天皇杯優勝を支えた2024年版。左足からの長短の配球と中盤の守備を軸に、最終節に見せたミドルシュートも控えめに加えます。",
+        "reason_source_ids": [
+          "ogihara_vissel_profile",
+          "ogihara_goal_2024"
+        ],
+        "source_check_status": "承認済み候補の順で追加。当年資料と前後年資料、未確認項目を区別。"
+      },
+      "profile": {
+        "age": 33,
+        "height_cm": 185,
+        "weight_kg": 74,
+        "dominant_foot": "左",
+        "main_position": "DMF",
+        "shirt_number": 6,
+        "source_status": "生年月日と2024年35試合1得点・優秀選手賞は神戸公式の現行プロフィールで確認。185cm・74kgは現行登録値の仮適用で、2024年登録身体値は未照合。年齢33歳は2024年12月8日時点。左利き・背番号6・シャツネームは当年登録資料との照合待ち。",
+        "birth_date": "1991-10-05",
+        "age_reference_date": "2024-12-08",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "プレーメイカー",
+        "reason": "DMFを基点に左足で縦と対角へ配球する設定。CMFでも使えます。前へ出続ける運動量より、後方での受け直しと展開力を優先します。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "ワンタッチパス",
+            "purpose": "中盤での素早い展開"
+          },
+          {
+            "name": "スルーパス",
+            "purpose": "前線へ通す縦のパス"
+          },
+          {
+            "name": "バックスピンロブ",
+            "purpose": "浮き球の落としどころ"
+          },
+          {
+            "name": "低弾道ロブ",
+            "purpose": "対角への速い展開"
+          },
+          {
+            "name": "インターセプト",
+            "purpose": "中盤でのパスコースの遮断"
+          },
+          {
+            "name": "ミドルシュート",
+            "purpose": "左足の遠目からの一発"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [
+          {
+            "name": "ロングパサー",
+            "enabled": true
+          },
+          {
+            "name": "ミドルシューター",
+            "enabled": true
+          }
+        ],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/ogihara-2024-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2024年の扇原 貴宏を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "tool": "image_gen",
+          "created_at": "2026-09-17",
+          "prompt": "Use case: stylized-concept. Asset: accurate football player face-edit reference for a PS4-era Winning Eleven 2020 catalog. Generate exactly ONE landscape image, 1536 by 1024 pixels, divided into TWO equal 768-pixel vertical panels side by side, with an unobtrusive straight seam at x=768. The SAME person appears twice. LEFT panel: perfectly straight-on frontal head AND torso, nose centered, both ears symmetric. RIGHT panel: STRICT true 90-degree right-facing side profile, nose pointing directly to the right edge; head AND torso rotated a full 90 degrees; visible near eye only, absolutely no far eye, no opposite cheek, no three-quarter angle. Match head scale, eye height and chin height across panels. Fit entire head, all hair, ears, chin, neck, both shoulders for front and near shoulder for profile, plus upper chest comfortably within each panel with generous margins. Neutral calm expression, closed mouth, level gaze, no grin. Plain consistent muted gray-blue background. Natural realistic PS4-era football-game 3D character render, recognizably polygon-game skin and hair shading with restrained detail, NOT a photograph, NOT anime, NOT a glossy toy, NOT a fashion model. Respect actual individual facial proportions, irregularities and age; do not beautify or replace with a generic handsome face. Soft even studio lighting. No text labels, player names, captions, watermarks, UI, frames, extra people or accessories. Era-accurate club home jersey with authentic colors, collar, panels and chest insignia as visible in the kit reference; no imaginary sponsors. The source photos are visual references only: render a NEW neutral two-view model, do not reproduce their poses, background, action, watermark or caption.\n\nSubject: Japanese footballer Takahiro Ogihara (扇原貴宏), age 33 at 2024-12-08, in his 2024 Vissel Kobe season. Image 1 is December 27 2024 face/hair reference in suit, Image 2 June 1 2024 face proportions reference in white AWAY shirt (ignore that shirt), Image 3 July 27 2024 identity/action reference in black home shirt, Image 4 official 2024 HOME jersey reference. Use his late-2024 dark brown side-parted medium-short hair, slightly tousled swept strands, short natural sides and visible forehead; NO headband in this neutral late-season reference. Clean-shaven face. Preserve his long oval/slightly angular face, strong cheek plane, relatively narrow dark almond eyes, straight fairly broad nose, fairly full lips and natural chin. Wear EXACTLY the 2024 Vissel Kobe 1st HOME Asics shirt: black shoulders/upper chest with claret narrow collar trim and claret dot-gradient lower/left area, Danton diamond on right chest above Asics, Seiban above club crest on left, two gold stars, central Kobe landmark geometric motif and white Rakuten Mobile, as official Image4. The black/claret shirt IS the researched 2024 HOME kit.",
+          "generation_count": 1,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "period": "2024",
+          "uniform": {
+            "club": "ヴィッセル神戸",
+            "season": "2024",
+            "type": "ホーム",
+            "description": "2024年神戸ホーム。黒を基調にえんじのドットグラデーション、アシックス。公式ユニフォーム資料に基づく。"
+          },
+          "sources": [
+            {
+              "source_page_url": "https://www.footballchannel.jp/2024/12/27/post657975/",
+              "image_url": "https://www.footballchannel.jp/wordpress/assets/2024/12/20241227_d079-1.jpg",
+              "publisher": "Football Channel",
+              "publication_date": "2024-12-27",
+              "date_basis": "Dated awards article and photograph at JPFA awards 2024.",
+              "observations": "Ogihara has dark brown medium-short hair with side part and swept strands, clean-shaven face, long oval face and relatively full lips; suit reference used only for identity/hair.",
+              "uncertainty": "Nineteen days after target date; not an exact December8 photograph; portrait is modest resolution."
+            },
+            {
+              "source_page_url": "https://www.gettyimages.com/detail/news-photo/takahiro-ohgihara-of-vissel-kobe-looks-on-during-the-j-news-photo/2155596505",
+              "image_url": "https://media.gettyimages.com/id/2155596505/photo/saitama-japan-takahiro-ohgihara-of-vissel-kobe-looks-on-during-the-j-league-meiji-yasuda-j1.jpg?s=612x612&w=gi&k=20&c=R9W9e_99_6SMEeIEedAnozlI0BBV1b1ZPJgBwwRuuRo=",
+              "publisher": "Getty Images",
+              "publication_date": "2024-06-01",
+              "date_basis": "Getty editorial caption explicitly dates the photographed match; the date is image creation/event date, not necessarily original web publication.",
+              "observations": "Close facial reference: swept side-parted brown-black hair, clean-shaven, visible cheek structure, nose and lip profile. WHITE AWAY kit deliberately excluded from generation.",
+              "uncertainty": "Different month within requested season; exact target-day hair is unverified."
+            },
+            {
+              "source_page_url": "https://www.gettyimages.com/detail/news-photo/takahiro-ogihara-of-vissel-kobe-looks-on-during-the-match-news-photo/2163928704",
+              "image_url": "https://media.gettyimages.com/id/2163928704/photo/tokyo-japan-takahiro-ogihara-of-vissel-kobe-looks-on-during-the-match-between-vissel-kobe-and.jpg?s=612x612&w=gi&k=20&c=Ozk1FXixGyH8TdFyAgqHGYGG6QWpvTqpAzWCS_7EZXc=",
+              "publisher": "Getty Images",
+              "publication_date": "2024-07-27",
+              "date_basis": "Getty editorial caption explicitly dates the photographed match; the date is image creation/event date, not necessarily original web publication.",
+              "observations": "Ogihara in black/claret2024 home shirt with central geometric design, white Asics/Rakuten Mobile, Danton and Seiban chest logos. Hair dark, swept with forehead visible.",
+              "uncertainty": "Friendly match photograph; no front jersey number6 visible in crop, so number is not photo-confirmed here."
+            },
+            {
+              "source_page_url": "https://www.vissel-kobe.co.jp/special/uniform/2024/",
+              "image_url": "https://www.vissel-kobe.co.jp/special/uniform/2024/images/07_TOPS_FP_1st_LS.jpg",
+              "publisher": "Vissel Kobe official",
+              "publication_date": null,
+              "date_basis": "Official page explicitly labels2024 field-player1st/home uniform, with2024 sales schedule.",
+              "observations": "Home kit is black upper/shoulder with claret dot gradient and narrow claret neckline; white Asics, Rakuten Mobile, Seiban, Danton diamond; crest with two gold stars, central Kobe landmark geometric motif.",
+              "uncertainty": "Product image is long-sleeved; generation uses same chest design with short sleeves. Original publication day unstated."
+            }
+          ],
+          "limitations": [
+            "Single-pass AI reconstruction from researched period photographs, not a measured head scan or an authenticated game model.",
+            "Strict90-degree profile and full90-degree torso rotation were requested; heads show one near eye and a right-facing profile, but torso chest planes remain slightly visible, so exact90-degree rotation is not guaranteed.",
+            "Naturalistic output is more photographic than strongly recognizable PS4 game shading; no style correction or retry was performed.",
+            "Hair/head/chin/neck are fully framed. Front shoulder or sleeve edges meet the panel borders; complete shoulder-width margins are imperfect.",
+            "Club crests, sponsor typography, collar seams and sleeve patches are generated approximations; not exact official uniform artwork.",
+            "Late2024 appearance is based partly on December27 awards portrait,19 days after target date. Exact December8 hair remains unverified.",
+            "Hair and skin are highly photoreal; rendered likeness is plausible but not an identity guarantee."
+          ],
+          "qa": {
+            "inspected": true,
+            "dimensions_verified_from_png_header": true,
+            "two_equal_panels": true,
+            "front_and_right_profile": true,
+            "near_eye_only_in_profile": true,
+            "neutral_closed_mouth": true,
+            "full_hair_head_chin_neck": true,
+            "period_hair_and_home_colors_present": true,
+            "no_caption_watermark_ui": true,
+            "exact_torso_90_degrees": "not guaranteed; slight chest plane visible",
+            "style": "naturalistic; more photographic than distinct PS4 shading",
+            "notes": [
+              "Late2024 appearance is based partly on December27 awards portrait,19 days after target date. Exact December8 hair remains unverified.",
+              "Hair and skin are highly photoreal; rendered likeness is plausible but not an identity guarantee."
+            ]
+          },
+          "is_in_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "ogihara_vissel_profile",
+          "publisher": "ヴィッセル神戸公式",
+          "url": "https://www.vissel-kobe.co.jp/profile/?id=261&mode=detail",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "生年月日1991年10月5日",
+            "現行プロフィール185cm・74kg・背番号6",
+            "2024年J1の35試合1得点",
+            "2024年J1・天皇杯優勝、Jリーグ優秀選手賞"
+          ],
+          "caveat": "現行プロフィール。後年の身体値・紹介文を2024年の確定情報として扱わない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "ogihara_goal_2024",
+          "publisher": "Jリーグ公式X",
+          "url": "https://x.com/J_League/status/1865664351274684476",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2024年12月8日・神戸対湘南・扇原の70分のゴール"
+          ],
+          "caveat": "投稿の説明を確認。ゲーム能力値やシュート頻度の証明には使用しない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "ogihara_image_1",
+          "publisher": "Football Channel",
+          "url": "https://www.footballchannel.jp/2024/12/27/post657975/",
+          "image_url": "https://www.footballchannel.jp/wordpress/assets/2024/12/20241227_d079-1.jpg",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Ogihara has dark brown medium-short hair with side part and swept strands, clean-shaven face, long oval face and relatively full lips; suit reference used only for identity/hair."
+          ],
+          "caveat": "Nineteen days after target date; not an exact December8 photograph; portrait is modest resolution.",
+          "game_values_verified": false
+        },
+        {
+          "id": "ogihara_image_2",
+          "publisher": "Getty Images",
+          "url": "https://www.gettyimages.com/detail/news-photo/takahiro-ohgihara-of-vissel-kobe-looks-on-during-the-j-news-photo/2155596505",
+          "image_url": "https://media.gettyimages.com/id/2155596505/photo/saitama-japan-takahiro-ohgihara-of-vissel-kobe-looks-on-during-the-j-league-meiji-yasuda-j1.jpg?s=612x612&w=gi&k=20&c=R9W9e_99_6SMEeIEedAnozlI0BBV1b1ZPJgBwwRuuRo=",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Close facial reference: swept side-parted brown-black hair, clean-shaven, visible cheek structure, nose and lip profile. WHITE AWAY kit deliberately excluded from generation."
+          ],
+          "caveat": "Different month within requested season; exact target-day hair is unverified.",
+          "game_values_verified": false
+        },
+        {
+          "id": "ogihara_image_3",
+          "publisher": "Getty Images",
+          "url": "https://www.gettyimages.com/detail/news-photo/takahiro-ogihara-of-vissel-kobe-looks-on-during-the-match-news-photo/2163928704",
+          "image_url": "https://media.gettyimages.com/id/2163928704/photo/tokyo-japan-takahiro-ogihara-of-vissel-kobe-looks-on-during-the-match-between-vissel-kobe-and.jpg?s=612x612&w=gi&k=20&c=Ozk1FXixGyH8TdFyAgqHGYGG6QWpvTqpAzWCS_7EZXc=",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Ogihara in black/claret2024 home shirt with central geometric design, white Asics/Rakuten Mobile, Danton and Seiban chest logos. Hair dark, swept with forehead visible."
+          ],
+          "caveat": "Friendly match photograph; no front jersey number6 visible in crop, so number is not photo-confirmed here.",
+          "game_values_verified": false
+        },
+        {
+          "id": "ogihara_image_4",
+          "publisher": "Vissel Kobe official",
+          "url": "https://www.vissel-kobe.co.jp/special/uniform/2024/",
+          "image_url": "https://www.vissel-kobe.co.jp/special/uniform/2024/images/07_TOPS_FP_1st_LS.jpg",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Home kit is black upper/shoulder with claret dot gradient and narrow claret neckline; white Asics, Rakuten Mobile, Seiban, Danton diamond; crest with two gold stars, central Kobe landmark geometric motif."
+          ],
+          "caveat": "Product image is long-sleeved; generation uses same chest design with short sleeves. Original publication day unstated.",
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "生年月日と2024年35試合1得点・優秀選手賞は神戸公式の現行プロフィールで確認。185cm・74kgは現行登録値の仮適用で、2024年登録身体値は未照合。年齢33歳は2024年12月8日時点。左利き・背番号6・シャツネームは当年登録資料との照合待ち。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存30人と同じ形式で、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査。PS4の項目・選択肢・範囲は実機未照合。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "2024年の登録身体値・利き足・背番号・シャツネームの当年登録資料照合",
+          "スパイクのモデル・色、各試合の着こなし"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "扇原",
+        "貴宏"
+      ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "DMF",
+            "main": true,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "CMF",
+            "main": false,
+            "suitability": "適性あり"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "中盤の中央で横方向にも前後にも動き、ボール保持者への寄せと回収を担う設定。守備を主眼に、奪った後は短いパスでつなぎます。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 69
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 76
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 72
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 74
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 77
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 72
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 65
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 61
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 52
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 59
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 79
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 80
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 76
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 75
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 75
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 81
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 91
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 81
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 86
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 88
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 2
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 3
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 7
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "スタミナ91・ボール奪取86・アグレッシブネス88を軸に、素早く寄せて繰り返し守備に関わる特徴を表現。瞬発力80・ボディコントロール81で方向転換を補い、長い配球や決定力は上げすぎない独自査定です。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 173,
+        "weight_kg": 72,
+        "note": "小柄でも厚みのある中盤選手の体形。胸・太もも・ふくらはぎを少し太くし、首と脚の長さは標準。身体値は2018年資料の仮適用。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 0
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": 1
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 1
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 1
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": 0
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": 0
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 1
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 1
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 0
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 0
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "横幅のある引き締まった輪郭、直線的な眉、目尻を絞った目、丸みのある鼻先。2017年7月の短い暗色の髪を採用します。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "日焼け感のある自然な中間色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "細めで鋭い目尻"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "下まぶたの厚みは控えめ"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "濃い茶色"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "太めの直線に近い眉"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "中程度の幅、鼻先に丸み"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "標準よりやや薄め"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "自然な厚さ"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬骨を少し出し、頬を膨らませない"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "あご先に幅を残した角形寄り"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 0
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": 1
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 0
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 1
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 1
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": 0
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 1
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 1
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": 1
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": 1
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "2017年7月22日の写真に合わせ、暗い短髪のトップを上へ立ち上げ、横を短く整える案。金髪の別時期とは混在させません。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ショート"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 0
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "短く上へ立ち上げる"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "目立つ分け目なし"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "額を出す"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "横は短く、後ろを整える"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "黒に近い暗い茶色"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "あご先にごく薄いヒゲ"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "ごく薄い"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "2017年7月の写真を目安に、黄〜橙系と黒の配色。具体的モデルは未確認"
+          }
+        ]
+      },
+      "id": "hotaru-yamaguchi-2017-cerezo-osaka",
+      "name": "山口 蛍",
+      "name_kana": "やまぐち ほたる",
+      "name_english": "HOTARU YAMAGUCHI",
+      "shirt_name": "YAMAGUCHI",
+      "nationality": "日本",
+      "era": {
+        "year": 2017,
+        "season": "2017",
+        "label": "2017年・セレッソ大阪",
+        "club": "セレッソ大阪",
+        "selection_reason": "J1ベストイレブンに選ばれ、セレッソのルヴァンカップ・天皇杯の二冠に貢献した2017年版。中盤を広く動いて相手に寄せ、奪ったボールを味方へつなぐ守備的なボックス・トゥ・ボックスを再現します。",
+        "reason_source_ids": [
+          "yamaguchi_vissel_2018",
+          "yamaguchi_season_records"
+        ],
+        "source_check_status": "承認済み候補の順で追加。当年資料と前後年資料、未確認項目を区別。"
+      },
+      "profile": {
+        "age": 27,
+        "height_cm": 173,
+        "weight_kg": 72,
+        "dominant_foot": "右",
+        "main_position": "DMF",
+        "shirt_number": 10,
+        "source_status": "生年月日、173cm・72kg、2017年ベストイレブンは2018年12月の神戸公式移籍発表で確認。身体値は翌年資料の仮適用。2017年J1の32試合2得点とカップ二冠は二次資料で確認。年齢27歳は2017年12月2日時点。背番号10は2017年7月22日の写真で確認。右利き・シャツネームの当年一次資料は照合待ち。",
+        "birth_date": "1990-10-06",
+        "age_reference_date": "2017-12-02",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "ボックストゥボックス",
+        "reason": "中盤の中央で横方向にも前後にも動き、ボール保持者への寄せと回収を担う設定。守備を主眼に、奪った後は短いパスでつなぎます。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "インターセプト",
+            "purpose": "相手の縦パスを読む"
+          },
+          {
+            "name": "マンマーク",
+            "purpose": "中盤の相手に素早く寄せる"
+          },
+          {
+            "name": "ワンタッチパス",
+            "purpose": "奪った後の短い連係"
+          },
+          {
+            "name": "闘争心",
+            "purpose": "終盤まで続ける守備への関与"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/yamaguchi-2017-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2017年の山口 蛍を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "tool": "image_gen",
+          "created_at": "2026-09-17",
+          "prompt": "Use case: stylized-concept. Asset: accurate football player face-edit reference for a PS4-era Winning Eleven 2020 catalog. Generate exactly ONE landscape image, 1536 by 1024 pixels, divided into TWO equal 768-pixel vertical panels side by side, with an unobtrusive straight seam at x=768. The SAME person appears twice. LEFT panel: perfectly straight-on frontal head AND torso, nose centered, both ears symmetric. RIGHT panel: STRICT true 90-degree right-facing side profile, nose pointing directly to the right edge; head AND torso rotated a full 90 degrees; visible near eye only, absolutely no far eye, no opposite cheek, no three-quarter angle. Match head scale, eye height and chin height across panels. Fit entire head, all hair, ears, chin, neck, both shoulders for front and near shoulder for profile, plus upper chest comfortably within each panel with generous margins. Neutral calm expression, closed mouth, level gaze, no grin. Plain consistent muted gray-blue background. Natural realistic PS4-era football-game 3D character render, recognizably polygon-game skin and hair shading with restrained detail, NOT a photograph, NOT anime, NOT a glossy toy, NOT a fashion model. Respect actual individual facial proportions, irregularities and age; do not beautify or replace with a generic handsome face. Soft even studio lighting. No text labels, player names, captions, watermarks, UI, frames, extra people or accessories. Era-accurate club home jersey with authentic colors, collar, panels and chest insignia as visible in the kit reference; no imaginary sponsors. The source photos are visual references only: render a NEW neutral two-view model, do not reproduce their poses, background, action, watermark or caption.\n\nSubject: Japanese footballer Hotaru Yamaguchi (山口蛍), age 27 at 2017-12-02, Cerezo Osaka 2017 season. Reference is dated July22 2017, published November26 2017. Use the actual number10 man shown in pink as the sole identity and kit reference. Short BLACK hair, densely textured upright slightly swept top with clearly shorter/clipped sides, NOT blond. Preserve his compact robust head, broad cheekbones and jaw, heavy straight dark brows, narrow eyes, medium broad nose, distinctive downturned mouth corners, small chin. Clean cheeks, only very faint natural chin shadow if visible, no prominent beard. Wear EXACTLY Cerezo Osaka 2017 Puma home shirt: strong cerise-pink torso and sleeves, dark navy narrow V-neck and navy upper-shoulder detailing, white Puma logo at right chest and sleeve, club crest on left chest, white YANMAR emblem and lettering on chest, small white10 below. Do not substitute 2018 number6 kit.",
+          "generation_count": 1,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "period": "2017",
+          "uniform": {
+            "club": "セレッソ大阪",
+            "season": "2017",
+            "type": "ホーム",
+            "description": "2017年セレッソ大阪ホーム。ピンク地、紺のVネックと肩、プーマ、ヤンマー。背番号10。"
+          },
+          "sources": [
+            {
+              "source_page_url": "https://www.nikkansports.com/soccer/news/201711260000332.html",
+              "image_url": "https://www.nikkansports.com/soccer/news/img/201711260000332-w300_0.jpg",
+              "publisher": "Nikkan Sports",
+              "publication_date": "2017-11-26",
+              "date_basis": "Caption explicitly identifies Yamaguchi and photograph date2017-07-22.",
+              "observations": "Actual Yamaguchi caption; number10 is visibly printed on pink2017 Cerezo home shirt and shorts. Black short textured upright top, short sides, strong brows/cheekbones; clean cheeks with faint dark mouth/chin shadow. Pink Puma shirt with navy collar/shoulder accents, white YANMAR.",
+              "uncertainty": "Only300x346 action photo; fine facial-hair detail, exact ear/profile geometry and precise2017-12-02 hairstyle cannot be proved from this source."
+            }
+          ],
+          "limitations": [
+            "Single-pass AI reconstruction from researched period photographs, not a measured head scan or an authenticated game model.",
+            "Strict90-degree profile and full90-degree torso rotation were requested; heads show one near eye and a right-facing profile, but torso chest planes remain slightly visible, so exact90-degree rotation is not guaranteed.",
+            "Naturalistic output is more photographic than strongly recognizable PS4 game shading; no style correction or retry was performed.",
+            "Hair/head/chin/neck are fully framed. Front shoulder or sleeve edges meet the panel borders; complete shoulder-width margins are imperfect.",
+            "Club crests, sponsor typography, collar seams and sleeve patches are generated approximations; not exact official uniform artwork.",
+            "Generated faint mustache/chin hair is more distinct than the low-resolution source can establish.",
+            "Source confirms2017 number10; crop never uses later number6."
+          ],
+          "qa": {
+            "inspected": true,
+            "dimensions_verified_from_png_header": true,
+            "two_equal_panels": true,
+            "front_and_right_profile": true,
+            "near_eye_only_in_profile": true,
+            "neutral_closed_mouth": true,
+            "full_hair_head_chin_neck": true,
+            "period_hair_and_home_colors_present": true,
+            "no_caption_watermark_ui": true,
+            "exact_torso_90_degrees": "not guaranteed; slight chest plane visible",
+            "style": "naturalistic; more photographic than distinct PS4 shading",
+            "notes": [
+              "Generated faint mustache/chin hair is more distinct than the low-resolution source can establish.",
+              "Source confirms2017 number10; crop never uses later number6."
+            ]
+          },
+          "is_in_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "yamaguchi_vissel_2018",
+          "publisher": "ヴィッセル神戸公式",
+          "url": "https://www.vissel-kobe.co.jp/news/article/15614.html",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2018年12月19日の移籍発表",
+            "生年月日1990年10月6日、173cm・72kg",
+            "2017年Jリーグベストイレブン"
+          ],
+          "caveat": "身体値は2018年。2017年登録値としては未確認。",
+          "game_values_verified": false
+        },
+        {
+          "id": "yamaguchi_season_records",
+          "publisher": "Wikipedia（英語版）",
+          "url": "https://en.wikipedia.org/wiki/Hotaru_Yamaguchi",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2017年J1の32試合2得点",
+            "2017年ルヴァンカップ・天皇杯優勝"
+          ],
+          "caveat": "年度別表とタイトルの二次資料。大会成績の一次資料照合は未完了。天皇杯決勝は2018年1月で、2017シーズンに含める。",
+          "game_values_verified": false
+        },
+        {
+          "id": "yamaguchi_image_1",
+          "publisher": "Nikkan Sports",
+          "url": "https://www.nikkansports.com/soccer/news/201711260000332.html",
+          "image_url": "https://www.nikkansports.com/soccer/news/img/201711260000332-w300_0.jpg",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Actual Yamaguchi caption; number10 is visibly printed on pink2017 Cerezo home shirt and shorts. Black short textured upright top, short sides, strong brows/cheekbones; clean cheeks with faint dark mouth/chin shadow. Pink Puma shirt with navy collar/shoulder accents, white YANMAR."
+          ],
+          "caveat": "Only300x346 action photo; fine facial-hair detail, exact ear/profile geometry and precise2017-12-02 hairstyle cannot be proved from this source.",
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "生年月日、173cm・72kg、2017年ベストイレブンは2018年12月の神戸公式移籍発表で確認。身体値は翌年資料の仮適用。2017年J1の32試合2得点とカップ二冠は二次資料で確認。年齢27歳は2017年12月2日時点。背番号10は2017年7月22日の写真で確認。右利き・シャツネームの当年一次資料は照合待ち。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存30人と同じ形式で、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査。PS4の項目・選択肢・範囲は実機未照合。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "2017年の登録身体値・利き足・シャツネームの当年一次資料",
+          "2017年大会別成績・二冠の一次資料照合",
+          "スパイクのモデル・色、各試合の着こなし"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "山口",
+        "蛍"
+      ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "CB",
+            "main": true,
+            "suitability": "適性あり"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "最終ラインで位置を整え、高さを使った対応と安全な配球を担う設定。積極的な持ち上がりや広い範囲への追いかけより、守備位置と空中戦を優先します。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 51
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 65
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 57
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 58
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 70
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 69
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 47
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 83
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 45
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 47
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 67
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 62
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 73
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 77
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 86
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 61
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 74
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 84
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 81
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 75
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 2
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 2
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 6
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "ディフェンス84・ヘディング83・フィジカル86で高さと中央の守備を表現。ジャンプ77とし、空中戦は跳躍力だけでなく189cmの体格も生かす設定。スピード67・瞬発力62で俊敏な追走役とは差を付ける独自査定です。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 189,
+        "weight_kg": 80,
+        "note": "長身で肩幅と胸に厚みを持たせます。脚と首を少し長くし、腰は太くしすぎない開始案。身長・体重は2008年公式値、調整値は実機未確認。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 1
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": 1
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 2
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 1
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": 0
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": 1
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 1
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 0
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 1
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 1
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "長めで細い輪郭、頬骨の線、細い目と落ち着いた眉。長い暗色の髪を中央で分けて後ろで小さく束ね、口元とあごに控えめなヒゲを合わせます。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "自然な中間色で軽い日焼け感"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "横長で細めの目"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "ふくらみを抑えた薄いライン"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "黒に近い茶色"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "直線寄りで濃さは中程度"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "長めの鼻筋と落ち着いた鼻先"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "薄め"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "上唇より少し厚くする"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬骨の線を残し下側を絞る"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "縦の長さを出し、尖りすぎない形"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 3
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": -1
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 0
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 0
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 1
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": -1
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 0
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 1
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": -1
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": 0
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "2008年12月6日の公式写真を基準に、中央付近で分けた長い暗色の髪を後ろへ流し、小さく低い位置で束ねる案。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "後ろで束ねる形に近いもの"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ロング"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 1
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "後ろへ流す"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "中央付近"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "額を出す"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "刈り上げず、後ろで小さく束ねる"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "黒に近い暗い茶色"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "結び目に近いもの。部品の有無は実機未確認"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "口ひげとあご先に控えめなヒゲ"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "薄い"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "ミズノ系を目安。2008年公式でメーカー確認、具体的モデルと色は未確認"
+          }
+        ]
+      },
+      "id": "shuhei-terada-2008-kawasaki-frontale",
+      "name": "寺田 周平",
+      "name_kana": "てらだ しゅうへい",
+      "name_english": "SHUHEI TERADA",
+      "shirt_name": "TERADA",
+      "nationality": "日本",
+      "era": {
+        "year": 2008,
+        "season": "2008",
+        "label": "2008年・川崎フロンターレ",
+        "club": "川崎フロンターレ",
+        "selection_reason": "川崎がJ1で2位となり、自身も日本代表で国際Aマッチ4試合に出場した2008年版。189cmの高さと落ち着いた守備位置を軸に、後方から短いパスをつなぐセンターバックとして再現します。",
+        "reason_source_ids": [
+          "terada_frontale_2008",
+          "terada_frontale_2009"
+        ],
+        "source_check_status": "承認済み候補の順で追加。当年資料と前後年資料、未確認項目を区別。"
+      },
+      "profile": {
+        "age": 33,
+        "height_cm": 189,
+        "weight_kg": 80,
+        "dominant_foot": "右",
+        "main_position": "CB",
+        "shirt_number": 13,
+        "source_status": "2008年川崎公式で生年月日、189cm・80kg、右利き、背番号13を確認。2009年公式の前年成績表で2008年J1の21試合1得点と国際Aマッチ4試合0得点を確認。年齢33歳は2008年12月6日時点。シャツネームは仮入力。",
+        "birth_date": "1975-06-23",
+        "age_reference_date": "2008-12-06",
+        "height_weight_verified_for_era": true
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "ビルドアップ",
+        "reason": "最終ラインで位置を整え、高さを使った対応と安全な配球を担う設定。積極的な持ち上がりや広い範囲への追いかけより、守備位置と空中戦を優先します。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "ヘッダー",
+            "purpose": "高い打点のヘディング"
+          },
+          {
+            "name": "マンマーク",
+            "purpose": "中央の相手への対応"
+          },
+          {
+            "name": "インターセプト",
+            "purpose": "守備位置からのパスカット"
+          },
+          {
+            "name": "アクロバティッククリア",
+            "purpose": "ゴール前のクリア"
+          },
+          {
+            "name": "闘争心",
+            "purpose": "守備の集中を維持する表現"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/terada-2008-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2008年の寺田 周平を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "tool": "image_gen",
+          "created_at": "2026-09-17",
+          "prompt": "Use case: stylized-concept. Asset: accurate football player face-edit reference for a PS4-era Winning Eleven 2020 catalog. Generate exactly ONE landscape image, 1536 by 1024 pixels, divided into TWO equal 768-pixel vertical panels side by side, with an unobtrusive straight seam at x=768. The SAME person appears twice. LEFT panel: perfectly straight-on frontal head AND torso, nose centered, both ears symmetric. RIGHT panel: STRICT true 90-degree right-facing side profile, nose pointing directly to the right edge; head AND torso rotated a full 90 degrees; visible near eye only, absolutely no far eye, no opposite cheek, no three-quarter angle. Match head scale, eye height and chin height across panels. Fit entire head, all hair, ears, chin, neck, both shoulders for front and near shoulder for profile, plus upper chest comfortably within each panel with generous margins. Neutral calm expression, closed mouth, level gaze, no grin. Plain consistent muted gray-blue background. Natural realistic PS4-era football-game 3D character render, recognizably polygon-game skin and hair shading with restrained detail, NOT a photograph, NOT anime, NOT a glossy toy, NOT a fashion model. Respect actual individual facial proportions, irregularities and age; do not beautify or replace with a generic handsome face. Soft even studio lighting. No text labels, player names, captions, watermarks, UI, frames, extra people or accessories. Era-accurate club home jersey with authentic colors, collar, panels and chest insignia as visible in the kit reference; no imaginary sponsors. The source photos are visual references only: render a NEW neutral two-view model, do not reproduce their poses, background, action, watermark or caption.\n\nSubject: Japanese footballer Shuhei Terada (寺田周平), age33 at2008-12-06, Kawasaki Frontale2008. Image1 is official2008 roster portrait for facial identity, Image2 official December6 2008 action/profile photograph for tied-back hair and facial profile (WHITE AWAY shirt must be ignored), Image3 official November29 2008 home-match photograph for EXACT HOME jersey. Reproduce his distinctive long narrow mature face, high forehead, prominent long straight nose, dark narrow almond eyes, fine slightly arched brows, long angular chin and slim cheeks, warm tan skin. 2008 hair is long dark-black straight hair parted near center, tightly swept back behind both ears and tied into a SMALL LOW BUN/short tied ponytail at the upper nape; the tie/bun should be clearly visible in the strict profile. Natural sideburns; subtle fine mustache and small sparse chin/goatee hair matching roster portrait; no full beard. Wear EXACTLY the sky-blue and BLACK Asics 2008 Kawasaki Frontale HOME kit in Image3: asymmetric sky-blue player's right chest and black player's left chest/shoulder, black center/lower chest, blue side areas, round dark collar with slim pale trim; white Asics logo on right chest, Kawasaki crest on left, white FUJITSU and13. No white away kit, no modern Puma kit.",
+          "generation_count": 1,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "period": "2008",
+          "uniform": {
+            "club": "川崎フロンターレ",
+            "season": "2008",
+            "type": "ホーム",
+            "description": "2008年川崎ホーム。水色と黒の左右非対称の配色、アシックス、富士通。背番号13。"
+          },
+          "sources": [
+            {
+              "source_page_url": "https://www.frontale.co.jp/goto_game/2008/j_league1/34.html",
+              "image_url": "https://www.frontale.co.jp/goto_game/2008/img_kf/08_mem_13.jpg",
+              "publisher": "Kawasaki Frontale official",
+              "publication_date": null,
+              "date_basis": "2008 roster bust embedded in official2008-12-06 match report; file explicitly08_mem_13 and printedDF13寺田周平.",
+              "observations": "Near-frontal period identity reference: long slim face, high forehead, center-parted dark hair pulled behind ears, subtle mustache/chin hair, slim cheeks. Number13 explicit.",
+              "uncertainty": "Small portrait inside256x127 graphic; source publication date unstated. Text only used for verification, not reproduced."
+            },
+            {
+              "source_page_url": "https://www.frontale.co.jp/goto_game/2008/j_league1/34.html",
+              "image_url": "https://www.frontale.co.jp/goto_game/2008/j_league1/img/34/gp05.jpg",
+              "publisher": "Kawasaki Frontale official / O.Suguro",
+              "publication_date": null,
+              "date_basis": "Official match report date2008-12-06, alt textDF13／寺田周平選手.",
+              "observations": "Exact target-day action photo: long dark hair tightly swept back into small low tied bun/short ponytail at nape. White AWAY shirt ignored for final kit; profile and hair reference only.",
+              "uncertainty": "Face is small and at an action angle, not calibrated strict profile. Publication day not separately given."
+            },
+            {
+              "source_page_url": "https://www.frontale.co.jp/goto_game/2008/j_league1/33.html",
+              "image_url": "https://www.frontale.co.jp/goto_game/2008/j_league1/img/33/gp07.jpg",
+              "publisher": "Kawasaki Frontale official / O.Suguro",
+              "publication_date": null,
+              "date_basis": "Official home-match report date2008-11-29, alt textDF13／寺田周平選手.",
+              "observations": "Home kit verified: Asics sky-blue player-right chest with black player-left chest and sleeves, black center/lower areas, blue side details; whiteFUJITSU and13, clubcrest. Tied-back dark hair.",
+              "uncertainty": "Action image600x400 with small subject; fine collar seams and exact panel geometry approximate."
+            }
+          ],
+          "limitations": [
+            "Single-pass AI reconstruction from researched period photographs, not a measured head scan or an authenticated game model.",
+            "Strict90-degree profile and full90-degree torso rotation were requested; heads show one near eye and a right-facing profile, but torso chest planes remain slightly visible, so exact90-degree rotation is not guaranteed.",
+            "Naturalistic output is more photographic than strongly recognizable PS4 game shading; no style correction or retry was performed.",
+            "Hair/head/chin/neck are fully framed. Front shoulder or sleeve edges meet the panel borders; complete shoulder-width margins are imperfect.",
+            "Club crests, sponsor typography, collar seams and sleeve patches are generated approximations; not exact official uniform artwork.",
+            "Generated hair tie/bun is somewhat fuller than the small official action photograph shows.",
+            "Generated jersey simplifies asymmetric2008 panel geometry; blue/black halves may look more regular than actual kit."
+          ],
+          "qa": {
+            "inspected": true,
+            "dimensions_verified_from_png_header": true,
+            "two_equal_panels": true,
+            "front_and_right_profile": true,
+            "near_eye_only_in_profile": true,
+            "neutral_closed_mouth": true,
+            "full_hair_head_chin_neck": true,
+            "period_hair_and_home_colors_present": true,
+            "no_caption_watermark_ui": true,
+            "exact_torso_90_degrees": "not guaranteed; slight chest plane visible",
+            "style": "naturalistic; more photographic than distinct PS4 shading",
+            "notes": [
+              "Generated hair tie/bun is somewhat fuller than the small official action photograph shows.",
+              "Generated jersey simplifies asymmetric2008 panel geometry; blue/black halves may look more regular than actual kit."
+            ]
+          },
+          "is_in_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "terada_frontale_2008",
+          "publisher": "川崎フロンターレ公式",
+          "url": "https://www.frontale.co.jp/profile/2008/mem_13.html",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2008年プロフィール：1975年6月23日生、189cm・80kg、右利き、背番号13",
+            "使用スパイクのメーカーはミズノ"
+          ],
+          "caveat": "能力値・顔部品番号・スパイクの具体的モデルの出典ではない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "terada_frontale_2009",
+          "publisher": "川崎フロンターレ公式",
+          "url": "https://www.frontale.co.jp/profile/2009/mem_13.html",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "前年成績：2008年J1の21試合1得点、チーム2位",
+            "2008年国際Aマッチ4試合0得点"
+          ],
+          "caveat": "2009年ページ内の2008年成績を使用。2009年身体値や写真を2008年版に流用しない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "terada_image_1",
+          "publisher": "Kawasaki Frontale official",
+          "url": "https://www.frontale.co.jp/goto_game/2008/j_league1/34.html",
+          "image_url": "https://www.frontale.co.jp/goto_game/2008/img_kf/08_mem_13.jpg",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Near-frontal period identity reference: long slim face, high forehead, center-parted dark hair pulled behind ears, subtle mustache/chin hair, slim cheeks. Number13 explicit."
+          ],
+          "caveat": "Small portrait inside256x127 graphic; source publication date unstated. Text only used for verification, not reproduced.",
+          "game_values_verified": false
+        },
+        {
+          "id": "terada_image_2",
+          "publisher": "Kawasaki Frontale official / O.Suguro",
+          "url": "https://www.frontale.co.jp/goto_game/2008/j_league1/34.html",
+          "image_url": "https://www.frontale.co.jp/goto_game/2008/j_league1/img/34/gp05.jpg",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Exact target-day action photo: long dark hair tightly swept back into small low tied bun/short ponytail at nape. White AWAY shirt ignored for final kit; profile and hair reference only."
+          ],
+          "caveat": "Face is small and at an action angle, not calibrated strict profile. Publication day not separately given.",
+          "game_values_verified": false
+        },
+        {
+          "id": "terada_image_3",
+          "publisher": "Kawasaki Frontale official / O.Suguro",
+          "url": "https://www.frontale.co.jp/goto_game/2008/j_league1/33.html",
+          "image_url": "https://www.frontale.co.jp/goto_game/2008/j_league1/img/33/gp07.jpg",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Home kit verified: Asics sky-blue player-right chest with black player-left chest and sleeves, black center/lower areas, blue side details; whiteFUJITSU and13, clubcrest. Tied-back dark hair."
+          ],
+          "caveat": "Action image600x400 with small subject; fine collar seams and exact panel geometry approximate.",
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "2008年川崎公式で生年月日、189cm・80kg、右利き、背番号13を確認。2009年公式の前年成績表で2008年J1の21試合1得点と国際Aマッチ4試合0得点を確認。年齢33歳は2008年12月6日時点。シャツネームは仮入力。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存30人と同じ形式で、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査。PS4の項目・選択肢・範囲は実機未照合。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "当年のシャツネーム実物",
+          "スパイクの具体的モデル・色、各試合の着こなし",
+          "結び髪に対応するPS4部品の有無"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "寺田",
+        "周平"
+      ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "CB",
+            "main": true,
+            "suitability": "適性あり"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "センターバックから相手に素早く寄せ、接触と跳躍で競り合う設定。パス回しを主役にせず、前へ出る守備と背後への戻りを両立させます。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 55
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 67
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 60
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 62
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 70
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 64
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 49
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 80
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 44
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 46
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 76
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 74
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 73
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 86
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 81
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 69
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 83
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 80
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 83
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 86
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 2
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 2
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 7
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "ジャンプ86・ボール奪取83・アグレッシブネス86を中心に、踏み込む守備と空中戦を表現。スピード76・瞬発力74でカバーも可能にし、長い配球やドリブルは控えめにする独自査定です。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 182,
+        "weight_kg": 74,
+        "note": "肩と胸、脚に厚みを持たせた引き締まった体形。極端に大型化させず、跳躍と動きやすさを感じる開始案。身体値は2018年資料の仮適用。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 0
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": 1
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 1
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 1
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": 0
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": 1
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 1
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 1
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 0
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 0
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "やや縦長で頬骨とあごの線がはっきりした輪郭、濃い眉、細めの目。2015年の後ろへ流した黒髪、細い黒のヘアバンド、口ひげと短いあごひげを目安にします。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "軽く日焼けした自然な肌色"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "横長で少し鋭い目尻"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "自然な薄い下まぶた"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "濃い茶色"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "太めで濃く、緩い角度の眉"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "はっきりした鼻筋、鼻先に中程度の幅"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "薄め"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "自然な厚み"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬骨を少し出し、頬の下を絞る"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "あご先と下あごに角を少し残す"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 1
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": 0
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 1
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 1
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 2
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": -1
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 0
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 1
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": 1
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": 1
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "2015年5月26日の写真に合わせ、長さのある黒髪を後ろへ流し、細い黒のヘアバンドで押さえる案。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ミディアム"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 1
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "後ろへ流す"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "目立つ分け目なし"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "額を出す"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "横も後ろへ流し、極端には刈り上げない"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "黒"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "細い黒のヘアバンド"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "口ひげと短いあごひげ、あごの線に薄いヒゲ"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "薄めから中程度"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "2015年5月の写真を目安に、黄色地と黒の配色。具体的モデルは未確認"
+          }
+        ]
+      },
+      "id": "daisuke-suzuki-2015-kashiwa-reysol",
+      "name": "鈴木 大輔",
+      "name_kana": "すずき だいすけ",
+      "name_english": "DAISUKE SUZUKI",
+      "shirt_name": "SUZUKI",
+      "nationality": "日本",
+      "era": {
+        "year": 2015,
+        "season": "2015",
+        "label": "2015年・柏レイソル",
+        "club": "柏レイソル",
+        "selection_reason": "柏でJ1全34試合に出場して3得点、ACLにも9試合出場した2015年版。相手へ強く寄せる守備と跳躍力を中心に、前に出てつぶすセンターバックを再現します。",
+        "reason_source_ids": [
+          "suzuki_reysol_2018"
+        ],
+        "source_check_status": "承認済み候補の順で追加。当年資料と前後年資料、未確認項目を区別。"
+      },
+      "profile": {
+        "age": 25,
+        "height_cm": 182,
+        "weight_kg": 74,
+        "dominant_foot": "右",
+        "main_position": "CB",
+        "shirt_number": 4,
+        "source_status": "柏公式の2018年復帰発表で生年月日と182cm・74kg、年度別表で2015年の背番号4・J1の34試合3得点・ACL9試合を確認。身体値は2018年資料の仮適用で、2015年登録値は未照合。年齢25歳は2015年11月22日時点。右利き・シャツネームは当年一次資料照合待ち。",
+        "birth_date": "1990-01-29",
+        "age_reference_date": "2015-11-22",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "ハードプレス",
+        "reason": "センターバックから相手に素早く寄せ、接触と跳躍で競り合う設定。パス回しを主役にせず、前へ出る守備と背後への戻りを両立させます。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "ヘッダー",
+            "purpose": "ジャンプを生かした競り合い"
+          },
+          {
+            "name": "マンマーク",
+            "purpose": "前線の相手への寄せ"
+          },
+          {
+            "name": "インターセプト",
+            "purpose": "前へ出るパスカット"
+          },
+          {
+            "name": "アクロバティッククリア",
+            "purpose": "ゴール前でのクリア"
+          },
+          {
+            "name": "闘争心",
+            "purpose": "競り合いへの積極性"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/suzuki-2015-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2015年の鈴木 大輔を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "tool": "image_gen",
+          "created_at": "2026-09-17",
+          "prompt": "Use case: stylized-concept. Asset: accurate football player face-edit reference for a PS4-era Winning Eleven 2020 catalog. Generate exactly ONE landscape image, 1536 by 1024 pixels, divided into TWO equal 768-pixel vertical panels side by side, with an unobtrusive straight seam at x=768. The SAME person appears twice. LEFT panel: perfectly straight-on frontal head AND torso, nose centered, both ears symmetric. RIGHT panel: STRICT true 90-degree right-facing side profile, nose pointing directly to the right edge; head AND torso rotated a full 90 degrees; visible near eye only, absolutely no far eye, no opposite cheek, no three-quarter angle. Match head scale, eye height and chin height across panels. Fit entire head, all hair, ears, chin, neck, both shoulders for front and near shoulder for profile, plus upper chest comfortably within each panel with generous margins. Neutral calm expression, closed mouth, level gaze, no grin. Plain consistent muted gray-blue background. Natural realistic PS4-era football-game 3D character render, recognizably polygon-game skin and hair shading with restrained detail, NOT a photograph, NOT anime, NOT a glossy toy, NOT a fashion model. Respect actual individual facial proportions, irregularities and age; do not beautify or replace with a generic handsome face. Soft even studio lighting. No text labels, player names, captions, watermarks, UI, frames, extra people or accessories. Era-accurate club home jersey with authentic colors, collar, panels and chest insignia as visible in the kit reference; no imaginary sponsors. The source photos are visual references only: render a NEW neutral two-view model, do not reproduce their poses, background, action, watermark or caption.\n\nSubject: Japanese footballer Daisuke Suzuki (鈴木大輔), age25 at2015-11-22, Kashiwa Reysol2015. Sole reference is Masashi Hara/Getty dated May26 2015 at Kashiwa. Reproduce THIS player's face and hairstyle: medium dark-black hair swept straight backward and held with a thin BLACK headband above forehead, longer nape and sides than modern cropped hair. Robust broad angular jaw and cheekbones, medium-broad long nose, strong dark brows, relatively full lips, dark eyes. Include the visible fine mustache, small goatee/chin beard and short jaw stubble of his2015 appearance, not a full dense beard. Wear EXACTLY 2015 Kashiwa Reysol yellow HOME Yonex shirt shown: vivid bright yellow, round yellow neckline with fine dark inner piping, red-orange fine-gradient shoulder accents and red-orange sleeve cuff edge, black Yonex at right chest, Reysol crest at left, black HITACHI Inspire the Next sponsorship, number4. Preserve kit era. Neutral upright pose in both views; no running.",
+          "generation_count": 1,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "period": "2015",
+          "uniform": {
+            "club": "柏レイソル",
+            "season": "2015",
+            "type": "ホーム",
+            "description": "2015年柏ホーム。黄色地、肩と袖口の赤橙の差し色、ヨネックス、日立。背番号4。"
+          },
+          "sources": [
+            {
+              "source_page_url": "https://www.gettyimages.com/detail/news-photo/daisuke-suzuki-kashiwa-reysol-in-action-during-the-afc-news-photo/474779564",
+              "image_url": "https://media.gettyimages.com/id/474779564/photo/kashiwa-japan-daisuke-suzuki-kashiwa-reysol-in-action-during-the-afc-champions-league-round-of.jpg?s=612x612&w=gi&k=20&c=Js0Zpyu8hyBRxrOxC5n4xrGawRhzy_xV7LgFbGimjWs=",
+              "publisher": "Getty Images",
+              "publication_date": "2015-05-26",
+              "date_basis": "Getty editorial caption explicitly dates the photographed match; the date is image creation/event date, not necessarily original web publication.",
+              "observations": "Masashi Hara editorial caption identifies Daisuke Suzuki. Medium dark swept-back hair held by thin black headband, longer nape, fine mustache and short goatee/jaw stubble, broad cheek and jaw. Yellow2015 Yonex home kit with red-orange shoulder/cuff accents, blackHITACHI Inspire the Next and clearly visible4.",
+              "uncertainty": "ACL home match uses competition sleeve patches; generated shirt can approximate rather than reproduce official J1 sleeve markings. Exact November22 appearance unverified; source is May26."
+            }
+          ],
+          "limitations": [
+            "Single-pass AI reconstruction from researched period photographs, not a measured head scan or an authenticated game model.",
+            "Strict90-degree profile and full90-degree torso rotation were requested; heads show one near eye and a right-facing profile, but torso chest planes remain slightly visible, so exact90-degree rotation is not guaranteed.",
+            "Naturalistic output is more photographic than strongly recognizable PS4 game shading; no style correction or retry was performed.",
+            "Hair/head/chin/neck are fully framed. Front shoulder or sleeve edges meet the panel borders; complete shoulder-width margins are imperfect.",
+            "Club crests, sponsor typography, collar seams and sleeve patches are generated approximations; not exact official uniform artwork.",
+            "Generated mustache/goatee and hair volume may be denser/longer than in the one May2015 reference.",
+            "Generated near-sleeve patch is not a faithful official competition badge; source was ACL, catalog target is season reference."
+          ],
+          "qa": {
+            "inspected": true,
+            "dimensions_verified_from_png_header": true,
+            "two_equal_panels": true,
+            "front_and_right_profile": true,
+            "near_eye_only_in_profile": true,
+            "neutral_closed_mouth": true,
+            "full_hair_head_chin_neck": true,
+            "period_hair_and_home_colors_present": true,
+            "no_caption_watermark_ui": true,
+            "exact_torso_90_degrees": "not guaranteed; slight chest plane visible",
+            "style": "naturalistic; more photographic than distinct PS4 shading",
+            "notes": [
+              "Generated mustache/goatee and hair volume may be denser/longer than in the one May2015 reference.",
+              "Generated near-sleeve patch is not a faithful official competition badge; source was ACL, catalog target is season reference."
+            ]
+          },
+          "is_in_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "suzuki_reysol_2018",
+          "publisher": "柏レイソル公式",
+          "url": "https://www.reysol.co.jp/news/topteam/001307.html",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2018年9月9日の加入発表：1990年1月29日生、182cm・74kg",
+            "年度別表の2015年背番号4、J1の34試合3得点、ACL9試合0得点"
+          ],
+          "caveat": "身体値は2018年のもの。2015年の成績と背番号は年度別表から使用。",
+          "game_values_verified": false
+        },
+        {
+          "id": "suzuki_image_1",
+          "publisher": "Getty Images",
+          "url": "https://www.gettyimages.com/detail/news-photo/daisuke-suzuki-kashiwa-reysol-in-action-during-the-afc-news-photo/474779564",
+          "image_url": "https://media.gettyimages.com/id/474779564/photo/kashiwa-japan-daisuke-suzuki-kashiwa-reysol-in-action-during-the-afc-champions-league-round-of.jpg?s=612x612&w=gi&k=20&c=Js0Zpyu8hyBRxrOxC5n4xrGawRhzy_xV7LgFbGimjWs=",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Masashi Hara editorial caption identifies Daisuke Suzuki. Medium dark swept-back hair held by thin black headband, longer nape, fine mustache and short goatee/jaw stubble, broad cheek and jaw. Yellow2015 Yonex home kit with red-orange shoulder/cuff accents, blackHITACHI Inspire the Next and clearly visible4."
+          ],
+          "caveat": "ACL home match uses competition sleeve patches; generated shirt can approximate rather than reproduce official J1 sleeve markings. Exact November22 appearance unverified; source is May26.",
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "柏公式の2018年復帰発表で生年月日と182cm・74kg、年度別表で2015年の背番号4・J1の34試合3得点・ACL9試合を確認。身体値は2018年資料の仮適用で、2015年登録値は未照合。年齢25歳は2015年11月22日時点。右利き・シャツネームは当年一次資料照合待ち。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存30人と同じ形式で、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査。PS4の項目・選択肢・範囲は実機未照合。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "2015年の登録身体値・利き足・シャツネームの当年一次資料",
+          "スパイクのモデル・色、各試合の着こなし"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "鈴木",
+        "大輔"
+      ]
+    },
+    {
+      "positions": {
+        "status": "独自設定・PS4実機未確認",
+        "items": [
+          {
+            "position": "LSB",
+            "main": true,
+            "suitability": "適性あり"
+          },
+          {
+            "position": "RSB",
+            "main": false,
+            "suitability": "適性あり"
+          }
+        ],
+        "other_positions": "なし",
+        "usage_note": "左サイドを中心に上下動し、外側からのクロスと右足で内側へつなぐプレーを想定。右サイドにも適性を持たせ、左で起用しても右利きの設定を維持します。"
+      },
+      "ability_ratings": {
+        "status": "対象シーズンを再現する独自査定。公式ゲームデータではありません。",
+        "items": [
+          {
+            "key": "offensive_awareness",
+            "label": "オフェンスセンス",
+            "value": 72
+          },
+          {
+            "key": "ball_control",
+            "label": "ボールコントロール",
+            "value": 77
+          },
+          {
+            "key": "dribbling",
+            "label": "ドリブル",
+            "value": 77
+          },
+          {
+            "key": "tight_possession",
+            "label": "ボールキープ",
+            "value": 74
+          },
+          {
+            "key": "low_pass",
+            "label": "グラウンダーパス",
+            "value": 75
+          },
+          {
+            "key": "lofted_pass",
+            "label": "フライパス",
+            "value": 78
+          },
+          {
+            "key": "finishing",
+            "label": "決定力",
+            "value": 59
+          },
+          {
+            "key": "heading",
+            "label": "ヘディング",
+            "value": 64
+          },
+          {
+            "key": "set_piece_taking",
+            "label": "プレースキック",
+            "value": 59
+          },
+          {
+            "key": "curl",
+            "label": "カーブ",
+            "value": 72
+          },
+          {
+            "key": "speed",
+            "label": "スピード",
+            "value": 81
+          },
+          {
+            "key": "acceleration",
+            "label": "瞬発力",
+            "value": 78
+          },
+          {
+            "key": "kicking_power",
+            "label": "キック力",
+            "value": 72
+          },
+          {
+            "key": "jump",
+            "label": "ジャンプ",
+            "value": 70
+          },
+          {
+            "key": "physical_contact",
+            "label": "フィジカルコンタクト",
+            "value": 72
+          },
+          {
+            "key": "balance",
+            "label": "ボディコントロール",
+            "value": 75
+          },
+          {
+            "key": "stamina",
+            "label": "スタミナ",
+            "value": 86
+          },
+          {
+            "key": "defensive_awareness",
+            "label": "ディフェンスセンス",
+            "value": 71
+          },
+          {
+            "key": "ball_winning",
+            "label": "ボール奪取",
+            "value": 73
+          },
+          {
+            "key": "aggression",
+            "label": "アグレッシブネス",
+            "value": 77
+          },
+          {
+            "key": "gk_awareness",
+            "label": "GKセンス",
+            "value": 40
+          },
+          {
+            "key": "gk_catching",
+            "label": "キャッチング",
+            "value": 40
+          },
+          {
+            "key": "gk_clearing",
+            "label": "クリアリング",
+            "value": 40
+          },
+          {
+            "key": "gk_reflexes",
+            "label": "コラプシング",
+            "value": 40
+          },
+          {
+            "key": "gk_reach",
+            "label": "ディフレクティング",
+            "value": 40
+          }
+        ],
+        "other_items": [
+          {
+            "key": "weak_foot_usage",
+            "label": "逆足頻度",
+            "value": 3
+          },
+          {
+            "key": "weak_foot_accuracy",
+            "label": "逆足精度",
+            "value": 3
+          },
+          {
+            "key": "form",
+            "label": "コンディション安定度",
+            "value": 7
+          },
+          {
+            "key": "injury_resistance",
+            "label": "ケガ耐性",
+            "value": 2
+          }
+        ],
+        "rationale": "スピード81・スタミナ86・フライパス78で上下動とクロスを中心に設定。ドリブル77で自分でも運べるようにし、逆足頻度・精度は3。中央の守備専門選手ほど守備値を高くしない独自査定です。",
+        "injury_resistance_note": "ゲーム内バランス上の独自設定。負傷の医学的評価や公式ゲーム値ではない。",
+        "overall_rating": null,
+        "overall_rating_status": "PS4実機未計算。推測で補完しない。"
+      },
+      "body": {
+        "status": "身長・体重の当年確認状況はプロフィールを参照。調整値は実機未確認の仮設定。",
+        "height_cm": 182,
+        "weight_kg": 74,
+        "note": "長めの脚と細めの腰を目安に、サイドを上下動するすっきりした体形。身体値は2015年資料の仮適用、調整値は実機未確認。",
+        "adjustments": [
+          {
+            "key": "neck_length",
+            "label": "首の長さ",
+            "value": 0
+          },
+          {
+            "key": "neck_width",
+            "label": "首の太さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_height",
+            "label": "肩の高さ",
+            "value": 0
+          },
+          {
+            "key": "shoulder_width",
+            "label": "肩幅",
+            "value": 0
+          },
+          {
+            "key": "chest_thickness",
+            "label": "胸の厚さ",
+            "value": 0
+          },
+          {
+            "key": "waist_size",
+            "label": "腰の太さ",
+            "value": -1
+          },
+          {
+            "key": "arm_size",
+            "label": "腕の太さ",
+            "value": 0
+          },
+          {
+            "key": "thigh_size",
+            "label": "フトモモの太さ",
+            "value": 0
+          },
+          {
+            "key": "calf_size",
+            "label": "ふくらはぎの太さ",
+            "value": 0
+          },
+          {
+            "key": "leg_length",
+            "label": "足の長さ",
+            "value": 1
+          },
+          {
+            "key": "arm_length",
+            "label": "腕の長さ",
+            "value": 0
+          }
+        ]
+      },
+      "face": {
+        "status": "実機未確認の仮設定。数値は外見調整の開始案であり、パーツ番号は未登録。",
+        "base_part_type_numbers_confirmed": false,
+        "base_part_type_numbers": null,
+        "target_features": "やや長い卵形、細い目と緩く角度のある眉、頬とあごの細い線。2008年の中長髪を分けて後ろへ流し、もみあげを残す案です。",
+        "part_guidance": [
+          {
+            "key": "skin",
+            "label": "肌",
+            "guidance": "自然な肌色で軽い日焼け感"
+          },
+          {
+            "key": "upper_eyelid",
+            "label": "上まぶた",
+            "guidance": "細めの横長で目尻に少し角度"
+          },
+          {
+            "key": "lower_eyelid",
+            "label": "下まぶた",
+            "guidance": "ふくらみを抑えた形"
+          },
+          {
+            "key": "eye_color",
+            "label": "瞳",
+            "guidance": "濃い茶色"
+          },
+          {
+            "key": "eyebrows",
+            "label": "眉",
+            "guidance": "緩い角度で中程度の太さ"
+          },
+          {
+            "key": "nose",
+            "label": "鼻",
+            "guidance": "鼻筋を細くし、鼻先に丸み"
+          },
+          {
+            "key": "upper_lip",
+            "label": "上唇",
+            "guidance": "薄め"
+          },
+          {
+            "key": "lower_lip",
+            "label": "下唇",
+            "guidance": "上唇より少し厚くする"
+          },
+          {
+            "key": "cheeks",
+            "label": "頬",
+            "guidance": "頬を張りすぎず輪郭を絞る"
+          },
+          {
+            "key": "chin",
+            "label": "あご",
+            "guidance": "細くなるが尖りすぎない形"
+          }
+        ],
+        "adjustment_basis": "顔の特徴へ寄せるための独自の開始値。PS4実機の項目名・範囲・再現結果は未確認。",
+        "adjustments": [
+          {
+            "key": "head_length",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の長さ",
+            "value": 2
+          },
+          {
+            "key": "head_width",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の幅",
+            "value": -1
+          },
+          {
+            "key": "head_depth",
+            "group": "肌の色／頭部の比率",
+            "label": "頭の奥行き",
+            "value": 0
+          },
+          {
+            "key": "face_vertical_position",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の縦位置",
+            "value": 0
+          },
+          {
+            "key": "face_size",
+            "group": "肌の色／頭部の比率",
+            "label": "顔の大きさ",
+            "value": 0
+          },
+          {
+            "key": "iris_size",
+            "group": "目",
+            "label": "瞳の大きさ",
+            "value": -1
+          },
+          {
+            "key": "eyebrow_thickness",
+            "group": "額／眉",
+            "label": "眉の太さ",
+            "value": 0
+          },
+          {
+            "key": "eyebrow_density",
+            "group": "額／眉",
+            "label": "眉の濃さ",
+            "value": 1
+          },
+          {
+            "key": "lip_height",
+            "group": "口",
+            "label": "唇の縦幅",
+            "value": -1
+          },
+          {
+            "key": "lip_width",
+            "group": "口",
+            "label": "唇の横幅",
+            "value": 1
+          },
+          {
+            "key": "cheekbone_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "ほお骨の張り",
+            "value": 0
+          },
+          {
+            "key": "chin_width",
+            "group": "ほお／あご／エラ",
+            "label": "あごの横幅",
+            "value": -1
+          },
+          {
+            "key": "jaw_prominence",
+            "group": "ほお／あご／エラ",
+            "label": "エラの張り",
+            "value": -1
+          }
+        ],
+        "unlisted_numeric_adjustments": null,
+        "unlisted_adjustments_caveat": "未記載の調整値・パーツ番号は登録しない。0による一括補完はしない。",
+        "verification_caveat": "項目名・選択肢・設定範囲は実機未照合。実際の画面と異なる場合は推測で対応させず、未確認として残す。"
+      },
+      "hair": {
+        "status": "再現年度の外観を目安にした実機未確認の仮設定。外観資料はimages.reference_generationに記録。",
+        "target": "2008年4月5日の写真を基準に、暗いミディアムからロングの髪を中央から少しずらして分け、後ろへ流し、もみあげを残します。",
+        "items": [
+          {
+            "key": "overall_shape",
+            "label": "全体の形状",
+            "value": "通常"
+          },
+          {
+            "key": "length",
+            "label": "長さ",
+            "value": "ミディアム〜ロング"
+          },
+          {
+            "key": "wave_level",
+            "label": "ウェーブレベル",
+            "value": 1
+          },
+          {
+            "key": "front_shape",
+            "label": "前髪の形状",
+            "value": "後ろへ流す"
+          },
+          {
+            "key": "parting",
+            "label": "分け目",
+            "value": "中央から少しずらす"
+          },
+          {
+            "key": "forehead_width",
+            "label": "おでこの幅",
+            "value": "額を出す"
+          },
+          {
+            "key": "side_back",
+            "label": "横・後ろ",
+            "value": "もみあげと襟足に長さを残す"
+          },
+          {
+            "key": "color",
+            "label": "髪の色",
+            "value": "黒に近い暗い茶色"
+          },
+          {
+            "key": "accessory",
+            "label": "アクセサリー",
+            "value": "なし"
+          }
+        ]
+      },
+      "beard": {
+        "status": "外見の参考案。形状番号・選択肢は実機未確認。",
+        "items": [
+          {
+            "key": "shape",
+            "label": "ヒゲの形",
+            "value": "なし"
+          },
+          {
+            "key": "color",
+            "label": "ヒゲの色",
+            "value": "黒"
+          },
+          {
+            "key": "density",
+            "label": "ヒゲの濃さ",
+            "value": "なし"
+          }
+        ]
+      },
+      "kit": {
+        "status": "対象シーズン向けの着こなし案。着用モデルや毎試合の状態を確定したものではありません。",
+        "items": [
+          {
+            "key": "sleeves",
+            "label": "袖",
+            "value": "半袖"
+          },
+          {
+            "key": "shirt_tail",
+            "label": "シャツの裾",
+            "value": "パンツの外に出す"
+          },
+          {
+            "key": "socks",
+            "label": "ソックス",
+            "value": "標準"
+          },
+          {
+            "key": "boots",
+            "label": "スパイク",
+            "value": "2008年4月の写真を目安に、白地に赤と黒の配色。具体的モデルは未確認"
+          }
+        ]
+      },
+      "id": "toru-araiba-2008-kashima-antlers",
+      "name": "新井場 徹",
+      "name_kana": "あらいば とおる",
+      "name_english": "TORU ARAIBA",
+      "shirt_name": "ARAIBA",
+      "nationality": "日本",
+      "era": {
+        "year": 2008,
+        "season": "2008",
+        "label": "2008年・鹿島アントラーズ",
+        "club": "鹿島アントラーズ",
+        "selection_reason": "鹿島でJ1の30試合2得点を記録し、リーグ連覇に貢献した2008年版。左サイドを主な持ち場に、攻撃参加とクロス、右足を使った内側への展開を再現します。",
+        "reason_source_ids": [
+          "araiba_jleague_records",
+          "araiba_season_records"
+        ],
+        "source_check_status": "承認済み候補の順で追加。当年資料と前後年資料、未確認項目を区別。"
+      },
+      "profile": {
+        "age": 29,
+        "height_cm": 182,
+        "weight_kg": 74,
+        "dominant_foot": "右",
+        "main_position": "LSB",
+        "shirt_number": 7,
+        "source_status": "生年月日と182cm・74kgは2015年のセレッソ公式引退発表で確認。身体値は後年資料の仮適用で、2008年登録値は未照合。Jリーグ公式記録で2008年J1の30試合2得点を確認。年齢29歳は2008年12月6日時点。背番号7は2008年4月5日の写真で確認。右利き・シャツネームは当年登録資料との照合待ち。",
+        "birth_date": "1979-07-12",
+        "age_reference_date": "2008-12-06",
+        "height_weight_verified_for_era": false
+      },
+      "play_style": {
+        "status": "独自設定・PS4実機未確認",
+        "value": "攻撃的サイドバック",
+        "reason": "左サイドを中心に上下動し、外側からのクロスと右足で内側へつなぐプレーを想定。右サイドにも適性を持たせ、左で起用しても右利きの設定を維持します。"
+      },
+      "player_skills": {
+        "status": "独自設定。PS4版2020日本語メニューとの実機照合は未実施。",
+        "items": [
+          {
+            "name": "ピンポイントクロス",
+            "purpose": "サイドから味方に合わせるボール"
+          },
+          {
+            "name": "ワンタッチパス",
+            "purpose": "サイドでの素早い連係"
+          },
+          {
+            "name": "アウトスピンキック",
+            "purpose": "右足での多方向への配球の表現"
+          },
+          {
+            "name": "インターセプト",
+            "purpose": "サイドのパスコースを読む"
+          }
+        ],
+        "other_skills": "追加しない"
+      },
+      "com_play_styles": {
+        "status": "独自設定",
+        "items": [
+          {
+            "name": "アーリークロサー",
+            "enabled": true
+          }
+        ],
+        "other_styles_enabled": false
+      },
+      "images": {
+        "in_game_front": null,
+        "in_game_side": null,
+        "ai_reference": "./assets/araiba-2008-reference.webp",
+        "display_label_when_empty": "完成見本未登録",
+        "display_mode": "ai_reference",
+        "reference_notice": "参考イメージ・実機の再現結果ではありません",
+        "reference_description": "2008年の新井場 徹を想定した正面・横顔のAI参考画像。",
+        "rules": [
+          "実機スクリーンショットではない。",
+          "提示数値から作った画像ではなく、同じ顔になる保証はない。",
+          "画像区分・注意事項はJSONに保持。"
+        ],
+        "reference_generation": {
+          "tool": "image_gen",
+          "created_at": "2026-09-17",
+          "prompt": "Use case: stylized-concept. Asset: accurate football player face-edit reference for a PS4-era Winning Eleven 2020 catalog. Generate exactly ONE landscape image, 1536 by 1024 pixels, divided into TWO equal 768-pixel vertical panels side by side, with an unobtrusive straight seam at x=768. The SAME person appears twice. LEFT panel: perfectly straight-on frontal head AND torso, nose centered, both ears symmetric. RIGHT panel: STRICT true 90-degree right-facing side profile, nose pointing directly to the right edge; head AND torso rotated a full 90 degrees; visible near eye only, absolutely no far eye, no opposite cheek, no three-quarter angle. Match head scale, eye height and chin height across panels. Fit entire head, all hair, ears, chin, neck, both shoulders for front and near shoulder for profile, plus upper chest comfortably within each panel with generous margins. Neutral calm expression, closed mouth, level gaze, no grin. Plain consistent muted gray-blue background. Natural realistic PS4-era football-game 3D character render, recognizably polygon-game skin and hair shading with restrained detail, NOT a photograph, NOT anime, NOT a glossy toy, NOT a fashion model. Respect actual individual facial proportions, irregularities and age; do not beautify or replace with a generic handsome face. Soft even studio lighting. No text labels, player names, captions, watermarks, UI, frames, extra people or accessories. Era-accurate club home jersey with authentic colors, collar, panels and chest insignia as visible in the kit reference; no imaginary sponsors. The source photos are visual references only: render a NEW neutral two-view model, do not reproduce their poses, background, action, watermark or caption.\n\nSubject: Japanese footballer Toru Araiba (新井場徹), age29 at2008-12-06, Kashima Antlers2008. Sole identity/hair/home-kit reference is J.LEAGUE/Getty photo at Kashima on April5 2008. Reproduce the red-and-navy number7 player. Medium-long dark brown-black hair, off-center part, swept back in long layers, substantial hair behind ears down onto upper nape, natural sideburns; no buzzcut, no ponytail and no modern fade. Lean elongated face, distinct strong cheekbones, relatively narrow eyes with heavy lids, long projecting nose and slender lips, angular chin; clean-shaven apart from faint natural shadow. Wear EXACTLY 2008 Kashima Antlers Nike HOME kit as shown: wide alternating deep-red and very-dark-navy horizontal hoops, dark navy collar, small yellow Nike swoosh on right chest, Antlers crest on left, white TOSTEM chest sponsor with green/turquoise emblem. No modern solid-red kit. Keep his individual older-era features.",
+          "generation_count": 1,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "period": "2008",
+          "uniform": {
+            "club": "鹿島アントラーズ",
+            "season": "2008",
+            "type": "ホーム",
+            "description": "2008年鹿島ホーム。赤と濃紺の太い横しま、ナイキ、トステム。背番号7。"
+          },
+          "sources": [
+            {
+              "source_page_url": "https://www.gettyimages.com/detail/news-photo/toru-araiba-of-kashima-antlers-in-action-during-the-j-news-photo/1370976079",
+              "image_url": "https://media.gettyimages.com/id/1370976079/photo/kashima-antlers-v-jef-united-chiba-j-league-j1.jpg?s=594x594&w=gi&k=20&c=LRarP2PxGr73LN-nv2gKJAh2M3Xtf47s5x6d4ZkxhKw=",
+              "publisher": "J.LEAGUE via Getty Images",
+              "publication_date": "2022-02-16",
+              "date_basis": "Getty metadata dateSubmitted2022-02-16; dateCreated and caption explicitly identify2008-04-05 Kashima v JEF at Kashima.",
+              "observations": "Araiba number7 visibly confirmed. Medium-long dark swept-back layered hair and off-center part, long sideburns/nape, lean angular face, apparently clean-shaven. Red/navy broad horizontal Nike home hoops, yellow swoosh, whiteTOSTEM with turquoise/green emblem.",
+              "uncertainty": "April2008 rather than targetDecember6; face is small and partly downturned. Exact facial profile, collar construction and patch details not fully resolved."
+            }
+          ],
+          "limitations": [
+            "Single-pass AI reconstruction from researched period photographs, not a measured head scan or an authenticated game model.",
+            "Strict90-degree profile and full90-degree torso rotation were requested; heads show one near eye and a right-facing profile, but torso chest planes remain slightly visible, so exact90-degree rotation is not guaranteed.",
+            "Naturalistic output is more photographic than strongly recognizable PS4 game shading; no style correction or retry was performed.",
+            "Hair/head/chin/neck are fully framed. Front shoulder or sleeve edges meet the panel borders; complete shoulder-width margins are imperfect.",
+            "Club crests, sponsor typography, collar seams and sleeve patches are generated approximations; not exact official uniform artwork.",
+            "Fine likeness/profile reconstructed from a small downturned face in the sole period source; identity fidelity is uncertain.",
+            "Generated polo-style collar and sponsor block are approximations; collar was not fully resolved in source."
+          ],
+          "qa": {
+            "inspected": true,
+            "dimensions_verified_from_png_header": true,
+            "two_equal_panels": true,
+            "front_and_right_profile": true,
+            "near_eye_only_in_profile": true,
+            "neutral_closed_mouth": true,
+            "full_hair_head_chin_neck": true,
+            "period_hair_and_home_colors_present": true,
+            "no_caption_watermark_ui": true,
+            "exact_torso_90_degrees": "not guaranteed; slight chest plane visible",
+            "style": "naturalistic; more photographic than distinct PS4 shading",
+            "notes": [
+              "Fine likeness/profile reconstructed from a small downturned face in the sole period source; identity fidelity is uncertain.",
+              "Generated polo-style collar and sponsor block are approximations; collar was not fully resolved in source."
+            ]
+          },
+          "is_in_game_screenshot": false
+        }
+      },
+      "sources": [
+        {
+          "id": "araiba_cerezo_2015",
+          "publisher": "セレッソ大阪公式",
+          "url": "https://www.cerezo.jp/news/2015-01-19-4/",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2015年1月19日の引退発表：1979年7月12日生、182cm・74kg",
+            "2004〜2012年に鹿島在籍"
+          ],
+          "caveat": "身体値は2015年。2008年の登録値とは区別する。",
+          "game_values_verified": false
+        },
+        {
+          "id": "araiba_jleague_records",
+          "publisher": "Jリーグ公式データサイト",
+          "url": "https://data.j-league.or.jp/SFIX04/?player_id=2537",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "2008年J1の30試合2得点"
+          ],
+          "caveat": "年度別の出場記録を使用。ゲーム能力値の出典ではない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "araiba_season_records",
+          "publisher": "Wikipedia（英語版）",
+          "url": "https://en.wikipedia.org/wiki/Toru_Araiba",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "鹿島在籍時の2007・2008・2009年J1優勝"
+          ],
+          "caveat": "優勝歴の二次資料。利き足・当年身体値の確認には使用しない。",
+          "game_values_verified": false
+        },
+        {
+          "id": "araiba_image_1",
+          "publisher": "J.LEAGUE via Getty Images",
+          "url": "https://www.gettyimages.com/detail/news-photo/toru-araiba-of-kashima-antlers-in-action-during-the-j-news-photo/1370976079",
+          "image_url": "https://media.gettyimages.com/id/1370976079/photo/kashima-antlers-v-jef-united-chiba-j-league-j1.jpg?s=594x594&w=gi&k=20&c=LRarP2PxGr73LN-nv2gKJAh2M3Xtf47s5x6d4ZkxhKw=",
+          "checked_in_this_transfer": true,
+          "checked_at": "2026-09-17",
+          "checked_for": [
+            "Araiba number7 visibly confirmed. Medium-long dark swept-back layered hair and off-center part, long sideburns/nape, lean angular face, apparently clean-shaven. Red/navy broad horizontal Nike home hoops, yellow swoosh, whiteTOSTEM with turquoise/green emblem."
+          ],
+          "caveat": "April2008 rather than targetDecember6; face is small and partly downturned. Exact facial profile, collar construction and patch details not fully resolved.",
+          "game_values_verified": false
+        }
+      ],
+      "edit_notes": [
+        "生年月日と182cm・74kgは2015年のセレッソ公式引退発表で確認。身体値は後年資料の仮適用で、2008年登録値は未照合。Jリーグ公式記録で2008年J1の30試合2得点を確認。年齢29歳は2008年12月6日時点。背番号7は2008年4月5日の写真で確認。右利き・シャツネームは当年登録資料との照合待ち。",
+        "能力は独自査定。顔・体形・髪型・着こなしは実機未確認の仮設定。画像は参考イメージで、提示数値による実機完成見本ではありません。"
+      ],
+      "verification": {
+        "ps4_checked": false,
+        "overall_rating_calculated": false,
+        "face_parts_confirmed": false,
+        "range_status": "既存30人と同じ形式で、能力40〜99・逆足1〜4・安定度1〜8・ケガ耐性1〜3の暫定整合検査。PS4の項目・選択肢・範囲は実機未照合。",
+        "pending": [
+          "PS4版2020実機の項目・範囲・スキル選択肢・顔パーツ番号",
+          "2008年の登録身体値・利き足・シャツネームの当年登録資料照合",
+          "2008年優勝の一次資料照合",
+          "スパイクのモデル・色、各試合の着こなし"
+        ],
+        "approval": "今回新規作成。実機未確認。"
+      },
+      "display_name_parts": [
+        "新井場",
+        "徹"
+      ]
     }
   ],
   "catalog": {
     "title": "ウイイレ2020 日本代表エディット図鑑",
-    "version": "1.11.0",
-    "updated_at": "2026-09-17T10:21:51.911410+00:00",
+    "version": "1.12.0",
+    "updated_at": "2026-09-17T23:43:22.753876+00:00",
     "site_project_id": "appgprj_6aa9d6dd0e8481918a538a8d49a4ab2d",
     "registration_order": [
       {
@@ -20485,6 +23957,31 @@
         "player_id": "sho-ito-2018-yokohama-f-marinos",
         "order": 30,
         "added_at": "2026-09-17T10:21:51.911410+00:00"
+      },
+      {
+        "player_id": "takahiro-ogihara-2024-vissel-kobe",
+        "order": 31,
+        "added_at": "2026-09-17T23:43:22.753876+00:00"
+      },
+      {
+        "player_id": "hotaru-yamaguchi-2017-cerezo-osaka",
+        "order": 32,
+        "added_at": "2026-09-17T23:43:22.753876+00:00"
+      },
+      {
+        "player_id": "shuhei-terada-2008-kawasaki-frontale",
+        "order": 33,
+        "added_at": "2026-09-17T23:43:22.753876+00:00"
+      },
+      {
+        "player_id": "daisuke-suzuki-2015-kashiwa-reysol",
+        "order": 34,
+        "added_at": "2026-09-17T23:43:22.753876+00:00"
+      },
+      {
+        "player_id": "toru-araiba-2008-kashima-antlers",
+        "order": 35,
+        "added_at": "2026-09-17T23:43:22.753876+00:00"
       }
     ],
     "change_history": [
@@ -20724,6 +24221,25 @@
           "能力は独自査定、外見は実機未確認。資料の年と確認範囲を区別し、総合値・未確認の顔パーツ番号はnullを維持。",
           "27人版は確認OKを受けGitHub Pages公開済み。今回の30人版は確認用。確認OK後に同じ公開先を更新。"
         ]
+      },
+      {
+        "version": "1.12.0",
+        "date": "2026-09-17T23:43:22.753876+00:00",
+        "player_ids": [
+          "takahiro-ogihara-2024-vissel-kobe",
+          "hotaru-yamaguchi-2017-cerezo-osaka",
+          "shuhei-terada-2008-kawasaki-frontale",
+          "daisuke-suzuki-2015-kashiwa-reysol",
+          "toru-araiba-2008-kashima-antlers"
+        ],
+        "changes": [
+          "第8回：扇原貴宏2024・山口蛍2017・寺田周平2008・鈴木大輔2015・新井場徹2008を順に追加。予定35人が揃った確認版。",
+          "既存30人の全項目・画像・登録順を保持。",
+          "25能力・逆足等4項目・適性・スタイル・スキル・COM・体形・顔・髪型・ヒゲ・着こなしを個別作成。",
+          "正面・横顔の参考画像を各選手1回ずつ生成。当時の所属クラブのホームユニフォーム。",
+          "能力は独自査定、外見は実機未確認。資料の年と確認範囲を区別し、総合値・未確認の顔パーツ番号はnullを維持。",
+          "30人版は確認OKを受けGitHub Pages公開済み。35人版は確認用。確認OK後に同じ公開先を更新。"
+        ]
       }
     ],
     "handoff_documents": [
@@ -20760,7 +24276,12 @@
         "robert-cullen-2005-jubilo-iwata": "v1.10.0新規。確認範囲と身体値の資料年はprofileおよびsourcesに記録。能力・外見はPS4実機未確認。",
         "genki-omae-2018-omiya-ardija": "v1.11.0新規。資料の時期と一次・二次資料の確認範囲はprofileおよびsourcesに記録。能力・外見はPS4実機未確認。",
         "shogo-taniguchi-2021-kawasaki-frontale": "v1.11.0新規。資料の時期と一次・二次資料の確認範囲はprofileおよびsourcesに記録。能力・外見はPS4実機未確認。",
-        "sho-ito-2018-yokohama-f-marinos": "v1.11.0新規。資料の時期と一次・二次資料の確認範囲はprofileおよびsourcesに記録。能力・外見はPS4実機未確認。"
+        "sho-ito-2018-yokohama-f-marinos": "v1.11.0新規。資料の時期と一次・二次資料の確認範囲はprofileおよびsourcesに記録。能力・外見はPS4実機未確認。",
+        "takahiro-ogihara-2024-vissel-kobe": "v1.12.0新規。資料の時期・確認範囲・身体値の仮適用はprofileおよびsourcesに記録。能力と外見はPS4実機未確認。",
+        "hotaru-yamaguchi-2017-cerezo-osaka": "v1.12.0新規。資料の時期・確認範囲・身体値の仮適用はprofileおよびsourcesに記録。能力と外見はPS4実機未確認。",
+        "shuhei-terada-2008-kawasaki-frontale": "v1.12.0新規。資料の時期・確認範囲・身体値の仮適用はprofileおよびsourcesに記録。能力と外見はPS4実機未確認。",
+        "daisuke-suzuki-2015-kashiwa-reysol": "v1.12.0新規。資料の時期・確認範囲・身体値の仮適用はprofileおよびsourcesに記録。能力と外見はPS4実機未確認。",
+        "toru-araiba-2008-kashima-antlers": "v1.12.0新規。資料の時期・確認範囲・身体値の仮適用はprofileおよびsourcesに記録。能力と外見はPS4実機未確認。"
       },
       "uniform_images": "v1.3.2：両選手の2009年FC東京公式写真でユニフォームの外観を確認。既存のプロフィール・能力・顔設定の再検証とは区別。",
       "new_players_1_4_0": "追加3名のプロフィール・成績・外観資料を確認。ゲーム能力・適性・スタイル・スキルは独自設定、顔・体形の入力範囲と再現結果は実機未確認。"
@@ -20876,6 +24397,28 @@
         ],
         "filename": "batch7-image-provenance.json",
         "content": "{\n  \"batch\": \"player-images-batch7\",\n  \"generator\": \"built-in image_gen.imagegen\",\n  \"generation_calls_total\": 3,\n  \"retries\": 0,\n  \"created_date\": \"2026-09-17\",\n  \"assets\": [\n    {\n      \"id\": \"omae\",\n      \"year\": 2018,\n      \"club\": \"Omiya Ardija\",\n      \"age\": 28,\n      \"prompt\": \"Use case: stylized-concept. Asset type: historical football player facial reference for game character modeling. Create ONE 1536x1024 landscape image, exactly two equal-width vertical panels, no extra views. LEFT: strictly frontal head and shoulders, gaze directly into camera, both eyes symmetrically visible. RIGHT: STRICT EXACT 90-DEGREE RIGHT-FACING SIDE PROFILE with the nose pointing to the image's right edge; a pure side silhouette, only ONE eye visible, no far eye, no opposite cheek, no three-quarter angle whatsoever. Rotate the entire bust exactly 90 degrees for that panel. Orthographic-like portrait cameras at eye height. Same person, same hair and kit, same head size and identical eye-line height in both panels. Entire hairstyle with comfortable top margin, chin, neck and upper chest visible in both; do not crop the top of hair or chin. Neutral relaxed closed mouth. Muted gray-blue studio backdrop, soft diffuse lighting. Realistic PS4-era football-game 3D render with visibly game-character skin shaders, sculpted polygonal form and hair cards, realistic individual likeness; not a real photograph, not a game screenshot, not cartoon. No captions, external labels, letters, UI, watermark or graphic signature. Chest club crest/manufacturer/sponsor can be subordinate simplified kit markings. The reference photos are for identity and period hair/kit only; do not copy their action pose, facial expression, background, watermark, signature or layout.\\nSubject: Genki Omae (大前元紀), Japanese association football player, age 28 in November 2018, Omiya Ardija number 10. Preserve the distinctive broad rounded cheeks, compact face, small dark eyes, relatively broad nose, fuller lower lip, sturdy compact build and neck from the attached real period photograph. Hair MUST match the late November 2018 reference: voluminous swept-up and swept-back top with light brown/ash highlights over dark roots, closely cropped darker sides, exposed forehead, no headband. Clean-shaven appearance with at most faint natural shadow. His exact 2018 Omiya HOME shirt: vivid orange Under Armour jersey, navy V-shaped neckline over thin orange inner layer, navy sleeve cuffs, subtle navy checker side panels if in frame, small orange/navy Omiya crest on his left chest. This is 2018 Omiya, not a newer club kit. Keep likeness very specifically Omae, not a generic Japanese player.\",\n      \"generation_calls\": 1,\n      \"output\": \"/workspace/scratch/165aae4b3a27/player-images-batch7/omae-2018-reference.png\",\n      \"dimensions\": {\n        \"width\": 1536,\n        \"height\": 1024\n      },\n      \"reference_paths\": [\n        \"/workspace/scratch/165aae4b3a27/player-images-batch7/period-references/omae-2018-match.jpg\"\n      ],\n      \"period_sources\": [\n        {\n          \"source_page_url\": \"https://web.gekisaka.jp/news/jleague/detail/?260054-260054-fl=\",\n          \"image_url\": \"https://f.image.geki.jp/data/image/news/2560/261000/260054/news_260054_1.jpg?time=20181125212025\",\n          \"publisher\": \"Gekisaka (Kodansha)\",\n          \"publication_date\": \"2018-11-25\",\n          \"date_basis\": \"Dated match report for 2018-11-25 Omiya v Tokyo Verdy playoff; image URL carries that date.\",\n          \"observations\": \"Downloaded and inspected; supplied to generator. Brown/ash highlighted swept-up/back top, dark short sides, no headband, minimal facial hair. Broad compact face. Orange Under Armour home shirt, navy V neck over orange inner layer, navy cuffs and checker sides.\",\n          \"uncertainty\": \"Eight days after target. Exact image capture timestamp not separately established. Editorial media, not official club portrait.\"\n        },\n        {\n          \"source_page_url\": \"https://www.soccer-king.jp/news/japan/jl/20181215/877439.html\",\n          \"image_url\": \"https://www.soccer-king.jp/wp-content/uploads/2018/12/GettyImages-970880242.jpg\",\n          \"publisher\": \"Soccer King; Getty Images\",\n          \"publication_date\": \"2018-12-15\",\n          \"date_basis\": \"Dated 2018 contract renewal article; December 2018 image upload path; capture date unstated.\",\n          \"observations\": \"Downloaded and inspected; supplementary only, not supplied to generator. Orange 2018 20th anniversary kit. Longer dark highlighted hair with thin headband differs from late November hairstyle, so late November image selected.\",\n          \"uncertainty\": \"Article and upload dates are not capture dates. Used only for supplementary kit context.\"\n        }\n      ],\n      \"qa\": {\n        \"result\": \"usable with noted limitations\",\n        \"dimensions_verified\": true,\n        \"two_equal_vertical_panels\": \"pass; central split at approximately x768\",\n        \"left_frontal\": \"pass\",\n        \"right_profile\": \"pass by visual inspection: right-facing side profile, only one eye and no opposite cheek visible; mathematical camera angle cannot be verified from pixels\",\n        \"same_identity_hair_kit\": \"pass at visual likeness level\",\n        \"head_scale_eye_line\": \"visually close and approximately matched; not mechanically landmark-verified\",\n        \"framing\": \"whole hairstyle, chin, neck and upper chest visible\",\n        \"expression\": \"neutral closed mouth\",\n        \"background_lighting\": \"muted gray-blue, soft diffuse studio light\",\n        \"external_labels_watermark\": \"none\",\n        \"style\": \"Detailed constructed render but strongly photorealistic skin/cloth; weaker than ideal PS4-era materials.\",\n        \"kit\": \"Orange/navy2018 structure retained. Crest/manufacturer enlarged and simplified; sponsor/anniversary details omitted.\"\n      },\n      \"limitations\": [\n        \"AI reconstruction, not a historical photograph or exact scan.\",\n        \"Only one image generation call; no retries or variants.\",\n        \"Profile anatomy is generated and has not been independently matched to a true side photograph.\",\n        \"Late-November source eight days after target; seasonal hairstyles varied. Pure side anatomy generated from three-quarter reference.\"\n      ],\n      \"catalog_player_id\": \"genki-omae-2018-omiya-ardija\",\n      \"catalog_asset\": \"assets/omae-2018-reference.webp\",\n      \"parent_visual_review\": \"正面と右向きの横顔、顔と髪の見切れ、2分割構図を確認。写実的な質感とユニフォーム細部の差は記録済み。PS4実機での再現結果は未確認。\"\n    },\n    {\n      \"id\": \"taniguchi\",\n      \"year\": 2021,\n      \"club\": \"Kawasaki Frontale\",\n      \"age\": 30,\n      \"prompt\": \"Use case: stylized-concept. Asset type: historical football player facial reference for game character modeling. Create ONE 1536x1024 landscape image, exactly two equal-width vertical panels, no extra views. LEFT: strictly frontal head and shoulders, gaze directly into camera, both eyes symmetrically visible. RIGHT: STRICT EXACT 90-DEGREE RIGHT-FACING SIDE PROFILE with the nose pointing to the image's right edge; a pure side silhouette, only ONE eye visible, no far eye, no opposite cheek, no three-quarter angle whatsoever. Rotate the entire bust exactly 90 degrees for that panel. Orthographic-like portrait cameras at eye height. Same person, same hair and kit, same head size and identical eye-line height in both panels. Entire hairstyle with comfortable top margin, chin, neck and upper chest visible in both; do not crop the top of hair or chin. Neutral relaxed closed mouth. Muted gray-blue studio backdrop, soft diffuse lighting. Realistic PS4-era football-game 3D render with visibly game-character skin shaders, sculpted polygonal form and hair cards, realistic individual likeness; not a real photograph, not a game screenshot, not cartoon. No captions, external labels, letters, UI, watermark or graphic signature. Chest club crest/manufacturer/sponsor can be subordinate simplified kit markings. The reference photos are for identity and period hair/kit only; do not copy their action pose, facial expression, background, watermark, signature or layout.\\nSubject: Shogo Taniguchi (谷口彰悟), Japanese association football player, age 30 on 2021-12-04, Kawasaki Frontale number 5. Attached image 1 is the official 2021 bust portrait for facial identity; image 2 is the official 2021 action photograph for the season's home shirt. Preserve his distinctive long oval angular face, straight prominent nose, defined jaw and chin, strong straight dark brows, almond dark eyes, balanced mouth and lean athletic neck. Hair: short black hair with a neat off-center side part and softly swept top, short dark sides, no facial hair. Exact 2021 Kawasaki HOME Puma jersey: bright Frontale blue body, black shoulders and sleeves, subtle thin horizontal fabric pattern and scattered thin broken black vertical brush/tick motifs seen in action reference, blue collar, small crest on his left chest; manufacturer and sponsor small/subordinate/simplified. Do not reproduce the white signature overlay from reference2. Preserve Taniguchi's real individual likeness; do not substitute a generic handsome male.\",\n      \"generation_calls\": 1,\n      \"output\": \"/workspace/scratch/165aae4b3a27/player-images-batch7/taniguchi-2021-reference.png\",\n      \"dimensions\": {\n        \"width\": 1536,\n        \"height\": 1024\n      },\n      \"reference_paths\": [\n        \"/workspace/scratch/165aae4b3a27/player-images-batch7/period-references/taniguchi-2021-bust.jpg\",\n        \"/workspace/scratch/165aae4b3a27/player-images-batch7/period-references/taniguchi-2021-official.jpg\"\n      ],\n      \"period_sources\": [\n        {\n          \"source_page_url\": \"https://www.frontale.co.jp/profile/2021/mem_05.html\",\n          \"image_url\": \"https://www.frontale.co.jp/profile/2021/image_players/mem_bust_05.jpg\",\n          \"publisher\": \"Kawasaki Frontale official\",\n          \"publication_date\": null,\n          \"date_basis\": \"Official 2021 season profile; text says data current as of 2021-02-07. Exact image publication date unstated.\",\n          \"observations\": \"Downloaded, inspected and supplied as identity reference. Side-parted short black hair, clean-shaven, long oval/angular face, strong brows, defined chin. Blue Puma home shirt, black shoulders/sleeves and blue collar. Profile gives 1991-07-15 DOB, 183cm/75kg, right foot and number5.\",\n          \"uncertainty\": \"Season authenticated; exact 2021-12-04 appearance unverified.\"\n        },\n        {\n          \"source_page_url\": \"https://www.frontale.co.jp/profile/2021/mem_05.html\",\n          \"image_url\": \"https://www.frontale.co.jp/profile/2021/image_players/mem_05_p01.jpg\",\n          \"publisher\": \"Kawasaki Frontale official; photo O.Sugawara\",\n          \"publication_date\": null,\n          \"date_basis\": \"Official 2021 gallery; embedded copyright2021. Exact match/capture date unstated.\",\n          \"observations\": \"Downloaded, inspected and supplied as kit reference. Blue body, black sleeves/shoulders, thin broken black vertical motifs, horizontal texture, blue collar. White signature overlay explicitly excluded.\",\n          \"uncertainty\": \"No exact match date established; strong season confidence.\"\n        }\n      ],\n      \"qa\": {\n        \"result\": \"usable with noted limitations\",\n        \"dimensions_verified\": true,\n        \"two_equal_vertical_panels\": \"pass; central split at approximately x768\",\n        \"left_frontal\": \"pass\",\n        \"right_profile\": \"pass by visual inspection: right-facing side profile, only one eye and no opposite cheek visible; mathematical camera angle cannot be verified from pixels\",\n        \"same_identity_hair_kit\": \"pass at visual likeness level\",\n        \"head_scale_eye_line\": \"visually close and approximately matched; not mechanically landmark-verified\",\n        \"framing\": \"whole hairstyle, chin, neck and upper chest visible\",\n        \"expression\": \"closed mouth with slight relaxed smile\",\n        \"background_lighting\": \"muted gray-blue, soft diffuse studio light\",\n        \"external_labels_watermark\": \"none\",\n        \"style\": \"Synthetic portrait with detailed skin and hair; more photographic than ideal PS4-era game material.\",\n        \"kit\": \"2021 blue/black Puma structure and broken black motifs retained. Crest/stars approximated, sponsors omitted.\"\n      },\n      \"limitations\": [\n        \"AI reconstruction, not a historical photograph or exact scan.\",\n        \"Only one image generation call; no retries or variants.\",\n        \"Profile anatomy is generated and has not been independently matched to a true side photograph.\",\n        \"Very slight relaxed smile; torso is less strictly lateral than head. Official photos establish season, not exact December4.\"\n      ],\n      \"catalog_player_id\": \"shogo-taniguchi-2021-kawasaki-frontale\",\n      \"catalog_asset\": \"assets/taniguchi-2021-reference.webp\",\n      \"parent_visual_review\": \"正面と右向きの横顔、顔と髪の見切れ、2分割構図を確認。写実的な質感とユニフォーム細部の差は記録済み。PS4実機での再現結果は未確認。\"\n    },\n    {\n      \"id\": \"ito\",\n      \"year\": 2018,\n      \"club\": \"Yokohama F. Marinos\",\n      \"age\": 30,\n      \"prompt\": \"Use case: stylized-concept. Asset type: historical football player facial reference for game character modeling. Create ONE 1536x1024 landscape image, exactly two equal-width vertical panels, no extra views. LEFT: strictly frontal head and shoulders, gaze directly into camera, both eyes symmetrically visible. RIGHT: STRICT EXACT 90-DEGREE RIGHT-FACING SIDE PROFILE with the nose pointing to the image's right edge; a pure side silhouette, only ONE eye visible, no far eye, no opposite cheek, no three-quarter angle whatsoever. Rotate the entire bust exactly 90 degrees for that panel. Orthographic-like portrait cameras at eye height. Same person, same hair and kit, same head size and identical eye-line height in both panels. Entire hairstyle with comfortable top margin, chin, neck and upper chest visible in both; do not crop the top of hair or chin. Neutral relaxed closed mouth. Muted gray-blue studio backdrop, soft diffuse lighting. Realistic PS4-era football-game 3D render with visibly game-character skin shaders, sculpted polygonal form and hair cards, realistic individual likeness; not a real photograph, not a game screenshot, not cartoon. No captions, external labels, letters, UI, watermark or graphic signature. Chest club crest/manufacturer/sponsor can be subordinate simplified kit markings. The reference photos are for identity and period hair/kit only; do not copy their action pose, facial expression, background, watermark, signature or layout.\\nSubject: Sho Ito (伊藤翔), Japanese ASSOCIATION FOOTBALL forward, age 30 on 2018-12-01, Yokohama F. Marinos number16. This is the footballer, not any baseball player. Preserve the period reference's distinctive relatively long oval face, firm jaw and chin, broad slightly flared nose, straight heavy brows, dark almond eyes, lower-lip shape and athletic long neck. Match his 2018 hair: tousled short-to-medium black hair, textured slightly spiky crown, irregular separated strands at the fringe over part of forehead, natural fuller sideburns, no extreme fade. Very faint mustache/chin stubble or shadow visible in source, not a full beard. Exact 2018 Yokohama F. Marinos HOME Adidas shirt: deep royal blue with dark tonal horizontal bands/textured stripes, rounded white collar rim with narrow red inner trim, white manufacturer mark and small team crest with three gold stars on his left chest. White shoulder/side stripe details only as appropriate and subordinate. No modern Yokohama FC kit. Preserve Ito's real individual likeness, not a generic Japanese face. Remove the source news watermark entirely.\",\n      \"generation_calls\": 1,\n      \"output\": \"/workspace/scratch/165aae4b3a27/player-images-batch7/ito-2018-reference.png\",\n      \"dimensions\": {\n        \"width\": 1536,\n        \"height\": 1024\n      },\n      \"reference_paths\": [\n        \"/workspace/scratch/165aae4b3a27/player-images-batch7/period-references/ito-2018-press.jpg\"\n      ],\n      \"period_sources\": [\n        {\n          \"source_page_url\": \"https://www.footballchannel.jp/2018/10/27/post294780/\",\n          \"image_url\": \"https://img-footballchannel.com/wordpress/assets/2018/07/20180718_ito_getty.jpg\",\n          \"publisher\": \"Football Channel; Getty Images for DAZN\",\n          \"publication_date\": \"2018-10-27\",\n          \"date_basis\": \"Dated 2018 Levain Cup article; image filename and path indicate July18,2018 but are not independent capture metadata.\",\n          \"observations\": \"Downloaded, inspected and supplied. Article identifies Sho Ito footballer. Tousled short-to-medium black hair, irregular fringe, slight mustache/chin shadow, royal/deep-blue Adidas home shirt with tonal horizontal bands, white/red collar, crest and three gold stars. Source watermark explicitly excluded.\",\n          \"uncertainty\": \"Exact capture date unverified. Season reference rather than exact December1. Official club-image searches attempted first; no usable official exact-era portrait found within bounded research.\"\n        }\n      ],\n      \"qa\": {\n        \"result\": \"usable with noted limitations\",\n        \"dimensions_verified\": true,\n        \"two_equal_vertical_panels\": \"pass; central split at approximately x768\",\n        \"left_frontal\": \"pass\",\n        \"right_profile\": \"pass by visual inspection: right-facing side profile, only one eye and no opposite cheek visible; mathematical camera angle cannot be verified from pixels\",\n        \"same_identity_hair_kit\": \"pass at visual likeness level\",\n        \"head_scale_eye_line\": \"visually close and approximately matched; not mechanically landmark-verified\",\n        \"framing\": \"whole hairstyle, chin, neck and upper chest visible\",\n        \"expression\": \"neutral closed mouth\",\n        \"background_lighting\": \"muted gray-blue, soft diffuse studio light\",\n        \"external_labels_watermark\": \"none\",\n        \"style\": \"Strongly photorealistic skin/cloth/strand detail; game-material styling weaker than requested.\",\n        \"kit\": \"Blue tonal body and white/red collar retained. Modern-looking simplified Adidas mark and only two visible shoulder stripes are deviations; crest approximated, sponsors omitted.\"\n      },\n      \"limitations\": [\n        \"AI reconstruction, not a historical photograph or exact scan.\",\n        \"Only one image generation call; no retries or variants.\",\n        \"Profile anatomy is generated and has not been independently matched to a true side photograph.\",\n        \"Facial stubble somewhat stronger than source. July-named reference asset cannot verify exact December1 appearance. Narrow top margin at stray hairs.\"\n      ],\n      \"catalog_player_id\": \"sho-ito-2018-yokohama-f-marinos\",\n      \"catalog_asset\": \"assets/ito-2018-reference.webp\",\n      \"parent_visual_review\": \"正面と右向きの横顔、顔と髪の見切れ、2分割構図を確認。写実的な質感とユニフォーム細部の差は記録済み。PS4実機での再現結果は未確認。\"\n    }\n  ]\n}\n"
+      },
+      {
+        "player_ids": [
+          "takahiro-ogihara-2024-vissel-kobe",
+          "hotaru-yamaguchi-2017-cerezo-osaka",
+          "shuhei-terada-2008-kawasaki-frontale",
+          "daisuke-suzuki-2015-kashiwa-reysol",
+          "toru-araiba-2008-kashima-antlers"
+        ],
+        "filename": "batch8-edit-guide.md",
+        "content": "# 第8回追加・全35人確認版 v1.12.0\n\n## 対象と保持\n\n31番：扇原貴宏（2024年・ヴィッセル神戸）。32番：山口蛍（2017年・セレッソ大阪）。33番：寺田周平（2008年・川崎フロンターレ）。34番：鈴木大輔（2015年・柏レイソル）。35番：新井場徹（2008年・鹿島アントラーズ）。先に合意した候補順で追加し、予定の35人が揃った。\n\n基点は添付players-v1.11.0.jsonと一致する30人正本。既存30人の全選手オブジェクト・登録順・画像を保持。新しい5枚を画像マップへ登録する以外、画面構成は変更しない。鈴木大輔の画像変数は既存の鈴木彩艶と区別する。\n\n## 個別の設定\n\n| 選手 | 起用と能力の軸 | 外見の基準 |\n| --- | --- | --- |\n| 扇原 | DMF/CMF・プレーメイカー。グラウンダーパス84、フライパス86、キック力82。左足の展開と中盤の守備 | 2024年末の暗いサイドパート、長身で細身。黒とえんじの2024年ホームユニフォーム |\n| 山口 | DMF/CMF・ボックストゥボックス。スタミナ91、ボール奪取86、アグレッシブネス88 | 2017年7月の暗い短髪、コンパクトで厚みのある体形。ピンクのホーム、背番号10 |\n| 寺田 | CB・ビルドアップ。ディフェンス84、ヘディング83、フィジカル86 | 2008年の長髪を後ろで小さく束ねる形、細い縦長の顔。水色と黒のホーム |\n| 鈴木大輔 | CB・ハードプレス。ジャンプ86、ボール奪取83、アグレッシブネス86 | 2015年の後ろに流す黒髪と細い黒のヘアバンド、口ひげ・あごひげ。黄色のホーム |\n| 新井場 | LSB/RSB・攻撃的サイドバック。スピード81、スタミナ86、フライパス78。右利きで左を主に起用 | 2008年の後ろに流す中長髪、細めの輪郭。赤と濃紺の横しまホーム |\n\n25能力・逆足等4項目・適性・スタイル・選手スキル・COM・体形11調整・顔13調整と10項目の形状目安・髪型9項目・ヒゲ3項目・着こなし4項目を各人で設定。COMを付けない選手は空配列。GK能力40はフィールド選手向けの独自設定。総合値、顔パーツ番号、未記載の顔調整はnullを維持。0は意図した調整の開始値にだけ使用し、未確認項目の穴埋めには使わない。\n\n能力・適性・スキルは独自査定。顔・体形・髪型・選択肢・入力範囲はPS4実機未照合で、提示値から画像が算出されるわけではない。年齢は各選手のage_reference_dateから算出し、寺田は2008年末時点で33歳。\n\n## 事実の確認範囲\n\n| 選手 | 身体値と当年確認 | 成績・選定理由 | 残る確認 |\n| --- | --- | --- | --- |\n| 扇原 | 神戸の現行公式185cm・74kgを仮適用 | 同ページの2024年35試合1得点、J1・天皇杯優勝、優秀選手賞。最終節得点はJリーグ公式投稿 | 2024年身体登録値・利き足・シャツネーム等の当年登録資料 |\n| 山口 | 神戸2018年移籍発表の173cm・72kgを仮適用 | 同発表で2017年ベストイレブン。32試合2得点と二冠はWikipediaの補助確認 | 2017年身体登録値、大会成績と二冠の一次資料。背番号は写真で10と確認 |\n| 寺田 | 川崎2008年公式189cm・80kg、右利き、13番、ミズノ | 川崎2009年公式の前年欄でJ1の21試合1得点・チーム2位、国際Aマッチ4試合0得点 | シャツネームと具体的スパイクモデル、結び髪の実機部品 |\n| 鈴木大輔 | 柏2018年復帰発表の182cm・74kgを仮適用 | 同発表の2015年欄で34試合3得点・ACL9試合、4番 | 2015年身体登録値・利き足・シャツネーム |\n| 新井場 | セレッソ2015年引退発表の182cm・74kgを仮適用 | Jリーグ公式の2008年30試合2得点。優勝歴はWikipedia補助確認 | 2008年身体登録値・利き足・シャツネーム、優勝の一次資料。7番は写真確認 |\n\n資料：[扇原・神戸公式](https://www.vissel-kobe.co.jp/profile/?id=261&mode=detail)、[扇原・2024年最終節](https://x.com/J_League/status/1865664351274684476)、[山口・神戸2018年](https://www.vissel-kobe.co.jp/news/article/15614.html)、[山口・年度別表](https://en.wikipedia.org/wiki/Hotaru_Yamaguchi)、[寺田・川崎2008年](https://www.frontale.co.jp/profile/2008/mem_13.html)、[寺田・川崎2009年](https://www.frontale.co.jp/profile/2009/mem_13.html)、[鈴木・柏2018年](https://www.reysol.co.jp/news/topteam/001307.html)、[新井場・セレッソ2015年](https://www.cerezo.jp/news/2015-01-19-4/)、[新井場・Jリーグ公式](https://data.j-league.or.jp/SFIX04/?player_id=2537)、[新井場・優勝歴](https://en.wikipedia.org/wiki/Toru_Araiba)。各選手のsourcesに用途と留保を保存。\n\n## 参考画像\n\n当年写真を見て各1回、計5回生成。再生成・別案なし。正面と右向きの横顔を1枚に配置し、1536×1024から同寸WebPに変換。当時所属のホーム用を指定。神戸2024年は公式ユニフォームページで黒・えんじの1stと確認した。\n\n写真の撮影日・掲載日・服装の確認、全プロンプト、生成回数、目視確認の差はbatch8-image-provenance.jsonに記録。山口の2017年写真は10番で、後年の6番を適用しない。元写真のポーズや透かしを転載せず、新しい正面・横顔を生成。横顔の解剖的な厳密一致、スポンサー・紋章の完全再現は保証しない。各1回の条件を守り、差は記録する。\n\n画像は実機完成見本ではない。既存の表示方針を維持し、区分と注記はJSON内に保持。画面にAIバッジ、出典確認状況、空の実機画像欄や画像アップロード機能は追加しない。\n\n## 検証と公開条件\n\nデータの構造・範囲・ID・登録順・既存30人の完全一致・旧画像の保持・新画像寸法・画像マップ・出力ビルドを検査。ローカルURLに対するブラウザの制限が継続しているため、今回のHTMLの対話操作・描画の最終確認は未実施。制限の迂回は行わない。\n\n公開中は承認済み30人版v1.11.0（GitHub commit b8233d36b0c6d54e7aa4015f4a483892aaf28225、Pages workflow35286475226成功済み）。全35人版は確認用として作成し、今回の保存・出力だけで公開先は変更しない。確認OK後に従来のGitHub Pagesを更新する。Project情報源の添付は直接更新していないため、差し替え用の全35人players-v1.12.0.jsonを提出する。\n"
+      },
+      {
+        "player_ids": [
+          "takahiro-ogihara-2024-vissel-kobe",
+          "hotaru-yamaguchi-2017-cerezo-osaka",
+          "shuhei-terada-2008-kawasaki-frontale",
+          "daisuke-suzuki-2015-kashiwa-reysol",
+          "toru-araiba-2008-kashima-antlers"
+        ],
+        "filename": "batch8-image-provenance.json",
+        "content": "{\n  \"batch\": 8,\n  \"created_date\": \"2026-09-17\",\n  \"generator\": \"built-in image_gen.imagegen\",\n  \"generation_calls_total\": 5,\n  \"retries\": 0,\n  \"assets\": [\n    {\n      \"id\": \"ogihara\",\n      \"year\": 2024,\n      \"club\": \"Vissel Kobe\",\n      \"age\": 33,\n      \"prompt\": \"Use case: stylized-concept. Asset: accurate football player face-edit reference for a PS4-era Winning Eleven 2020 catalog. Generate exactly ONE landscape image, 1536 by 1024 pixels, divided into TWO equal 768-pixel vertical panels side by side, with an unobtrusive straight seam at x=768. The SAME person appears twice. LEFT panel: perfectly straight-on frontal head AND torso, nose centered, both ears symmetric. RIGHT panel: STRICT true 90-degree right-facing side profile, nose pointing directly to the right edge; head AND torso rotated a full 90 degrees; visible near eye only, absolutely no far eye, no opposite cheek, no three-quarter angle. Match head scale, eye height and chin height across panels. Fit entire head, all hair, ears, chin, neck, both shoulders for front and near shoulder for profile, plus upper chest comfortably within each panel with generous margins. Neutral calm expression, closed mouth, level gaze, no grin. Plain consistent muted gray-blue background. Natural realistic PS4-era football-game 3D character render, recognizably polygon-game skin and hair shading with restrained detail, NOT a photograph, NOT anime, NOT a glossy toy, NOT a fashion model. Respect actual individual facial proportions, irregularities and age; do not beautify or replace with a generic handsome face. Soft even studio lighting. No text labels, player names, captions, watermarks, UI, frames, extra people or accessories. Era-accurate club home jersey with authentic colors, collar, panels and chest insignia as visible in the kit reference; no imaginary sponsors. The source photos are visual references only: render a NEW neutral two-view model, do not reproduce their poses, background, action, watermark or caption.\\n\\nSubject: Japanese footballer Takahiro Ogihara (扇原貴宏), age 33 at 2024-12-08, in his 2024 Vissel Kobe season. Image 1 is December 27 2024 face/hair reference in suit, Image 2 June 1 2024 face proportions reference in white AWAY shirt (ignore that shirt), Image 3 July 27 2024 identity/action reference in black home shirt, Image 4 official 2024 HOME jersey reference. Use his late-2024 dark brown side-parted medium-short hair, slightly tousled swept strands, short natural sides and visible forehead; NO headband in this neutral late-season reference. Clean-shaven face. Preserve his long oval/slightly angular face, strong cheek plane, relatively narrow dark almond eyes, straight fairly broad nose, fairly full lips and natural chin. Wear EXACTLY the 2024 Vissel Kobe 1st HOME Asics shirt: black shoulders/upper chest with claret narrow collar trim and claret dot-gradient lower/left area, Danton diamond on right chest above Asics, Seiban above club crest on left, two gold stars, central Kobe landmark geometric motif and white Rakuten Mobile, as official Image4. The black/claret shirt IS the researched 2024 HOME kit.\",\n      \"generation_calls\": 1,\n      \"output\": \"/workspace/scratch/165aae4b3a27/player-images-batch8/ogihara-2024-reference.png\",\n      \"dimensions\": {\n        \"width\": 1536,\n        \"height\": 1024\n      },\n      \"period_sources\": [\n        {\n          \"source_page_url\": \"https://www.footballchannel.jp/2024/12/27/post657975/\",\n          \"image_url\": \"https://www.footballchannel.jp/wordpress/assets/2024/12/20241227_d079-1.jpg\",\n          \"publisher\": \"Football Channel\",\n          \"publication_date\": \"2024-12-27\",\n          \"date_basis\": \"Dated awards article and photograph at JPFA awards 2024.\",\n          \"observations\": \"Ogihara has dark brown medium-short hair with side part and swept strands, clean-shaven face, long oval face and relatively full lips; suit reference used only for identity/hair.\",\n          \"uncertainty\": \"Nineteen days after target date; not an exact December8 photograph; portrait is modest resolution.\"\n        },\n        {\n          \"source_page_url\": \"https://www.gettyimages.com/detail/news-photo/takahiro-ohgihara-of-vissel-kobe-looks-on-during-the-j-news-photo/2155596505\",\n          \"image_url\": \"https://media.gettyimages.com/id/2155596505/photo/saitama-japan-takahiro-ohgihara-of-vissel-kobe-looks-on-during-the-j-league-meiji-yasuda-j1.jpg?s=612x612&w=gi&k=20&c=R9W9e_99_6SMEeIEedAnozlI0BBV1b1ZPJgBwwRuuRo=\",\n          \"publisher\": \"Getty Images\",\n          \"publication_date\": \"2024-06-01\",\n          \"date_basis\": \"Getty editorial caption explicitly dates the photographed match; the date is image creation/event date, not necessarily original web publication.\",\n          \"observations\": \"Close facial reference: swept side-parted brown-black hair, clean-shaven, visible cheek structure, nose and lip profile. WHITE AWAY kit deliberately excluded from generation.\",\n          \"uncertainty\": \"Different month within requested season; exact target-day hair is unverified.\"\n        },\n        {\n          \"source_page_url\": \"https://www.gettyimages.com/detail/news-photo/takahiro-ogihara-of-vissel-kobe-looks-on-during-the-match-news-photo/2163928704\",\n          \"image_url\": \"https://media.gettyimages.com/id/2163928704/photo/tokyo-japan-takahiro-ogihara-of-vissel-kobe-looks-on-during-the-match-between-vissel-kobe-and.jpg?s=612x612&w=gi&k=20&c=Ozk1FXixGyH8TdFyAgqHGYGG6QWpvTqpAzWCS_7EZXc=\",\n          \"publisher\": \"Getty Images\",\n          \"publication_date\": \"2024-07-27\",\n          \"date_basis\": \"Getty editorial caption explicitly dates the photographed match; the date is image creation/event date, not necessarily original web publication.\",\n          \"observations\": \"Ogihara in black/claret2024 home shirt with central geometric design, white Asics/Rakuten Mobile, Danton and Seiban chest logos. Hair dark, swept with forehead visible.\",\n          \"uncertainty\": \"Friendly match photograph; no front jersey number6 visible in crop, so number is not photo-confirmed here.\"\n        },\n        {\n          \"source_page_url\": \"https://www.vissel-kobe.co.jp/special/uniform/2024/\",\n          \"image_url\": \"https://www.vissel-kobe.co.jp/special/uniform/2024/images/07_TOPS_FP_1st_LS.jpg\",\n          \"publisher\": \"Vissel Kobe official\",\n          \"publication_date\": null,\n          \"date_basis\": \"Official page explicitly labels2024 field-player1st/home uniform, with2024 sales schedule.\",\n          \"observations\": \"Home kit is black upper/shoulder with claret dot gradient and narrow claret neckline; white Asics, Rakuten Mobile, Seiban, Danton diamond; crest with two gold stars, central Kobe landmark geometric motif.\",\n          \"uncertainty\": \"Product image is long-sleeved; generation uses same chest design with short sleeves. Original publication day unstated.\"\n        }\n      ],\n      \"qa\": {\n        \"inspected\": true,\n        \"dimensions_verified_from_png_header\": true,\n        \"two_equal_panels\": true,\n        \"front_and_right_profile\": true,\n        \"near_eye_only_in_profile\": true,\n        \"neutral_closed_mouth\": true,\n        \"full_hair_head_chin_neck\": true,\n        \"period_hair_and_home_colors_present\": true,\n        \"no_caption_watermark_ui\": true,\n        \"exact_torso_90_degrees\": \"not guaranteed; slight chest plane visible\",\n        \"style\": \"naturalistic; more photographic than distinct PS4 shading\",\n        \"notes\": [\n          \"Late2024 appearance is based partly on December27 awards portrait,19 days after target date. Exact December8 hair remains unverified.\",\n          \"Hair and skin are highly photoreal; rendered likeness is plausible but not an identity guarantee.\"\n        ]\n      },\n      \"limitations\": [\n        \"Single-pass AI reconstruction from researched period photographs, not a measured head scan or an authenticated game model.\",\n        \"Strict90-degree profile and full90-degree torso rotation were requested; heads show one near eye and a right-facing profile, but torso chest planes remain slightly visible, so exact90-degree rotation is not guaranteed.\",\n        \"Naturalistic output is more photographic than strongly recognizable PS4 game shading; no style correction or retry was performed.\",\n        \"Hair/head/chin/neck are fully framed. Front shoulder or sleeve edges meet the panel borders; complete shoulder-width margins are imperfect.\",\n        \"Club crests, sponsor typography, collar seams and sleeve patches are generated approximations; not exact official uniform artwork.\",\n        \"Late2024 appearance is based partly on December27 awards portrait,19 days after target date. Exact December8 hair remains unverified.\",\n        \"Hair and skin are highly photoreal; rendered likeness is plausible but not an identity guarantee.\"\n      ],\n      \"catalog_player_id\": \"takahiro-ogihara-2024-vissel-kobe\",\n      \"catalog_asset\": \"assets/ogihara-2024-reference.webp\",\n      \"parent_visual_review\": \"正面と右向きの横顔、顔と髪の見切れ、2分割構図を確認。写真資料も目視。実機での再現結果は未確認。生成による差はqaとlimitationsを参照。\"\n    },\n    {\n      \"id\": \"yamaguchi\",\n      \"year\": 2017,\n      \"club\": \"Cerezo Osaka\",\n      \"age\": 27,\n      \"prompt\": \"Use case: stylized-concept. Asset: accurate football player face-edit reference for a PS4-era Winning Eleven 2020 catalog. Generate exactly ONE landscape image, 1536 by 1024 pixels, divided into TWO equal 768-pixel vertical panels side by side, with an unobtrusive straight seam at x=768. The SAME person appears twice. LEFT panel: perfectly straight-on frontal head AND torso, nose centered, both ears symmetric. RIGHT panel: STRICT true 90-degree right-facing side profile, nose pointing directly to the right edge; head AND torso rotated a full 90 degrees; visible near eye only, absolutely no far eye, no opposite cheek, no three-quarter angle. Match head scale, eye height and chin height across panels. Fit entire head, all hair, ears, chin, neck, both shoulders for front and near shoulder for profile, plus upper chest comfortably within each panel with generous margins. Neutral calm expression, closed mouth, level gaze, no grin. Plain consistent muted gray-blue background. Natural realistic PS4-era football-game 3D character render, recognizably polygon-game skin and hair shading with restrained detail, NOT a photograph, NOT anime, NOT a glossy toy, NOT a fashion model. Respect actual individual facial proportions, irregularities and age; do not beautify or replace with a generic handsome face. Soft even studio lighting. No text labels, player names, captions, watermarks, UI, frames, extra people or accessories. Era-accurate club home jersey with authentic colors, collar, panels and chest insignia as visible in the kit reference; no imaginary sponsors. The source photos are visual references only: render a NEW neutral two-view model, do not reproduce their poses, background, action, watermark or caption.\\n\\nSubject: Japanese footballer Hotaru Yamaguchi (山口蛍), age 27 at 2017-12-02, Cerezo Osaka 2017 season. Reference is dated July22 2017, published November26 2017. Use the actual number10 man shown in pink as the sole identity and kit reference. Short BLACK hair, densely textured upright slightly swept top with clearly shorter/clipped sides, NOT blond. Preserve his compact robust head, broad cheekbones and jaw, heavy straight dark brows, narrow eyes, medium broad nose, distinctive downturned mouth corners, small chin. Clean cheeks, only very faint natural chin shadow if visible, no prominent beard. Wear EXACTLY Cerezo Osaka 2017 Puma home shirt: strong cerise-pink torso and sleeves, dark navy narrow V-neck and navy upper-shoulder detailing, white Puma logo at right chest and sleeve, club crest on left chest, white YANMAR emblem and lettering on chest, small white10 below. Do not substitute 2018 number6 kit.\",\n      \"generation_calls\": 1,\n      \"output\": \"/workspace/scratch/165aae4b3a27/player-images-batch8/yamaguchi-2017-reference.png\",\n      \"dimensions\": {\n        \"width\": 1536,\n        \"height\": 1024\n      },\n      \"period_sources\": [\n        {\n          \"source_page_url\": \"https://www.nikkansports.com/soccer/news/201711260000332.html\",\n          \"image_url\": \"https://www.nikkansports.com/soccer/news/img/201711260000332-w300_0.jpg\",\n          \"publisher\": \"Nikkan Sports\",\n          \"publication_date\": \"2017-11-26\",\n          \"date_basis\": \"Caption explicitly identifies Yamaguchi and photograph date2017-07-22.\",\n          \"observations\": \"Actual Yamaguchi caption; number10 is visibly printed on pink2017 Cerezo home shirt and shorts. Black short textured upright top, short sides, strong brows/cheekbones; clean cheeks with faint dark mouth/chin shadow. Pink Puma shirt with navy collar/shoulder accents, white YANMAR.\",\n          \"uncertainty\": \"Only300x346 action photo; fine facial-hair detail, exact ear/profile geometry and precise2017-12-02 hairstyle cannot be proved from this source.\"\n        }\n      ],\n      \"qa\": {\n        \"inspected\": true,\n        \"dimensions_verified_from_png_header\": true,\n        \"two_equal_panels\": true,\n        \"front_and_right_profile\": true,\n        \"near_eye_only_in_profile\": true,\n        \"neutral_closed_mouth\": true,\n        \"full_hair_head_chin_neck\": true,\n        \"period_hair_and_home_colors_present\": true,\n        \"no_caption_watermark_ui\": true,\n        \"exact_torso_90_degrees\": \"not guaranteed; slight chest plane visible\",\n        \"style\": \"naturalistic; more photographic than distinct PS4 shading\",\n        \"notes\": [\n          \"Generated faint mustache/chin hair is more distinct than the low-resolution source can establish.\",\n          \"Source confirms2017 number10; crop never uses later number6.\"\n        ]\n      },\n      \"limitations\": [\n        \"Single-pass AI reconstruction from researched period photographs, not a measured head scan or an authenticated game model.\",\n        \"Strict90-degree profile and full90-degree torso rotation were requested; heads show one near eye and a right-facing profile, but torso chest planes remain slightly visible, so exact90-degree rotation is not guaranteed.\",\n        \"Naturalistic output is more photographic than strongly recognizable PS4 game shading; no style correction or retry was performed.\",\n        \"Hair/head/chin/neck are fully framed. Front shoulder or sleeve edges meet the panel borders; complete shoulder-width margins are imperfect.\",\n        \"Club crests, sponsor typography, collar seams and sleeve patches are generated approximations; not exact official uniform artwork.\",\n        \"Generated faint mustache/chin hair is more distinct than the low-resolution source can establish.\",\n        \"Source confirms2017 number10; crop never uses later number6.\"\n      ],\n      \"catalog_player_id\": \"hotaru-yamaguchi-2017-cerezo-osaka\",\n      \"catalog_asset\": \"assets/yamaguchi-2017-reference.webp\",\n      \"parent_visual_review\": \"正面と右向きの横顔、顔と髪の見切れ、2分割構図を確認。写真資料も目視。実機での再現結果は未確認。生成による差はqaとlimitationsを参照。\"\n    },\n    {\n      \"id\": \"suzuki\",\n      \"year\": 2015,\n      \"club\": \"Kashiwa Reysol\",\n      \"age\": 25,\n      \"prompt\": \"Use case: stylized-concept. Asset: accurate football player face-edit reference for a PS4-era Winning Eleven 2020 catalog. Generate exactly ONE landscape image, 1536 by 1024 pixels, divided into TWO equal 768-pixel vertical panels side by side, with an unobtrusive straight seam at x=768. The SAME person appears twice. LEFT panel: perfectly straight-on frontal head AND torso, nose centered, both ears symmetric. RIGHT panel: STRICT true 90-degree right-facing side profile, nose pointing directly to the right edge; head AND torso rotated a full 90 degrees; visible near eye only, absolutely no far eye, no opposite cheek, no three-quarter angle. Match head scale, eye height and chin height across panels. Fit entire head, all hair, ears, chin, neck, both shoulders for front and near shoulder for profile, plus upper chest comfortably within each panel with generous margins. Neutral calm expression, closed mouth, level gaze, no grin. Plain consistent muted gray-blue background. Natural realistic PS4-era football-game 3D character render, recognizably polygon-game skin and hair shading with restrained detail, NOT a photograph, NOT anime, NOT a glossy toy, NOT a fashion model. Respect actual individual facial proportions, irregularities and age; do not beautify or replace with a generic handsome face. Soft even studio lighting. No text labels, player names, captions, watermarks, UI, frames, extra people or accessories. Era-accurate club home jersey with authentic colors, collar, panels and chest insignia as visible in the kit reference; no imaginary sponsors. The source photos are visual references only: render a NEW neutral two-view model, do not reproduce their poses, background, action, watermark or caption.\\n\\nSubject: Japanese footballer Daisuke Suzuki (鈴木大輔), age25 at2015-11-22, Kashiwa Reysol2015. Sole reference is Masashi Hara/Getty dated May26 2015 at Kashiwa. Reproduce THIS player's face and hairstyle: medium dark-black hair swept straight backward and held with a thin BLACK headband above forehead, longer nape and sides than modern cropped hair. Robust broad angular jaw and cheekbones, medium-broad long nose, strong dark brows, relatively full lips, dark eyes. Include the visible fine mustache, small goatee/chin beard and short jaw stubble of his2015 appearance, not a full dense beard. Wear EXACTLY 2015 Kashiwa Reysol yellow HOME Yonex shirt shown: vivid bright yellow, round yellow neckline with fine dark inner piping, red-orange fine-gradient shoulder accents and red-orange sleeve cuff edge, black Yonex at right chest, Reysol crest at left, black HITACHI Inspire the Next sponsorship, number4. Preserve kit era. Neutral upright pose in both views; no running.\",\n      \"generation_calls\": 1,\n      \"output\": \"/workspace/scratch/165aae4b3a27/player-images-batch8/suzuki-2015-reference.png\",\n      \"dimensions\": {\n        \"width\": 1536,\n        \"height\": 1024\n      },\n      \"period_sources\": [\n        {\n          \"source_page_url\": \"https://www.gettyimages.com/detail/news-photo/daisuke-suzuki-kashiwa-reysol-in-action-during-the-afc-news-photo/474779564\",\n          \"image_url\": \"https://media.gettyimages.com/id/474779564/photo/kashiwa-japan-daisuke-suzuki-kashiwa-reysol-in-action-during-the-afc-champions-league-round-of.jpg?s=612x612&w=gi&k=20&c=Js0Zpyu8hyBRxrOxC5n4xrGawRhzy_xV7LgFbGimjWs=\",\n          \"publisher\": \"Getty Images\",\n          \"publication_date\": \"2015-05-26\",\n          \"date_basis\": \"Getty editorial caption explicitly dates the photographed match; the date is image creation/event date, not necessarily original web publication.\",\n          \"observations\": \"Masashi Hara editorial caption identifies Daisuke Suzuki. Medium dark swept-back hair held by thin black headband, longer nape, fine mustache and short goatee/jaw stubble, broad cheek and jaw. Yellow2015 Yonex home kit with red-orange shoulder/cuff accents, blackHITACHI Inspire the Next and clearly visible4.\",\n          \"uncertainty\": \"ACL home match uses competition sleeve patches; generated shirt can approximate rather than reproduce official J1 sleeve markings. Exact November22 appearance unverified; source is May26.\"\n        }\n      ],\n      \"qa\": {\n        \"inspected\": true,\n        \"dimensions_verified_from_png_header\": true,\n        \"two_equal_panels\": true,\n        \"front_and_right_profile\": true,\n        \"near_eye_only_in_profile\": true,\n        \"neutral_closed_mouth\": true,\n        \"full_hair_head_chin_neck\": true,\n        \"period_hair_and_home_colors_present\": true,\n        \"no_caption_watermark_ui\": true,\n        \"exact_torso_90_degrees\": \"not guaranteed; slight chest plane visible\",\n        \"style\": \"naturalistic; more photographic than distinct PS4 shading\",\n        \"notes\": [\n          \"Generated mustache/goatee and hair volume may be denser/longer than in the one May2015 reference.\",\n          \"Generated near-sleeve patch is not a faithful official competition badge; source was ACL, catalog target is season reference.\"\n        ]\n      },\n      \"limitations\": [\n        \"Single-pass AI reconstruction from researched period photographs, not a measured head scan or an authenticated game model.\",\n        \"Strict90-degree profile and full90-degree torso rotation were requested; heads show one near eye and a right-facing profile, but torso chest planes remain slightly visible, so exact90-degree rotation is not guaranteed.\",\n        \"Naturalistic output is more photographic than strongly recognizable PS4 game shading; no style correction or retry was performed.\",\n        \"Hair/head/chin/neck are fully framed. Front shoulder or sleeve edges meet the panel borders; complete shoulder-width margins are imperfect.\",\n        \"Club crests, sponsor typography, collar seams and sleeve patches are generated approximations; not exact official uniform artwork.\",\n        \"Generated mustache/goatee and hair volume may be denser/longer than in the one May2015 reference.\",\n        \"Generated near-sleeve patch is not a faithful official competition badge; source was ACL, catalog target is season reference.\"\n      ],\n      \"catalog_player_id\": \"daisuke-suzuki-2015-kashiwa-reysol\",\n      \"catalog_asset\": \"assets/suzuki-2015-reference.webp\",\n      \"parent_visual_review\": \"正面と右向きの横顔、顔と髪の見切れ、2分割構図を確認。写真資料も目視。実機での再現結果は未確認。生成による差はqaとlimitationsを参照。\"\n    },\n    {\n      \"id\": \"araiba\",\n      \"year\": 2008,\n      \"club\": \"Kashima Antlers\",\n      \"age\": 29,\n      \"prompt\": \"Use case: stylized-concept. Asset: accurate football player face-edit reference for a PS4-era Winning Eleven 2020 catalog. Generate exactly ONE landscape image, 1536 by 1024 pixels, divided into TWO equal 768-pixel vertical panels side by side, with an unobtrusive straight seam at x=768. The SAME person appears twice. LEFT panel: perfectly straight-on frontal head AND torso, nose centered, both ears symmetric. RIGHT panel: STRICT true 90-degree right-facing side profile, nose pointing directly to the right edge; head AND torso rotated a full 90 degrees; visible near eye only, absolutely no far eye, no opposite cheek, no three-quarter angle. Match head scale, eye height and chin height across panels. Fit entire head, all hair, ears, chin, neck, both shoulders for front and near shoulder for profile, plus upper chest comfortably within each panel with generous margins. Neutral calm expression, closed mouth, level gaze, no grin. Plain consistent muted gray-blue background. Natural realistic PS4-era football-game 3D character render, recognizably polygon-game skin and hair shading with restrained detail, NOT a photograph, NOT anime, NOT a glossy toy, NOT a fashion model. Respect actual individual facial proportions, irregularities and age; do not beautify or replace with a generic handsome face. Soft even studio lighting. No text labels, player names, captions, watermarks, UI, frames, extra people or accessories. Era-accurate club home jersey with authentic colors, collar, panels and chest insignia as visible in the kit reference; no imaginary sponsors. The source photos are visual references only: render a NEW neutral two-view model, do not reproduce their poses, background, action, watermark or caption.\\n\\nSubject: Japanese footballer Toru Araiba (新井場徹), age29 at2008-12-06, Kashima Antlers2008. Sole identity/hair/home-kit reference is J.LEAGUE/Getty photo at Kashima on April5 2008. Reproduce the red-and-navy number7 player. Medium-long dark brown-black hair, off-center part, swept back in long layers, substantial hair behind ears down onto upper nape, natural sideburns; no buzzcut, no ponytail and no modern fade. Lean elongated face, distinct strong cheekbones, relatively narrow eyes with heavy lids, long projecting nose and slender lips, angular chin; clean-shaven apart from faint natural shadow. Wear EXACTLY 2008 Kashima Antlers Nike HOME kit as shown: wide alternating deep-red and very-dark-navy horizontal hoops, dark navy collar, small yellow Nike swoosh on right chest, Antlers crest on left, white TOSTEM chest sponsor with green/turquoise emblem. No modern solid-red kit. Keep his individual older-era features.\",\n      \"generation_calls\": 1,\n      \"output\": \"/workspace/scratch/165aae4b3a27/player-images-batch8/araiba-2008-reference.png\",\n      \"dimensions\": {\n        \"width\": 1536,\n        \"height\": 1024\n      },\n      \"period_sources\": [\n        {\n          \"source_page_url\": \"https://www.gettyimages.com/detail/news-photo/toru-araiba-of-kashima-antlers-in-action-during-the-j-news-photo/1370976079\",\n          \"image_url\": \"https://media.gettyimages.com/id/1370976079/photo/kashima-antlers-v-jef-united-chiba-j-league-j1.jpg?s=594x594&w=gi&k=20&c=LRarP2PxGr73LN-nv2gKJAh2M3Xtf47s5x6d4ZkxhKw=\",\n          \"publisher\": \"J.LEAGUE via Getty Images\",\n          \"publication_date\": \"2022-02-16\",\n          \"date_basis\": \"Getty metadata dateSubmitted2022-02-16; dateCreated and caption explicitly identify2008-04-05 Kashima v JEF at Kashima.\",\n          \"observations\": \"Araiba number7 visibly confirmed. Medium-long dark swept-back layered hair and off-center part, long sideburns/nape, lean angular face, apparently clean-shaven. Red/navy broad horizontal Nike home hoops, yellow swoosh, whiteTOSTEM with turquoise/green emblem.\",\n          \"uncertainty\": \"April2008 rather than targetDecember6; face is small and partly downturned. Exact facial profile, collar construction and patch details not fully resolved.\"\n        }\n      ],\n      \"qa\": {\n        \"inspected\": true,\n        \"dimensions_verified_from_png_header\": true,\n        \"two_equal_panels\": true,\n        \"front_and_right_profile\": true,\n        \"near_eye_only_in_profile\": true,\n        \"neutral_closed_mouth\": true,\n        \"full_hair_head_chin_neck\": true,\n        \"period_hair_and_home_colors_present\": true,\n        \"no_caption_watermark_ui\": true,\n        \"exact_torso_90_degrees\": \"not guaranteed; slight chest plane visible\",\n        \"style\": \"naturalistic; more photographic than distinct PS4 shading\",\n        \"notes\": [\n          \"Fine likeness/profile reconstructed from a small downturned face in the sole period source; identity fidelity is uncertain.\",\n          \"Generated polo-style collar and sponsor block are approximations; collar was not fully resolved in source.\"\n        ]\n      },\n      \"limitations\": [\n        \"Single-pass AI reconstruction from researched period photographs, not a measured head scan or an authenticated game model.\",\n        \"Strict90-degree profile and full90-degree torso rotation were requested; heads show one near eye and a right-facing profile, but torso chest planes remain slightly visible, so exact90-degree rotation is not guaranteed.\",\n        \"Naturalistic output is more photographic than strongly recognizable PS4 game shading; no style correction or retry was performed.\",\n        \"Hair/head/chin/neck are fully framed. Front shoulder or sleeve edges meet the panel borders; complete shoulder-width margins are imperfect.\",\n        \"Club crests, sponsor typography, collar seams and sleeve patches are generated approximations; not exact official uniform artwork.\",\n        \"Fine likeness/profile reconstructed from a small downturned face in the sole period source; identity fidelity is uncertain.\",\n        \"Generated polo-style collar and sponsor block are approximations; collar was not fully resolved in source.\"\n      ],\n      \"catalog_player_id\": \"toru-araiba-2008-kashima-antlers\",\n      \"catalog_asset\": \"assets/araiba-2008-reference.webp\",\n      \"parent_visual_review\": \"正面と右向きの横顔、顔と髪の見切れ、2分割構図を確認。写真資料も目視。実機での再現結果は未確認。生成による差はqaとlimitationsを参照。\"\n    },\n    {\n      \"id\": \"terada\",\n      \"year\": 2008,\n      \"club\": \"Kawasaki Frontale\",\n      \"age\": 33,\n      \"prompt\": \"Use case: stylized-concept. Asset: accurate football player face-edit reference for a PS4-era Winning Eleven 2020 catalog. Generate exactly ONE landscape image, 1536 by 1024 pixels, divided into TWO equal 768-pixel vertical panels side by side, with an unobtrusive straight seam at x=768. The SAME person appears twice. LEFT panel: perfectly straight-on frontal head AND torso, nose centered, both ears symmetric. RIGHT panel: STRICT true 90-degree right-facing side profile, nose pointing directly to the right edge; head AND torso rotated a full 90 degrees; visible near eye only, absolutely no far eye, no opposite cheek, no three-quarter angle. Match head scale, eye height and chin height across panels. Fit entire head, all hair, ears, chin, neck, both shoulders for front and near shoulder for profile, plus upper chest comfortably within each panel with generous margins. Neutral calm expression, closed mouth, level gaze, no grin. Plain consistent muted gray-blue background. Natural realistic PS4-era football-game 3D character render, recognizably polygon-game skin and hair shading with restrained detail, NOT a photograph, NOT anime, NOT a glossy toy, NOT a fashion model. Respect actual individual facial proportions, irregularities and age; do not beautify or replace with a generic handsome face. Soft even studio lighting. No text labels, player names, captions, watermarks, UI, frames, extra people or accessories. Era-accurate club home jersey with authentic colors, collar, panels and chest insignia as visible in the kit reference; no imaginary sponsors. The source photos are visual references only: render a NEW neutral two-view model, do not reproduce their poses, background, action, watermark or caption.\\n\\nSubject: Japanese footballer Shuhei Terada (寺田周平), age33 at2008-12-06, Kawasaki Frontale2008. Image1 is official2008 roster portrait for facial identity, Image2 official December6 2008 action/profile photograph for tied-back hair and facial profile (WHITE AWAY shirt must be ignored), Image3 official November29 2008 home-match photograph for EXACT HOME jersey. Reproduce his distinctive long narrow mature face, high forehead, prominent long straight nose, dark narrow almond eyes, fine slightly arched brows, long angular chin and slim cheeks, warm tan skin. 2008 hair is long dark-black straight hair parted near center, tightly swept back behind both ears and tied into a SMALL LOW BUN/short tied ponytail at the upper nape; the tie/bun should be clearly visible in the strict profile. Natural sideburns; subtle fine mustache and small sparse chin/goatee hair matching roster portrait; no full beard. Wear EXACTLY the sky-blue and BLACK Asics 2008 Kawasaki Frontale HOME kit in Image3: asymmetric sky-blue player's right chest and black player's left chest/shoulder, black center/lower chest, blue side areas, round dark collar with slim pale trim; white Asics logo on right chest, Kawasaki crest on left, white FUJITSU and13. No white away kit, no modern Puma kit.\",\n      \"generation_calls\": 1,\n      \"output\": \"/workspace/scratch/165aae4b3a27/player-images-batch8/terada-2008-reference.png\",\n      \"dimensions\": {\n        \"width\": 1536,\n        \"height\": 1024\n      },\n      \"period_sources\": [\n        {\n          \"source_page_url\": \"https://www.frontale.co.jp/goto_game/2008/j_league1/34.html\",\n          \"image_url\": \"https://www.frontale.co.jp/goto_game/2008/img_kf/08_mem_13.jpg\",\n          \"publisher\": \"Kawasaki Frontale official\",\n          \"publication_date\": null,\n          \"date_basis\": \"2008 roster bust embedded in official2008-12-06 match report; file explicitly08_mem_13 and printedDF13寺田周平.\",\n          \"observations\": \"Near-frontal period identity reference: long slim face, high forehead, center-parted dark hair pulled behind ears, subtle mustache/chin hair, slim cheeks. Number13 explicit.\",\n          \"uncertainty\": \"Small portrait inside256x127 graphic; source publication date unstated. Text only used for verification, not reproduced.\"\n        },\n        {\n          \"source_page_url\": \"https://www.frontale.co.jp/goto_game/2008/j_league1/34.html\",\n          \"image_url\": \"https://www.frontale.co.jp/goto_game/2008/j_league1/img/34/gp05.jpg\",\n          \"publisher\": \"Kawasaki Frontale official / O.Suguro\",\n          \"publication_date\": null,\n          \"date_basis\": \"Official match report date2008-12-06, alt textDF13／寺田周平選手.\",\n          \"observations\": \"Exact target-day action photo: long dark hair tightly swept back into small low tied bun/short ponytail at nape. White AWAY shirt ignored for final kit; profile and hair reference only.\",\n          \"uncertainty\": \"Face is small and at an action angle, not calibrated strict profile. Publication day not separately given.\"\n        },\n        {\n          \"source_page_url\": \"https://www.frontale.co.jp/goto_game/2008/j_league1/33.html\",\n          \"image_url\": \"https://www.frontale.co.jp/goto_game/2008/j_league1/img/33/gp07.jpg\",\n          \"publisher\": \"Kawasaki Frontale official / O.Suguro\",\n          \"publication_date\": null,\n          \"date_basis\": \"Official home-match report date2008-11-29, alt textDF13／寺田周平選手.\",\n          \"observations\": \"Home kit verified: Asics sky-blue player-right chest with black player-left chest and sleeves, black center/lower areas, blue side details; whiteFUJITSU and13, clubcrest. Tied-back dark hair.\",\n          \"uncertainty\": \"Action image600x400 with small subject; fine collar seams and exact panel geometry approximate.\"\n        }\n      ],\n      \"qa\": {\n        \"inspected\": true,\n        \"dimensions_verified_from_png_header\": true,\n        \"two_equal_panels\": true,\n        \"front_and_right_profile\": true,\n        \"near_eye_only_in_profile\": true,\n        \"neutral_closed_mouth\": true,\n        \"full_hair_head_chin_neck\": true,\n        \"period_hair_and_home_colors_present\": true,\n        \"no_caption_watermark_ui\": true,\n        \"exact_torso_90_degrees\": \"not guaranteed; slight chest plane visible\",\n        \"style\": \"naturalistic; more photographic than distinct PS4 shading\",\n        \"notes\": [\n          \"Generated hair tie/bun is somewhat fuller than the small official action photograph shows.\",\n          \"Generated jersey simplifies asymmetric2008 panel geometry; blue/black halves may look more regular than actual kit.\"\n        ]\n      },\n      \"limitations\": [\n        \"Single-pass AI reconstruction from researched period photographs, not a measured head scan or an authenticated game model.\",\n        \"Strict90-degree profile and full90-degree torso rotation were requested; heads show one near eye and a right-facing profile, but torso chest planes remain slightly visible, so exact90-degree rotation is not guaranteed.\",\n        \"Naturalistic output is more photographic than strongly recognizable PS4 game shading; no style correction or retry was performed.\",\n        \"Hair/head/chin/neck are fully framed. Front shoulder or sleeve edges meet the panel borders; complete shoulder-width margins are imperfect.\",\n        \"Club crests, sponsor typography, collar seams and sleeve patches are generated approximations; not exact official uniform artwork.\",\n        \"Generated hair tie/bun is somewhat fuller than the small official action photograph shows.\",\n        \"Generated jersey simplifies asymmetric2008 panel geometry; blue/black halves may look more regular than actual kit.\"\n      ],\n      \"catalog_player_id\": \"shuhei-terada-2008-kawasaki-frontale\",\n      \"catalog_asset\": \"assets/terada-2008-reference.webp\",\n      \"parent_visual_review\": \"正面と右向きの横顔、顔と髪の見切れ、2分割構図を確認。写真資料も目視。実機での再現結果は未確認。生成による差はqaとlimitationsを参照。\"\n    }\n  ]\n}\n"
       }
     ],
     "reference_image_policy": {
@@ -20897,12 +24440,12 @@
       "provider": "GitHub",
       "repository": "sakerock911-hub/we2020-japan-edit",
       "url": "https://sakerock911-hub.github.io/we2020-japan-edit/",
-      "status": "awaiting_batch7_review",
-      "instruction": "27人版は確認OKを受けGitHub Pages公開済み。今回の30人版は確認用。確認OK後に同じ公開先へ上書き。",
+      "status": "awaiting_batch8_review",
+      "instruction": "30人版は確認OKを受けGitHub Pages公開済み。今回の35人版は確認用。確認OK後に同じ公開先へ上書き。",
       "date": "2026-09-17",
-      "published_version": "1.10.0",
-      "published_player_count": 27,
-      "published_commit": "c97db255927ff0a09995faf41bc34a62f9ee0211"
+      "published_version": "1.11.0",
+      "published_player_count": 30,
+      "published_commit": "b8233d36b0c6d54e7aa4015f4a483892aaf28225"
     }
   }
 }
